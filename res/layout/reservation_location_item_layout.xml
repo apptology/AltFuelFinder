@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:descendantFocusability="beforeDescendants" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_width="wrap_content" android:layout_height="fill_parent">
+        <ImageView android:layout_gravity="center" android:id="@id/icon_image" android:background="@drawable/comment_default_icon" android:layout_width="@dimen/thumbnail_size" android:layout_height="@dimen/thumbnail_size" android:layout_margin="5.0dip" android:layout_marginLeft="5.0dip" android:layout_marginRight="5.0dip" />
+        <ImageView android:layout_gravity="top|center" android:background="@drawable/bubble" android:layout_width="20.0dip" android:layout_height="30.0dip" android:layout_marginTop="15.0dip" />
+    </FrameLayout>
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="@dimen/info_item_row_height" android:layout_marginTop="5.0dip" android:layout_marginBottom="5.0dip" android:layout_weight="1.0">
+        <TextView android:textSize="@dimen/ordinary_text_size" android:ellipsize="end" android:id="@id/location_name_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" />
+        <TextView android:textSize="@dimen/ordinary_text_size" android:ellipsize="end" android:id="@id/location_place_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:singleLine="true" />
+        <TextView android:textSize="@dimen/ordinary_text_size" android:textColor="#ffffffff" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/location_distance" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:singleLine="true" android:drawableLeft="@drawable/bubble_small" android:drawablePadding="5.0dip" />
+    </LinearLayout>
+</LinearLayout>

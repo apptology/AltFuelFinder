@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/list_view_root" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_gravity="center_vertical" android:id="@id/tab_title_container" android:layout_width="fill_parent" android:layout_height="@dimen/tab_title_height">
+        <TextView android:gravity="center" android:id="@id/tab_title_text" android:layout_width="fill_parent" android:layout_marginLeft="5.0dip" android:layout_marginRight="0.0dip" style="@style/TabTitleTextLongStyle" />
+        <include layout="@layout/cart_animation_container" />
+    </FrameLayout>
+    <include layout="@layout/ads_layout" />
+    <FrameLayout android:id="@id/search_bar_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/tab_title_height">
+        <EditText android:textColor="#ffffffff" android:layout_gravity="center_vertical" android:id="@id/search_edit_view" android:background="@drawable/search_bar_bg" android:paddingLeft="15.0dip" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_marginLeft="20.0dip" android:layout_marginRight="20.0dip" android:hint="@string/search" android:drawableLeft="@drawable/white_small_search_icon" android:drawablePadding="@dimen/common_padding_small1" android:inputType="text" android:imeOptions="actionSearch" style="@style/OrdinaryText" />
+        <ImageView android:layout_gravity="right|center" android:id="@id/search_icon_close" android:padding="10.0dip" android:layout_width="50.0dip" android:layout_height="50.0dip" android:layout_marginRight="20.0dip" android:src="@drawable/search_close" />
+    </FrameLayout>
+    <com.biznessapps.widgets.RefreshableListView android:id="@id/list_view" android:background="@android:color/transparent" android:focusable="false" android:scrollbars="vertical" android:fadingEdge="none" android:descendantFocusability="beforeDescendants" android:layout_width="fill_parent" android:layout_height="0.0dip" android:cacheColorHint="@android:color/transparent" android:dividerHeight="0.0dip" android:layout_weight="1.0" />
+</LinearLayout>

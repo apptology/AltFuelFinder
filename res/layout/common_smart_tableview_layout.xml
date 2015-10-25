@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TableLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:minHeight="100.0dip">
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TableLayout android:id="@id/frozenTableCrossHeader" android:layout_width="wrap_content" android:layout_height="wrap_content" android:stretchColumns="1" />
+            <com.biznessapps.golfcourse.ObservableHorizontalScrollView android:id="@id/contentTableHeaderHorizontalScrollView" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TableLayout android:id="@id/fronzeTableRowHeader" android:layout_width="fill_parent" android:layout_height="wrap_content" android:stretchColumns="1" />
+            </com.biznessapps.golfcourse.ObservableHorizontalScrollView>
+        </LinearLayout>
+        <ImageView android:id="@id/ivDivider" android:layout_width="fill_parent" android:layout_height="1.0dip" android:src="@color/golf_cell_grey_bg" />
+        <ScrollView android:id="@id/verticalScrollView" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TableLayout android:id="@id/frozenTableColumnHeader" android:layout_width="wrap_content" android:layout_height="wrap_content" android:stretchColumns="1" />
+                <com.biznessapps.golfcourse.ObservableHorizontalScrollView android:id="@id/contentTableHorizontalScrollView" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <TableLayout android:id="@id/contentTable" android:layout_width="fill_parent" android:layout_height="wrap_content" android:stretchColumns="1" />
+                </com.biznessapps.golfcourse.ObservableHorizontalScrollView>
+            </LinearLayout>
+        </ScrollView>
+    </TableLayout>
+</FrameLayout>

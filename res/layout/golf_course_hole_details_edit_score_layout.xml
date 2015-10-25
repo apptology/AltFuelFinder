@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/vgRoot" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/vgOutside" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="2.0" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="3.0">
+        <LinearLayout android:gravity="center_vertical" android:id="@id/vgTitle" android:padding="@dimen/common_padding_small1" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:id="@id/tvPlayer" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="1" android:layout_weight="1.0" />
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:id="@id/tvScore" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="2-1" />
+            <ImageView android:id="@id/ivDone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/common_padding_medium" android:src="@drawable/common_ic_done" />
+        </LinearLayout>
+        <LinearLayout android:id="@id/vgSectionBar" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:gravity="center" android:id="@id/tvColumnScore" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/score" android:layout_weight="1.0" />
+            <TextView android:gravity="center" android:id="@id/tvColumnPutts" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/putts" android:layout_weight="1.0" />
+        </LinearLayout>
+        <LinearLayout android:id="@id/vgContents" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <com.biznessapps.widgets.wheel.WheelView android:id="@id/wvScore" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_weight="1.0" />
+            <com.biznessapps.widgets.wheel.WheelView android:id="@id/wvPutts" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_weight="1.0" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#fff5f5f5" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:orientation="horizontal" android:id="@id/tab_title_container" android:layout_width="fill_parent" android:layout_height="@dimen/tab_title_height">
+        <Spinner android:layout_gravity="left|center" android:id="@id/spinner_view" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="fill_parent" android:drawSelectorOnTop="true" />
+        <TextView android:textSize="@dimen/big_text_size" android:ellipsize="end" android:gravity="center" android:id="@id/tab_title_text" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="55.0dip" android:layout_marginRight="50.0dip" android:singleLine="true" />
+        <TextView android:textSize="@dimen/big_text_size" android:gravity="center_vertical" android:layout_gravity="left|center" android:id="@id/type_chooser_view" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="2.0dip" android:text="@string/all" android:drawableRight="@drawable/reseller_btn_type" android:drawablePadding="0.0dip" />
+        <ImageView android:layout_gravity="right|center" android:id="@id/exit_icon" android:paddingLeft="7.0dip" android:paddingTop="12.0dip" android:paddingRight="7.0dip" android:paddingBottom="12.0dip" android:layout_width="35.0dip" android:layout_height="45.0dip" android:src="@drawable/reseller_logout" />
+    </FrameLayout>
+    <FrameLayout android:orientation="horizontal" android:id="@id/search_container" android:focusableInTouchMode="true" android:descendantFocusability="beforeDescendants" android:layout_width="fill_parent" android:layout_height="60.0dip">
+        <EditText android:textColor="#ffffffff" android:layout_gravity="top" android:id="@id/search_edit_view" android:background="@drawable/search_bar_bg" android:paddingLeft="15.0dip" android:focusableInTouchMode="true" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_marginLeft="10.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="10.0dip" android:layout_marginBottom="10.0dip" android:hint="@string/search" android:drawableLeft="@drawable/white_small_search_icon" android:drawablePadding="15.0dip" android:inputType="text" android:imeOptions="actionDone" style="@style/OrdinaryText" />
+        <ImageView android:layout_gravity="right|center" android:id="@id/clear_search_icon" android:padding="12.0dip" android:layout_width="45.0dip" android:layout_height="45.0dip" android:layout_marginRight="10.0dip" android:src="@drawable/search_close" />
+    </FrameLayout>
+    <TextView android:textSize="@dimen/ordinary_text_size" android:textColor="#ff000000" android:ellipsize="end" android:gravity="center" android:id="@id/message_view" android:padding="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="false" />
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.biznessapps.widgets.ExtendedViewPager android:id="@id/view_pager" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/common_padding_small0" />
+        <include layout="@layout/tabs_circles_container" />
+    </FrameLayout>
+</LinearLayout>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/tab_title_bar" />
+    <include layout="@layout/ads_layout" />
+    <LinearLayout android:orientation="vertical" android:id="@id/social_root" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:id="@id/profile_container" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_marginBottom="10.0dip">
+                    <ImageView android:layout_gravity="center_vertical" android:id="@id/profile_icon_image" android:layout_width="@dimen/thumbnail_size" android:layout_height="@dimen/thumbnail_size" android:layout_marginLeft="10.0dip" />
+                    <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip" android:layout_weight="1.0">
+                        <TextView android:textSize="@dimen/ordinary_text_size" android:gravity="center_vertical" android:id="@id/profile_name_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="10.0dip" />
+                        <TextView android:textSize="@dimen/ordinary_text_size" android:gravity="center_vertical" android:id="@id/profile_label_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/connected_to_network" />
+                    </LinearLayout>
+                </LinearLayout>
+                <RelativeLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip" android:layout_marginBottom="10.0dip">
+                    <Button android:textSize="@dimen/ordinary_text_size" android:textColor="#ff000000" android:gravity="center" android:id="@id/update_status_button" android:background="@drawable/simple_button" android:layout_width="100.0dip" android:layout_height="@dimen/button_height" android:text="@string/update_status" android:layout_alignParentLeft="true" />
+                    <Button android:textSize="@dimen/ordinary_text_size" android:textColor="#ff000000" android:gravity="center" android:id="@id/share_button" android:background="@drawable/simple_button" android:layout_width="120.0dip" android:layout_height="@dimen/button_height" android:text="@string/share" android:layout_alignParentRight="true" />
+                </RelativeLayout>
+            </LinearLayout>
+            <TextView android:textSize="@dimen/ordinary_text_size" android:gravity="center" android:id="@id/social_description" android:layout_width="fill_parent" android:layout_height="@dimen/social_description_height" android:layout_marginLeft="10.0dip" android:layout_marginTop="@dimen/ads_height" android:layout_marginRight="10.0dip" android:layout_marginBottom="30.0dip" android:text="@string/social_networks_label" style="@style/OrdinaryText" />
+        </FrameLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:gravity="center" android:id="@id/messages_value_view" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="0" android:layout_weight="1.0" style="@style/OrdinaryText" />
+            <TextView android:gravity="center" android:id="@id/posts_value_view" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="0" android:layout_weight="1.4" style="@style/OrdinaryText" />
+            <TextView android:gravity="center" android:id="@id/shares_value_view" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="0" android:layout_weight="0.8" style="@style/OrdinaryText" />
+            <TextView android:gravity="center" android:id="@id/rewards_value_view" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="0" android:layout_weight="0.8" style="@style/OrdinaryText" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="5.0dip">
+            <TextView android:textSize="@dimen/small_text_size" android:gravity="center" android:id="@id/messages_text_view" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/messages" android:layout_weight="1.0" />
+            <TextView android:textSize="@dimen/small_text_size" android:gravity="center" android:id="@id/posts_text_view" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/fan_wall_posts" android:layout_weight="1.4" />
+            <TextView android:textSize="@dimen/small_text_size" android:gravity="center" android:id="@id/shares_text_view" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/shares_number" android:layout_weight="0.8" />
+            <TextView android:textSize="@dimen/small_text_size" android:gravity="center" android:id="@id/rewards_text_view" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/rewards" android:layout_weight="0.8" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:id="@id/buttons_container" android:layout_width="fill_parent" android:layout_height="@dimen/tab_title_height">
+            <Button android:id="@id/accounts_button" android:background="@drawable/top_tab_src" android:layout_width="0.0dip" android:text="@string/accounts" android:layout_weight="1.0" style="@style/TabButtonStyle" />
+            <Button android:id="@id/comments_button" android:background="@drawable/top_tab_src" android:layout_width="0.0dip" android:text="@string/my_comments" android:layout_weight="1.0" style="@style/TabButtonStyle" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/data_container" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="@dimen/ordinary_text_size" android:textStyle="bold" android:textColor="#ff000000" android:layout_gravity="center_vertical" android:id="@id/comments_label" android:padding="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/comments" style="@style/OrdinaryText" />
+            <com.biznessapps.widgets.RefreshableListView android:id="@id/list_view" android:background="@android:color/transparent" android:focusable="false" android:fadingEdge="none" android:descendantFocusability="beforeDescendants" android:layout_width="fill_parent" android:layout_height="wrap_content" android:cacheColorHint="@android:color/transparent" android:divider="@drawable/list_divider" android:dividerHeight="2.0dip" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:padding="@dimen/common_padding_small2" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.biznessapps.widgets.SquareImageView android:id="@id/ivThumbnail" android:layout_width="0.0dip" android:layout_height="wrap_content" android:src="@drawable/common_transparent_rectangle_bg" android:layout_weight="1.0" app:ratio_by_width="true" />
+    <LinearLayout android:orientation="vertical" android:padding="@dimen/common_padding_small2" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/common_padding_small1" android:layout_weight="3.0">
+        <TextView android:textSize="@dimen/ordinary_text_size" android:textStyle="bold" android:textColor="#ff000000" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/tvName" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:layout_marginBottom="10.0dip" android:text="Kananaskis Country Golf Course" android:maxLines="2" />
+        <LinearLayout android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="@dimen/font_small2" android:textColor="#ff000000" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/tvPlayers" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="2" android:singleLine="true" android:drawableLeft="@drawable/ic_players" android:drawablePadding="@dimen/common_padding_small1" android:layout_weight="1.0" />
+            <TextView android:textSize="@dimen/font_small2" android:textColor="#ff000000" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/tvCreatedDate" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Novemeber 12, 2014" android:singleLine="true" android:drawableLeft="@drawable/ic_date" android:drawablePadding="@dimen/common_padding_small1" android:layout_weight="1.0" />
+        </LinearLayout>
+    </LinearLayout>
+    <ImageView android:id="@id/ivRightArrow" android:background="@drawable/right_arrow" android:layout_width="@dimen/table_row_arrow_width" android:layout_height="@dimen/table_row_arrow_height" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip" />
+</LinearLayout>

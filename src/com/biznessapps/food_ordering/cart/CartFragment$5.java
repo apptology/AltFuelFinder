@@ -1,0 +1,26 @@
+// Decompiled by Jad v1.5.8e. Copyright 2001 Pavel Kouznetsov.
+// Jad home page: http://www.geocities.com/kpdus/jad.html
+// Decompiler options: braces fieldsfirst space lnc 
+
+package com.biznessapps.food_ordering.cart;
+
+
+// Referenced classes of package com.biznessapps.food_ordering.cart:
+//            CartFragment
+
+class e extends com.biznessapps.food_ordering.tyTask.CustomRunnable
+{
+
+    final CartFragment this$0;
+
+    public void run()
+    {
+        loadData();
+    }
+
+    k.CustomRunnable()
+    {
+        this$0 = CartFragment.this;
+        super();
+    }
+}

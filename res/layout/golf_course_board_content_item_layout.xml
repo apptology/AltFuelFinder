@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/vgRoot" android:background="@color/white" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/vgItem" android:background="@drawable/button_transparent_bg_touchable" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <TextView android:ellipsize="end" android:id="@id/tvSizeAdjuster" android:paddingLeft="@dimen/common_padding_small1" android:paddingRight="@dimen/common_padding_small1" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="200" android:maxLines="1" />
+        <RelativeLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/vgContents" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignLeft="@id/tvSizeAdjuster" android:layout_alignRight="@id/tvSizeAdjuster" android:layout_alignParentLeft="true" android:layout_alignParentTop="true">
+            <LinearLayout android:orientation="vertical" android:id="@id/llMainValue" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerHorizontal="true">
+                <TextView android:textColor="@color/black" android:ellipsize="end" android:gravity="center" android:id="@id/tvValue1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="28" android:maxLines="1" />
+                <TextView android:textColor="@color/black" android:ellipsize="end" android:gravity="center" android:id="@id/tvValue2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="-1" android:maxLines="1" />
+            </LinearLayout>
+            <TextView android:textStyle="bold" android:textColor="@color/black" android:ellipsize="end" android:gravity="center" android:id="@id/tvValue" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="1" android:layout_alignTop="@id/llMainValue" android:layout_alignBottom="@id/llMainValue" android:layout_centerInParent="true" />
+            <TextView android:textColor="@color/black" android:ellipsize="end" android:gravity="center" android:id="@id/tvExtendValue" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="12" android:maxLines="1" android:layout_below="@id/llMainValue" android:layout_centerHorizontal="true" />
+        </RelativeLayout>
+    </RelativeLayout>
+    <ImageView android:id="@id/ivDivider" android:layout_width="fill_parent" android:layout_height="1.0dip" android:src="@color/golf_cell_grey_bg" android:layout_alignLeft="@id/vgItem" android:layout_alignRight="@id/vgItem" android:layout_alignBottom="@id/vgItem" />
+</RelativeLayout>

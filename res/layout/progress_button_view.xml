@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:src="@drawable/play_icon_new" style="@style/ProgressButtonStyle" />
+    <ImageView android:src="@drawable/pause_icon_new" style="@style/ProgressButtonStyle" />
+    <com.biznessapps.widgets.progressbar.ProgressButtonBar style="@style/ProgressButtonStyle" />
+    <com.biznessapps.widgets.progressbar.ProgressButtonPendingAnimationView android:visibility="invisible" style="@style/ProgressButtonStyle" />
+</merge>

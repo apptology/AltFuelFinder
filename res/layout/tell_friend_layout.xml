@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/tab_title_bar" />
+    <FrameLayout android:orientation="vertical" android:id="@id/home_layout_container" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <Button android:layout_gravity="bottom" android:id="@id/tell_friend_button" android:background="@drawable/medium_button_long_spotted" android:layout_width="fill_parent" android:layout_height="@dimen/big_button_height" android:layout_marginLeft="20.0dip" android:layout_marginRight="20.0dip" android:layout_marginBottom="15.0dip" android:text="@string/share" style="@style/CommonButtonStyle" />
+        <include layout="@layout/ads_layout" />
+    </FrameLayout>
+</LinearLayout>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <FrameLayout android:layout_gravity="center_vertical" android:id="@id/tab_title_container" android:layout_width="fill_parent" android:layout_height="@dimen/tab_title_height">
+            <TextView android:layout_gravity="center_horizontal" android:id="@id/tab_title_text" android:layout_width="wrap_content" style="@style/TabTitleTextStyle" />
+            <include layout="@layout/cart_animation_container" />
+        </FrameLayout>
+    </LinearLayout>
+    <include layout="@layout/ads_layout" />
+    <ScrollView android:id="@id/scroll_container" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:focusableInTouchMode="true" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <requestFocus />
+            <ImageView android:id="@id/thumbnail_view" android:layout_width="fill_parent" android:layout_height="@dimen/fo_category_image_height" android:scaleType="centerCrop" />
+            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <com.biznessapps.widgets.CustomScrollView android:id="@id/description_scroll_container" android:scrollbars="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" android:fadeScrollbars="false">
+                    <LinearLayout android:orientation="vertical" android:background="@color/white_semi_transparent" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                        <TextView android:textSize="@dimen/ordinary_text_size" android:textColor="#ff000000" android:ellipsize="end" android:id="@id/title_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="10.0dip" android:layout_marginBottom="5.0dip" android:singleLine="true" />
+                        <TextView android:textSize="@dimen/ordinary_text_size" android:textColor="#ff000000" android:id="@id/description_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="5.0dip" android:layout_marginBottom="5.0dip" android:singleLine="false" />
+                    </LinearLayout>
+                </com.biznessapps.widgets.CustomScrollView>
+                <TextView android:textSize="@dimen/ordinary_text_size" android:textColor="#ffffffff" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/price_view" android:background="@android:color/transparent" android:padding="15.0dip" android:layout_width="wrap_content" android:layout_height="fill_parent" android:singleLine="true" />
+            </LinearLayout>
+            <TextView android:id="@id/quantity_text_view" android:text="@string/fo_quantity" style="@style/FOSectionTextStyle" />
+            <HorizontalScrollView android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/container_margin_leftright" android:layout_marginBottom="@dimen/container_margin_leftright" android:fadeScrollbars="false">
+                <LinearLayout android:gravity="left|center" android:orientation="horizontal" android:id="@id/quantity_gallery_container" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            </HorizontalScrollView>
+            <LinearLayout android:orientation="vertical" android:id="@id/sizes_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:id="@id/sizes_text_view" android:text="@string/fo_size" style="@style/FOSectionTextStyle" />
+                <HorizontalScrollView android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/container_margin_leftright" android:layout_marginBottom="@dimen/container_margin_leftright" android:fadeScrollbars="false">
+                    <LinearLayout android:gravity="left|center" android:orientation="horizontal" android:id="@id/size_gallery_container" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                </HorizontalScrollView>
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:id="@id/options_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:id="@id/options_text_view" android:text="@string/fo_options" style="@style/FOSectionTextStyle" />
+                <com.biznessapps.widgets.RefreshableListView android:id="@id/options_list_view" android:background="@android:color/transparent" android:focusable="false" android:scrollbars="vertical" android:fadingEdge="none" android:descendantFocusability="beforeDescendants" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/container_margin_leftright" android:cacheColorHint="@android:color/transparent" android:dividerHeight="0.0dip" />
+            </LinearLayout>
+            <TextView android:id="@id/specific_instr_text_view" android:text="@string/fo_specific_instructions" style="@style/FOSectionTextStyle" />
+            <EditText android:textColor="#ff000000" android:gravity="top" android:id="@id/specific_instructions_edit_text" android:background="@color/fo_item_background" android:padding="15.0dip" android:layout_width="fill_parent" android:layout_height="100.0dip" android:layout_marginLeft="10.0dip" android:layout_marginTop="3.0dip" android:layout_marginRight="10.0dip" android:layout_marginBottom="20.0dip" android:singleLine="false" android:inputType="textCapWords" />
+            <Button android:textSize="@dimen/ordinary_text_size" android:layout_gravity="center_horizontal" android:id="@id/add_item_to_order" android:background="@drawable/medium_button_long" android:layout_width="fill_parent" android:layout_height="70.0dip" android:layout_marginLeft="@dimen/reservation_main_button_margin" android:layout_marginRight="@dimen/reservation_main_button_margin" android:layout_marginBottom="@dimen/reservation_main_button_margin" android:text="@string/fo_add_item_to_order" style="@style/CommonButtonStyle" />
+            <LinearLayout android:layout_gravity="bottom" android:orientation="horizontal" android:id="@id/progress_bar_container" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

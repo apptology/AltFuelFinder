@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:swipeytabs="http://schemas.android.com/apk/res/com.biznessapps.layout">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <com.biznessapps.common.fragments.CustomizableViewPager android:id="@id/viewpager" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </FrameLayout>
+    <com.biznessapps.common.fragments.SwipeyTabs android:layout_gravity="center" android:id="@id/swipeytabs" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <LinearLayout android:layout_gravity="bottom" android:orientation="horizontal" android:id="@id/progress_bar_container" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</LinearLayout>

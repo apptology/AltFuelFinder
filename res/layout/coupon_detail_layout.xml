@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_gravity="center_vertical" android:id="@id/tab_title_container" android:layout_width="fill_parent" android:layout_height="@dimen/tab_title_height">
+        <TextView android:id="@id/tab_title_text" android:layout_width="wrap_content" android:layout_centerInParent="true" style="@style/TabTitleTextStyle" />
+        <ImageView android:id="@id/share_button" android:layout_alignParentRight="true" android:layout_centerVertical="true" style="@style/ShareButtonStyle" />
+    </RelativeLayout>
+    <ScrollView android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <LinearLayout android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <ImageView android:id="@id/header_image" android:layout_width="fill_parent" android:layout_height="@dimen/header_image_height" android:scaleType="centerCrop" />
+                <LinearLayout android:layout_gravity="bottom" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <TextView android:textColor="#ffffffff" android:ellipsize="end" android:gravity="bottom|left|center" android:layout_gravity="bottom" android:id="@id/coupon_title_label" android:background="#23000000" android:paddingLeft="20.0dip" android:paddingTop="5.0dip" android:paddingRight="20.0dip" android:paddingBottom="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/amount_label" android:singleLine="true" style="@style/BigBlackText" />
+                    <TextView android:textAppearance="?android:textAppearanceMedium" android:textSize="@dimen/ordinary_text_size" android:textColor="#ffffffff" android:id="@id/date_text_view" android:background="#23000000" android:paddingLeft="20.0dip" android:paddingRight="20.0dip" android:paddingBottom="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/ongoing" android:singleLine="true" />
+                </LinearLayout>
+                <include layout="@layout/ads_layout" />
+                <include layout="@layout/social_network_dialog" />
+                <com.biznessapps.widgets.RedeemTextView android:textColor="#ffffffff" android:layout_gravity="right" android:id="@id/redeem_textview" android:background="@drawable/redeem_bg" android:paddingLeft="40.0dip" android:paddingTop="12.0dip" android:layout_width="138.0dip" android:layout_height="72.0dip" android:text="@string/redeemed" />
+            </FrameLayout>
+            <LinearLayout android:orientation="vertical" android:id="@id/coupons_container" android:background="@drawable/loyalty_container_bg" android:padding="2.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/container_margin_leftright">
+                <TextView android:textAppearance="?android:textAppearanceSmall" android:textSize="@dimen/ordinary_text_size" android:textColor="#ff6a6a6a" android:gravity="center_horizontal" android:id="@id/coupon_description_label" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" />
+                <LinearLayout android:gravity="bottom" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <LinearLayout android:layout_gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                        <TextView android:textSize="@dimen/ordinary_text_size" android:textColor="#ff000000" android:gravity="center_vertical" android:layout_gravity="center" android:id="@id/coupon_checkin_textview" android:layout_width="wrap_content" android:layout_height="40.0dip" android:layout_marginTop="10.0dip" android:lines="1" android:drawableLeft="@drawable/coupons_icon_count" android:drawablePadding="2.0dip" android:layout_weight="1.0" />
+                        <TextView android:textSize="@dimen/ordinary_text_size" android:textColor="#ff000000" android:gravity="center_vertical" android:layout_gravity="center" android:id="@id/coupon_checkin_label_view" android:layout_width="wrap_content" android:layout_height="40.0dip" android:layout_marginTop="10.0dip" android:text="@string/checkin" android:lines="1" android:drawableLeft="@drawable/coupons_icon_clock" android:drawablePadding="2.0dip" android:layout_weight="1.0" />
+                        <TextView android:textSize="@dimen/ordinary_text_size" android:gravity="center_vertical" android:layout_gravity="center" android:id="@id/direction_button" android:layout_width="wrap_content" android:layout_height="40.0dip" android:layout_marginTop="10.0dip" android:text="@string/directions" android:lines="1" android:drawableLeft="@drawable/icon_direction" android:drawablePadding="2.0dip" android:layout_weight="1.0" />
+                    </LinearLayout>
+                    <LinearLayout android:layout_gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                        <Button android:textSize="@dimen/ordinary_text_size" android:id="@id/redeem_button" android:background="@drawable/medium_button_long_spotted" android:layout_width="120.0dip" android:layout_height="@dimen/button_height" android:text="@string/stamp_card" />
+                        <TextView android:textSize="@dimen/ordinary_text_size" android:gravity="center" android:id="@id/post_activity_label" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/common_padding_small1" android:layout_marginRight="@dimen/common_padding_small1" android:text="@string/post_activity" android:layout_weight="1.0" />
+                        <FrameLayout android:layout_gravity="center_vertical" android:layout_width="52.0dip" android:layout_height="32.0dip">
+                            <ImageView android:id="@id/turn_function_button" android:background="@drawable/turn_off" android:layout_width="52.0dip" android:layout_height="32.0dip" />
+                            <ImageView android:layout_gravity="right|center" android:id="@id/turn_circle_view" android:layout_width="28.0dip" android:layout_height="28.0dip" android:layout_margin="2.0dip" android:src="@drawable/turn_circle2" />
+                        </FrameLayout>
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:id="@id/activities_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/container_margin_leftright" android:layout_marginTop="@dimen/container_margin_leftright" android:layout_marginRight="@dimen/container_margin_leftright" android:layout_marginBottom="@dimen/container_margin_leftright">
+                <LinearLayout android:orientation="horizontal" android:id="@id/header_container" android:background="@drawable/rs_container_closed" android:layout_width="fill_parent" android:layout_height="@dimen/nagivation_height">
+                    <TextView android:textStyle="bold" android:textColor="#ff000000" android:gravity="center_vertical" android:layout_gravity="center_vertical" android:id="@id/header" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_marginLeft="5.0dip" android:text="@string/activity" android:layout_weight="1.0" style="@style/OrdinaryText" />
+                    <ImageView android:layout_gravity="center_vertical" android:id="@id/arrow_navigation" android:background="@drawable/arrow_down" android:layout_width="40.0dip" android:layout_height="40.0dip" />
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical" android:id="@id/data_container" android:background="@drawable/rs_container_opened" android:paddingRight="2.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <com.biznessapps.widgets.RefreshableListView android:id="@id/list_view" android:background="@android:color/transparent" android:focusable="false" android:scrollbars="vertical" android:fadingEdge="none" android:descendantFocusability="beforeDescendants" android:layout_width="fill_parent" android:layout_height="wrap_content" android:cacheColorHint="@android:color/transparent" android:dividerHeight="0.0dip" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/list_view_root" android:background="#ff883333" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <FrameLayout android:layout_gravity="center_vertical" android:id="@id/tab_title_container" android:layout_width="fill_parent" android:layout_height="@dimen/tab_title_height">
+            <TextView android:layout_gravity="center_horizontal" android:id="@id/tab_title_text" android:layout_width="wrap_content" style="@style/TabTitleTextStyle" />
+            <include layout="@layout/cart_animation_container" />
+        </FrameLayout>
+    </LinearLayout>
+    <include layout="@layout/ads_layout" />
+    <TextView android:textSize="@dimen/big_text_size" android:textColor="#ffffffff" android:ellipsize="end" android:gravity="center_horizontal" android:id="@id/cart_updated_textview" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="90.0dip" android:layout_marginBottom="50.0dip" android:text="@string/fo_cart_updated" android:singleLine="true" />
+    <Button android:layout_gravity="center_horizontal" android:id="@id/order_more_button" android:background="@drawable/medium_button_long" android:layout_width="180.0dip" android:layout_height="60.0dip" android:text="@string/fo_order_more" style="@style/CommonButtonStyle" />
+    <Button android:layout_gravity="center_horizontal" android:id="@id/place_order_button" android:background="@drawable/medium_button_long" android:layout_width="180.0dip" android:layout_height="60.0dip" android:layout_marginTop="30.0dip" android:text="@string/fo_place_order" style="@style/CommonButtonStyle" />
+</LinearLayout>

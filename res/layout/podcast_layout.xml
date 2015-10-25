@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/list_view_root" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/search_layout" />
+    <LinearLayout android:gravity="center_horizontal" android:id="@id/buttons_container" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:textStyle="bold" android:layout_gravity="center_vertical" android:id="@id/audio_button" android:background="@drawable/button_toggle_left_long" android:layout_width="0.0dip" android:layout_height="@dimen/button_height" android:layout_marginLeft="20.0dip" android:text="@string/audio" android:layout_weight="1.0" style="@style/OrdinaryWhiteText" />
+        <Button android:textStyle="bold" android:layout_gravity="center_vertical" android:id="@id/video_button" android:background="@drawable/button_toggle_right_long" android:layout_width="0.0dip" android:layout_height="@dimen/button_height" android:layout_marginRight="20.0dip" android:text="@string/video" android:layout_weight="1.0" style="@style/OrdinaryWhiteText" />
+    </LinearLayout>
+    <com.biznessapps.widgets.RefreshableListView android:id="@id/list_view" android:background="@android:color/transparent" android:focusable="false" android:scrollbars="vertical" android:fadingEdge="none" android:descendantFocusability="beforeDescendants" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginTop="@dimen/common_padding_small1" android:cacheColorHint="@android:color/transparent" android:divider="@drawable/list_divider" android:dividerHeight="2.0dip" android:layout_weight="1.0" />
+</LinearLayout>

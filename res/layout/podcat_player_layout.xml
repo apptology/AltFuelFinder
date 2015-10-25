@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="bottom" android:id="@id/podcast_music_root" android:focusable="true" android:focusableInTouchMode="true" android:descendantFocusability="beforeDescendants" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="bottom|left|center" android:id="@id/player_expand_button_container" android:visibility="gone" android:layout_width="25.0dip" android:layout_height="55.0dip" android:layout_marginBottom="0.0dip">
+        <ImageButton android:id="@id/player_expand_button" android:background="@drawable/playbar_expand_bg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/player_collapse" />
+    </LinearLayout>
+    <LinearLayout android:layout_gravity="bottom" android:id="@id/mini_player_container" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="55.0dip">
+        <LinearLayout android:background="@drawable/playbar_bg" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:gravity="center" android:id="@id/player_previous_container" android:layout_width="35.0dip" android:layout_height="55.0dip">
+                <ImageButton android:layout_gravity="center" android:id="@id/player_previous_button" android:background="@drawable/play_previous" android:layout_width="19.0dip" android:layout_height="13.0dip" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:id="@id/player_play_container" android:layout_width="35.0dip" android:layout_height="55.0dip">
+                <ImageButton android:layout_gravity="center" android:id="@id/player_play_button" android:background="@drawable/play_icon" android:layout_width="13.0dip" android:layout_height="13.0dip" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:id="@id/player_next_container" android:layout_width="35.0dip" android:layout_height="55.0dip">
+                <ImageButton android:layout_gravity="center" android:id="@id/player_next_button" android:background="@drawable/play_next" android:layout_width="19.0dip" android:layout_height="13.0dip" />
+            </LinearLayout>
+            <ImageView android:layout_gravity="center_vertical" android:background="@drawable/playlist_verticle_column_black" android:layout_width="2.0dip" android:layout_height="fill_parent" android:layout_marginLeft="2.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="5.0dip" android:layout_marginBottom="5.0dip" />
+            <LinearLayout android:orientation="vertical" android:id="@id/seekbar_container" android:descendantFocusability="blocksDescendants" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+                <TextView android:textSize="12.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:ellipsize="end" android:gravity="top|left|center" android:layout_gravity="top" android:id="@id/mini_song_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="5.0dip" android:singleLine="true" />
+                <LinearLayout android:gravity="bottom" android:clickable="false" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginBottom="10.0dip" android:layout_weight="1.0">
+                    <SeekBar android:layout_gravity="bottom" android:id="@id/seekbar" android:layout_width="0.0dip" android:layout_height="wrap_content" android:max="1000" android:indeterminateOnly="false" android:progressDrawable="@drawable/player_seekbar" android:thumb="@null" android:thumbOffset="0.0dip" android:layout_weight="1.0" />
+                    <TextView android:textSize="11.0dip" android:textStyle="bold" android:textColor="#ffffffff" android:gravity="bottom" android:id="@id/current_time_view" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="2.0dip" />
+                </LinearLayout>
+            </LinearLayout>
+            <ImageView android:layout_gravity="center_vertical" android:background="@drawable/playlist_verticle_column_black" android:layout_width="2.0dip" android:layout_height="fill_parent" android:layout_marginLeft="5.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="2.0dip" android:layout_marginBottom="5.0dip" />
+            <LinearLayout android:gravity="center" android:id="@id/player_volume_container" android:descendantFocusability="beforeDescendants" android:layout_width="35.0dip" android:layout_height="55.0dip">
+                <ImageButton android:layout_gravity="center" android:id="@id/player_volume_button" android:background="@drawable/player_sound" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="20.0dip" android:layout_height="13.0dip" />
+                <ImageButton android:layout_gravity="center" android:background="@drawable/sound_increase_icon" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="6.0dip" android:layout_height="13.0dip" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:id="@id/player_collapse_container" android:descendantFocusability="afterDescendants" android:layout_width="35.0dip" android:layout_height="55.0dip">
+                <ImageButton android:id="@id/player_collapse_button" android:background="@drawable/player_collapse" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="20.0dip" android:layout_height="20.0dip" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <FrameLayout android:layout_gravity="right|center" android:id="@id/player_volume_seekbar_container" android:visibility="gone" android:layout_width="23.0dip" android:layout_height="46.0dip" android:layout_marginRight="10.0dip">
+        <com.biznessapps.widgets.VerticalSeekBar android:id="@id/player_volume_seekbar" android:layout_width="23.0dip" android:layout_height="fill_parent" android:progressDrawable="@drawable/progress_vertical" android:thumb="@drawable/seek_thumb" />
+    </FrameLayout>
+</FrameLayout>

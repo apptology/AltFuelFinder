@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:gravity="center" android:orientation="vertical" android:id="@id/gallery_preview_root" android:background="#ff000000" android:descendantFocusability="blocksDescendants" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/ivBackground" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="fitXY" />
+    <FrameLayout android:id="@id/vgOverlay" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ProgressBar android:layout_gravity="center" android:id="@id/gallery_preview_progressbar" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <com.biznessapps.widgets.ExtendedViewPager android:id="@id/view_pager" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ImageView android:layout_gravity="top|right|center" android:id="@id/share_button" style="@style/ShareButtonStyle" />
+</FrameLayout>

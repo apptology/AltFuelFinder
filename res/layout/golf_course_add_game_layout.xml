@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/list_view_root" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_gravity="center_vertical" android:id="@id/tab_title_container" android:paddingTop="@dimen/common_padding_small2" android:paddingRight="@dimen/common_padding_small2" android:paddingBottom="@dimen/common_padding_small2" android:layout_width="fill_parent" android:layout_height="@dimen/tab_title_height">
+        <TextView android:id="@id/tab_title_text" android:layout_width="wrap_content" android:layout_centerInParent="true" style="@style/TabTitleTextStyle" />
+        <ImageView android:id="@id/ivDone" android:layout_width="@dimen/tab_icon_size" android:layout_height="@dimen/tab_icon_size" android:layout_marginLeft="@dimen/common_padding_medium" android:layout_marginRight="@dimen/common_padding_medium" android:src="@drawable/common_ic_done" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    </RelativeLayout>
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ScrollView android:id="@id/scrollView" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true">
+            <LinearLayout android:orientation="vertical" android:id="@id/llScrollView" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        </ScrollView>
+        <include android:id="@id/date_picker" layout="@layout/wheel_container_layout" />
+    </FrameLayout>
+</LinearLayout>

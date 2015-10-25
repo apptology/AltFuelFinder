@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:gravity="center_vertical" android:padding="@dimen/common_padding_small2" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.biznessapps.widgets.SquareImageView android:layout_gravity="left" android:id="@id/ivThumbnail" android:layout_width="@dimen/thumbnail_size" android:layout_height="@dimen/thumbnail_size" android:src="@drawable/common_transparent_rectangle_bg" app:ratio_by_width="true" />
+    <LinearLayout android:orientation="vertical" android:padding="@dimen/common_padding_small2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/thumbnail_size">
+        <TextView android:textSize="@dimen/ordinary_text_size" android:textStyle="bold" android:textColor="#ff000000" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/tvName" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/common_padding_small1" android:text="Kananaskis Country Golf Course" android:maxLines="2" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="horizontal" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+                <TextView android:textSize="@dimen/font_small2" android:textColor="#ff000000" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/tvStaticHoles" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/holes_colon" android:singleLine="true" />
+                <TextView android:textSize="@dimen/font_small2" android:textColor="#ff000000" android:ellipsize="end" android:gravity="left|center" android:id="@id/tvHoles" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/common_padding_small1" android:text="18" android:singleLine="true" android:drawablePadding="@dimen/common_padding_small1" android:layout_weight="1.0" />
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+                <TextView android:textSize="@dimen/font_small2" android:textColor="#ff000000" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/tvStaticPars" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/pars" android:singleLine="true" android:drawablePadding="@dimen/common_padding_small1" />
+                <TextView android:textSize="@dimen/font_small2" android:textColor="#ff000000" android:ellipsize="end" android:gravity="left|center" android:id="@id/tvPars" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/common_padding_small1" android:text="73" android:singleLine="true" android:drawablePadding="@dimen/common_padding_small1" android:layout_weight="1.0" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:id="@id/playlist_container" android:layout_width="fill_parent" android:layout_height="@dimen/track_row_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.biznessapps.widgets.progressbar.ProgressButton android:id="@id/progress_button" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <TextView android:textSize="@dimen/ordinary_text_size" android:ellipsize="end" android:id="@id/playlist_title_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="7.0dip" android:singleLine="true" />
+        <TextView android:textSize="@dimen/ordinary_text_size" android:ellipsize="end" android:id="@id/playlist_bottom_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" />
+    </LinearLayout>
+    <ImageView android:layout_gravity="center_vertical" android:id="@id/buy_icon" android:padding="7.0dip" android:layout_width="50.0dip" android:layout_height="50.0dip" android:src="@drawable/buy_icon" />
+</LinearLayout>

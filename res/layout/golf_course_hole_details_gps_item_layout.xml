@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:id="@id/vgRoot" android:padding="@dimen/common_padding_small1" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="?android:textAppearanceSmall" android:textSize="@dimen/ordinary_text_size" android:gravity="center_vertical" android:id="@id/tvYards" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_weight="1.0" />
+    <ImageView android:id="@id/ivCourse" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_course" />
+</LinearLayout>

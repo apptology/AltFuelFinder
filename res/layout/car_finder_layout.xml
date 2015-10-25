@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/tab_title_bar" />
+    <include layout="@layout/ads_layout" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/car_finder_top_container" android:background="@drawable/car_finder_section_bg" android:paddingLeft="5.0dip" android:paddingTop="2.0dip" android:paddingRight="5.0dip" android:paddingBottom="2.0dip" android:layout_width="fill_parent" android:layout_height="@dimen/footer_bar_height">
+        <ImageButton android:id="@id/car_finder_pin_button" android:background="@drawable/button_black_src" android:layout_width="@dimen/car_finder_button_width" android:layout_height="@dimen/car_finder_button_height" android:src="@drawable/pin" />
+        <TextView android:textSize="@dimen/small_text_size" android:textColor="#ffffffff" android:ellipsize="end" android:gravity="center" android:id="@id/car_finder_timer_text" android:layout_width="0.0dip" android:layout_height="fill_parent" android:singleLine="true" android:layout_weight="1.0" />
+        <ImageButton android:id="@id/car_finder_location_button" android:background="@drawable/button_black_src" android:layout_width="@dimen/car_finder_button_width" android:layout_height="@dimen/car_finder_button_height" android:src="@drawable/location" />
+        <TextView android:layout_width="@dimen/car_finder_button_width" android:layout_height="0.0dip" android:layout_marginLeft="3.0dip" android:layout_marginRight="6.0dip" />
+        <Button android:textSize="@dimen/small_text_size" android:textStyle="bold" android:textColor="#ffffffff" android:layout_gravity="center_vertical" android:id="@id/car_finder_map_mode_button" android:background="@drawable/map_mode_left_src" android:layout_width="@dimen/car_finder_button_width" android:layout_height="@dimen/car_finder_button_height" android:text="@string/map" />
+        <Button android:textSize="@dimen/small_text_size" android:textStyle="bold" android:textColor="#ffffffff" android:layout_gravity="center_vertical" android:id="@id/car_finder_hyb_mode_button" android:background="@drawable/map_mode_right_src" android:layout_width="@dimen/car_finder_button_width" android:layout_height="@dimen/car_finder_button_height" android:text="@string/hyb" />
+    </LinearLayout>
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <fragment android:name="com.google.android.gms.maps.MapFragment" android:id="@id/mapview_v2" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/car_finder_bottom_container" android:background="@drawable/car_finder_section_bg" android:paddingLeft="5.0dip" android:paddingTop="2.0dip" android:paddingRight="5.0dip" android:paddingBottom="2.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/footer_bar_height">
+            <ImageButton android:id="@id/car_finder_alarm_button" android:background="@drawable/button_black_src" android:layout_width="@dimen/car_finder_button_width" android:layout_height="@dimen/car_finder_button_height" android:src="@drawable/alarm_on" />
+            <TextView android:textSize="@dimen/small_text_size" android:textColor="#ffffffff" android:ellipsize="end" android:gravity="center" android:id="@id/car_finder_alarm_text" android:layout_width="0.0dip" android:layout_height="fill_parent" android:singleLine="true" android:layout_weight="1.0" />
+            <ImageButton android:id="@id/car_finder_directions_button" android:background="@drawable/button_black_src" android:layout_width="@dimen/car_finder_button_width" android:layout_height="@dimen/car_finder_button_height" android:src="@drawable/map" />
+            <ImageButton android:id="@id/car_finder_photo_button" android:background="@drawable/button_black_src" android:layout_width="@dimen/car_finder_button_width" android:layout_height="@dimen/car_finder_button_height" android:layout_marginLeft="3.0dip" android:src="@drawable/camera" />
+            <ImageButton android:id="@id/car_finder_email_button" android:background="@drawable/button_black_src" android:layout_width="@dimen/car_finder_button_width" android:layout_height="@dimen/car_finder_button_height" android:layout_marginLeft="3.0dip" android:src="@drawable/envelope_white" />
+            <ImageButton android:id="@id/car_finder_trash_button" android:background="@drawable/button_black_src" android:layout_width="@dimen/car_finder_button_width" android:layout_height="@dimen/car_finder_button_height" android:layout_marginLeft="3.0dip" android:src="@drawable/trash2" />
+        </LinearLayout>
+    </FrameLayout>
+</LinearLayout>

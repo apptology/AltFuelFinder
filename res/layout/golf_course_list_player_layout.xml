@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/list_view_root" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_gravity="center_vertical" android:id="@id/tab_title_container" android:paddingTop="@dimen/common_padding_small2" android:paddingRight="@dimen/common_padding_small2" android:paddingBottom="@dimen/common_padding_small2" android:layout_width="fill_parent" android:layout_height="@dimen/tab_title_height">
+        <TextView android:id="@id/tab_title_text" android:layout_width="wrap_content" android:text="@string/players" android:layout_centerInParent="true" style="@style/TabTitleTextStyle" />
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentTop="false" android:layout_alignParentRight="true" android:layout_centerVertical="true">
+            <ImageView android:id="@id/ivAddPlayer" android:padding="@dimen/common_padding_small0" android:layout_width="@dimen/tab_icon_size" android:layout_height="@dimen/tab_icon_size" android:layout_marginRight="@dimen/activity_horizontal_margin" android:src="@drawable/add_icon" />
+            <ImageView android:id="@id/ivDone" android:padding="@dimen/common_padding_small0" android:layout_width="@dimen/tab_icon_size" android:layout_height="@dimen/tab_icon_size" android:src="@drawable/common_ic_done" />
+        </LinearLayout>
+    </RelativeLayout>
+    <include layout="@layout/ads_layout" />
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:layout_gravity="center_horizontal" android:id="@id/tvGuide" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/common_padding_medium2" android:text="@string/tap_plus_button_add_player" />
+        <com.biznessapps.widgets.RefreshableListView android:id="@id/list_view" android:background="@android:color/transparent" android:focusable="true" android:scrollbars="vertical" android:fadingEdge="none" android:descendantFocusability="beforeDescendants" android:layout_width="fill_parent" android:layout_height="fill_parent" android:cacheColorHint="@android:color/transparent" android:dividerHeight="0.0dip" />
+    </FrameLayout>
+</LinearLayout>

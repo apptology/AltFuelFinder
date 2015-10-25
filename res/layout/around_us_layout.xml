@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/tab_title_container" android:layout_width="fill_parent" android:layout_height="@dimen/tab_title_height">
+        <TextView android:id="@id/tab_title_text" android:layout_width="fill_parent" style="@style/TabTitleTextStyle" />
+        <EditText android:textColor="#ffffffff" android:layout_gravity="center_vertical" android:id="@id/search_edit_view" android:background="@drawable/search_bar_bg" android:paddingLeft="15.0dip" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_marginLeft="70.0dip" android:layout_marginRight="70.0dip" android:hint="@string/search" android:drawableLeft="@drawable/white_small_search_icon" android:inputType="text" android:imeOptions="actionSearch" style="@style/OrdinaryText" />
+        <ImageView android:layout_gravity="right|center" android:id="@id/search_icon" android:padding="10.0dip" android:layout_width="50.0dip" android:layout_height="50.0dip" android:src="@drawable/white_search_icon" />
+        <ImageView android:layout_gravity="right|center" android:id="@id/search_icon_close" android:padding="10.0dip" android:visibility="gone" android:layout_width="50.0dip" android:layout_height="50.0dip" android:src="@drawable/search_close" />
+    </FrameLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/buttons_container" android:layout_width="fill_parent" android:layout_height="@dimen/footer_bar_height">
+        <Button android:id="@id/map_button" android:background="@drawable/top_tab_src" android:layout_width="0.0dip" android:text="@string/map" android:layout_weight="1.0" style="@style/TabButtonStyle" />
+        <Button android:id="@id/list_button" android:background="@drawable/top_tab_src" android:layout_width="0.0dip" android:text="@string/list" android:layout_weight="1.0" style="@style/TabButtonStyle" />
+    </LinearLayout>
+    <include layout="@layout/ads_layout" />
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <fragment android:name="com.google.android.gms.maps.MapFragment" android:id="@id/mapview_v2" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <com.biznessapps.widgets.RefreshableListView android:id="@id/list_view" android:focusable="false" android:visibility="gone" android:scrollbars="vertical" android:fadingEdge="none" android:descendantFocusability="beforeDescendants" android:layout_width="fill_parent" android:layout_height="fill_parent" android:cacheColorHint="@android:color/transparent" android:divider="@drawable/list_divider" android:dividerHeight="2.0dip" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/bottom_buttons_container" android:background="@drawable/footer_bg_line" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/footer_bar_height">
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <View android:id="@id/around_us_red_view" android:layout_width="0.0dip" android:layout_weight="1.0" style="@style/TabButtonStyle" />
+            <View android:id="@id/around_us_green_view" android:layout_width="0.0dip" android:layout_weight="1.0" style="@style/TabButtonStyle" />
+            <View android:id="@id/around_us_purple_view" android:layout_width="0.0dip" android:layout_weight="1.0" style="@style/TabButtonStyle" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <Button android:id="@id/around_us_red_button" android:background="@drawable/around_us_tab_src" android:layout_width="0.0dip" android:layout_weight="1.0" style="@style/TabButtonStyle" />
+            <Button android:id="@id/around_us_green_button" android:background="@drawable/around_us_tab_src" android:layout_width="0.0dip" android:layout_weight="1.0" style="@style/TabButtonStyle" />
+            <Button android:id="@id/around_us_purple_button" android:background="@drawable/around_us_tab_src" android:layout_width="0.0dip" android:layout_weight="1.0" style="@style/TabButtonStyle" />
+        </LinearLayout>
+    </FrameLayout>
+    <LinearLayout android:layout_gravity="bottom" android:orientation="horizontal" android:id="@id/progress_bar_container" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</LinearLayout>

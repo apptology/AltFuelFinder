@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/home_screen_root" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/home_screen_container" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <ImageView android:layout_gravity="center_vertical" android:id="@id/home_screen_center_bg_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:scaleType="fitEnd" android:adjustViewBounds="true" />
+        <com.biznessapps.common.fragments.CustomizableViewPager android:id="@id/viewpager" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <include layout="@layout/home_animation_layout" />
+        <ImageView android:layout_gravity="top|center" android:id="@id/home_screen_header" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <LinearLayout android:layout_gravity="left" android:orientation="vertical" android:id="@id/myGrid" android:visibility="gone" android:layout_width="@dimen/tabs_height_1row" android:layout_height="fill_parent" />
+        <LinearLayout android:layout_gravity="right" android:orientation="vertical" android:id="@id/myGrid2" android:visibility="gone" android:layout_width="@dimen/tabs_height_1row" android:layout_height="fill_parent" />
+        <GridView android:gravity="center_horizontal" android:layout_gravity="top|center" android:id="@id/home_tab_gallery_view" android:background="@android:color/transparent" android:scrollbars="vertical" android:layoutAnimation="@anim/tab_wave_scale" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="@dimen/home_gallery_margin_top" android:layout_marginRight="20.0dip" android:horizontalSpacing="10.0dip" android:verticalSpacing="@dimen/home_gallery_row_spacing" android:stretchMode="columnWidth" android:columnWidth="100.0dip" android:numColumns="2" />
+        <LinearLayout android:layout_gravity="bottom" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:gravity="bottom|center" android:layout_gravity="bottom|center" android:orientation="horizontal" android:id="@id/home_horizontal_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="15.0dip">
+                <Button android:textSize="@dimen/ordinary_text_size" android:id="@id/call_us_button" android:background="@drawable/medium_button_long_spotted" android:visibility="gone" android:layout_width="@dimen/home_sub_buttons_width" android:layout_height="@dimen/big_button_height" android:layout_marginLeft="5.0dip" android:layout_marginRight="2.0dip" android:text="@string/call_us" />
+                <Button android:textSize="@dimen/ordinary_text_size" android:id="@id/direction_button" android:background="@drawable/medium_button_long_spotted" android:visibility="gone" android:layout_width="@dimen/home_sub_buttons_width" android:layout_height="@dimen/big_button_height" android:layout_marginLeft="3.0dip" android:layout_marginRight="3.0dip" android:text="@string/directions" />
+                <Button android:textSize="@dimen/ordinary_text_size" android:id="@id/tell_friend_button" android:background="@drawable/medium_button_long_spotted" android:visibility="gone" android:layout_width="@dimen/home_sub_buttons_width" android:layout_height="@dimen/big_button_height" android:layout_marginLeft="2.0dip" android:layout_marginRight="5.0dip" android:text="@string/share" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:layout_gravity="bottom" android:orientation="vertical" android:id="@id/horisontal_tab_container" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="horizontal" android:id="@id/progress_bar_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/tabs_progress_height" />
+            <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <com.biznessapps.common.fragments.CustomizableViewPager android:id="@id/tab_viewpager" android:layout_width="fill_parent" android:layout_height="@dimen/tabs_height_1row" />
+                <include layout="@layout/tabs_circles_container" />
+            </FrameLayout>
+        </LinearLayout>
+        <ImageView android:layout_gravity="top|left|center" android:id="@id/message_link_icon" android:padding="15.0dip" android:layout_width="@dimen/home_icon_size" android:layout_height="@dimen/home_icon_size" android:src="@drawable/message_short_link_icon" />
+        <ImageView android:layout_gravity="top|left|center" android:id="@id/music_link_icon" android:padding="15.0dip" android:layout_width="@dimen/home_icon_size" android:layout_height="@dimen/home_icon_size" android:src="@drawable/music_short_link_icon" />
+        <ImageView android:layout_gravity="top|left|center" android:id="@id/home_layout_icon" android:padding="15.0dip" android:visibility="gone" android:layout_width="@dimen/home_icon_size" android:layout_height="@dimen/home_icon_size" android:src="@drawable/modern_layout_icon" />
+        <include layout="@layout/home_sliding_layout" />
+        <ImageView android:layout_gravity="top" android:id="@id/search_icon_close" android:padding="15.0dip" android:visibility="gone" android:layout_width="@dimen/home_icon_size" android:layout_height="@dimen/home_icon_size" android:src="@drawable/modern_layout_icon" />
+    </FrameLayout>
+    <include layout="@layout/news_feed_container" />
+</LinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/tab_title_container" android:layout_width="fill_parent" android:layout_height="@dimen/tab_title_height">
+        <TextView android:id="@id/tab_title_text" android:layout_width="fill_parent" style="@style/TabTitleTextStyle" />
+        <EditText android:textColor="#ffffffff" android:layout_gravity="center_vertical" android:id="@id/search_edit_view" android:background="@drawable/search_bar_bg" android:paddingLeft="15.0dip" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_marginLeft="20.0dip" android:layout_marginRight="50.0dip" android:hint="@string/search" android:drawableLeft="@drawable/white_small_search_icon" android:drawablePadding="15.0dip" android:inputType="text" android:imeOptions="actionSearch" style="@style/OrdinaryText" />
+        <ImageView android:layout_gravity="right|center" android:id="@id/search_icon_close" android:padding="10.0dip" android:layout_width="50.0dip" android:layout_height="50.0dip" android:src="@drawable/search_close" />
+    </FrameLayout>
+    <include layout="@layout/ads_layout" />
+    <com.biznessapps.widgets.RefreshableListView android:id="@id/search_results_listview" android:background="@android:color/transparent" android:focusable="false" android:scrollbars="vertical" android:fadingEdge="none" android:descendantFocusability="beforeDescendants" android:layout_width="fill_parent" android:layout_height="0.0dip" android:cacheColorHint="@android:color/transparent" android:divider="@drawable/list_divider" android:dividerHeight="2.0dip" android:layout_weight="1.0" />
+    <include layout="@layout/social_network_dialog" />
+</LinearLayout>

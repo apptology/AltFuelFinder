@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/album_item_container" android:background="@null" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="18.0dip" android:textStyle="bold" android:textColor="#ffffffff" android:gravity="center" android:layout_gravity="center_horizontal" android:id="@id/album_item_button" android:background="@null" android:clickable="true" android:layout_width="250.0dip" android:layout_height="39.0dip" android:layout_marginLeft="15.0dip" android:layout_marginRight="15.0dip" />
+    <ImageView android:gravity="center" android:id="@id/album_item_indicator" android:layout_width="fill_parent" android:layout_height="10.0dip" android:src="@drawable/up_arrow" />
+</LinearLayout>

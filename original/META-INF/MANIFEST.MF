@@ -1,0 +1,3097 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable/slideshow_icon.png
+SHA1-Digest: RiQWwsxVu5GSd+p+I8UHluI0cdU=
+
+Name: res/drawable/coupon_direction_icon.png
+SHA1-Digest: cHu6HzrDnDW+GvsH5xGthfNGA64=
+
+Name: res/drawable/facebook_icon.png
+SHA1-Digest: dDZ9r+xyeO5FhrEu+mcbv0uC2Sg=
+
+Name: res/drawable/com_facebook_picker_list_longpressed.9.png
+SHA1-Digest: /uU9+qqC9MjC0cwR3L+DskCy9xM=
+
+Name: res/drawable-xxhdpi/bt_amex.png
+SHA1-Digest: z9ciHG3RxlXdApjV3X5KYBaruh4=
+
+Name: res/drawable/location.png
+SHA1-Digest: nbKeUu0cLUO3m+6tpcAGWk09eKc=
+
+Name: res/drawable/fog.png
+SHA1-Digest: ZK0gIioR2sQnoy/+mx8gXtMgs+4=
+
+Name: res/drawable/contact_map_pin.png
+SHA1-Digest: BWZsY5k8IXuQlfpdHcATDpaMeZU=
+
+Name: res/drawable/coupons_icon_clock2x.png
+SHA1-Digest: qusLbJIL13r9cLMKWnWf+/NkeeI=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: UUeGKfmWgJl/rutroPXP57LpkoU=
+
+Name: res/drawable/white_bg.9.png
+SHA1-Digest: i3MJpQEz/lCY4YhU018Bal5R7UA=
+
+Name: res/drawable/envelope.png
+SHA1-Digest: TnQlKZCKyXF1S1vGPEV4KcwUKC4=
+
+Name: res/drawable/comments.png
+SHA1-Digest: G3ACBAWmc/p/W+mG5lge3S7cKvk=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: dAIabshO7sf8DA0quqZILhJ5V4A=
+
+Name: res/drawable-xhdpi/bt_jcb.png
+SHA1-Digest: 8luF/SwIxG1ytibSjNdVhD3UDRE=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: bENWi8ZugwD88Ech+3ZELNcC/Kw=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: UUeGKfmWgJl/rutroPXP57LpkoU=
+
+Name: res/drawable/message_timeline_item_bg.png
+SHA1-Digest: sy+ZvUuGbuf3qz806GqRXO6Z4C0=
+
+Name: res/drawable/around_us_icon_bg.png
+SHA1-Digest: mtLNytBobYUwKOCCkU892UMTfu4=
+
+Name: res/drawable-xxhdpi/bt_jcb.png
+SHA1-Digest: mcx5Gm8VdRNsQCOdI+ItViu7JxM=
+
+Name: res/drawable/alarm_red.png
+SHA1-Digest: k+nmQF4opHY8Momw3V/R1/hzdIg=
+
+Name: res/drawable/reservation_calendar_icon.png
+SHA1-Digest: GoM/g5VKQGNU1jdvxcKrjSRm5OE=
+
+Name: res/drawable/play_icon.png
+SHA1-Digest: d9pEzxC8cmqdJmpAzwI/g2KmnlA=
+
+Name: res/drawable/reservation_calendar.png
+SHA1-Digest: XsU+0khEIdM36B9rwiiImgWSTAI=
+
+Name: res/layout/fo_location_chooser_item.xml
+SHA1-Digest: +3NLZod4WSHm3OsTrCrum33EXVM=
+
+Name: res/layout/service_time_cell.xml
+SHA1-Digest: SjS07JUOaaFMSnj6c46uaKIRCUc=
+
+Name: res/layout/home_screen_layout_4row.xml
+SHA1-Digest: 767bjixBQ0M+7OepmSNCr4zmNME=
+
+Name: res/drawable-xhdpi/ic_main_menu.png
+SHA1-Digest: N5kkQfqSX/ldNvL3Tjga9xKv7rQ=
+
+Name: res/drawable/loyalty_container_bg.png
+SHA1-Digest: 76XvZ5tKlYsDV7T7vmDTCh0w5I0=
+
+Name: res/layout/tab.xml
+SHA1-Digest: P+03r/QVWJUmmWhP57G3wXTGvP4=
+
+Name: res/drawable-xxhdpi/ic_plusone_small_off_client.png
+SHA1-Digest: QITJ8CHL6O6NtaNSW5zIXy1Z3PY=
+
+Name: res/drawable/dialog_bg.xml
+SHA1-Digest: O1XprJntDUifTYp8/EAGRFozw70=
+
+Name: res/drawable-hdpi/bt_logo_venmo.png
+SHA1-Digest: N58L1zDUBdbNOLd86FqU8j3yuWo=
+
+Name: res/layout/golf_course_select_course_layout.xml
+SHA1-Digest: 8ZMNtGxxRy3Gz4u9Zst+MzJ55Mg=
+
+Name: res/drawable/icon_photo.png
+SHA1-Digest: 9Y5NZ+3PVy+j3h9stA4lubqC8NU=
+
+Name: res/layout/tabs_circles_container.xml
+SHA1-Digest: /4lkMwGlCpmyH0u+RBvftHWFRYs=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_light.
+ 9.png
+SHA1-Digest: AhN8QSMQGVEiuDPw+ArDAL+kX1o=
+
+Name: res/drawable-hdpi/com_facebook_button_blue_pressed.9.png
+SHA1-Digest: s11gcQnxG2CBh+07EhR73hIWugc=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: ox+dpz35Obt4x0bfiE1AVRokddo=
+
+Name: res/drawable-hdpi/bt_success.png
+SHA1-Digest: xhnGw8/WP4AKeO5JXkVpOMhnEGc=
+
+Name: res/layout/home_tab_row.xml
+SHA1-Digest: lAZShqCp7IYGBVS8plPFpOuLZ2k=
+
+Name: res/layout/gallery_preview_item_layout.xml
+SHA1-Digest: 9vYCl52YIqemrWAH//bU1GfpM2o=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: 5yTFZLZtCPpeiVFtQvpG2K4xDdE=
+
+Name: res/drawable/button_transparent_bg_touched.xml
+SHA1-Digest: gw1AIqdklFTaEvqYTpuyM9gCYmw=
+
+Name: res/drawable-xxhdpi/bt_cvv_highlighted.png
+SHA1-Digest: zx4hXjWTID3p7QrxT2kv7xeO8Z0=
+
+Name: res/layout/coverflow_item_layout.xml
+SHA1-Digest: rh4FP62++txeP5iDHiaNbpoUWrY=
+
+Name: res/layout/message_row.xml
+SHA1-Digest: YRGLyFHJdBCGhpPP24wzwYpd90w=
+
+Name: res/drawable-xhdpi/ic_green_front.png
+SHA1-Digest: 1+BUlTGu/979EwNYbAfDs0hrDmY=
+
+Name: res/drawable/icon_event.png
+SHA1-Digest: mIxhkaWMfPn78r8CajKuqcZAz+U=
+
+Name: res/drawable/mailing_list_circle.png
+SHA1-Digest: Xb8vsUYsQFzEj3lPpXrhKDbjZTs=
+
+Name: res/drawable-hdpi/bt_jcb.png
+SHA1-Digest: lkHsC1srkSzeRadnVL/wFGgu8/o=
+
+Name: res/drawable-xhdpi/bt_amex.png
+SHA1-Digest: fGB0mGf3i8jrL9DoypN52QMalLk=
+
+Name: res/drawable-hdpi/powered_by_google_light.png
+SHA1-Digest: 1p8HkYSQc6asTjUOCQeAiFfr8oU=
+
+Name: res/drawable-mdpi/bt_logo_android_pay.png
+SHA1-Digest: L2Pisbx2YJxluW+9PXFHKl8W/oI=
+
+Name: res/drawable-hdpi/bt_logo_paypal.png
+SHA1-Digest: 2haG2R5anGU2VGhxBmSMhCsJQbQ=
+
+Name: res/drawable/com_facebook_picker_list_pressed.9.png
+SHA1-Digest: ughAWBlhb5fxIgHli8NgEiGGjGY=
+
+Name: res/drawable/com_facebook_button_check_on.png
+SHA1-Digest: ObcSDxnphDDTROHTniwThtnJVWk=
+
+Name: res/drawable-xxhdpi/bt_success.png
+SHA1-Digest: 806KWU6Rx4frCc311mc69VCUwB8=
+
+Name: res/drawable/tag_green.png
+SHA1-Digest: WUhIkMwQknJYDbI860xpubcWfeM=
+
+Name: res/drawable-xxhdpi/ic_plusone_medium_off_client.png
+SHA1-Digest: 5jta9QUYJ9k9tMHwzhYqoefVy+o=
+
+Name: res/drawable/message_list_tab_icon2.png
+SHA1-Digest: hS6fAIdyhan4wrtFNM8BqJXF6BE=
+
+Name: res/layout/golf_course_select_player_layout.xml
+SHA1-Digest: 6DFX4qN/BjrnbZQQsr2dwsfUx1Y=
+
+Name: res/drawable/message_cell_bottom_bg.png
+SHA1-Digest: vePJ8koLOZi7T2I2PAvyIOUujNc=
+
+Name: res/drawable/common_transparent_rectangle_bg.xml
+SHA1-Digest: sPMfB8ZXQDtY2h/l+UeqFAEiO5A=
+
+Name: res/drawable-xhdpi/ic_check_mark_checked.png
+SHA1-Digest: oJ+L4nv0s2xj00P7b9Hsu3omwxc=
+
+Name: res/drawable-xxhdpi/ic_plusone_standard_off_client.png
+SHA1-Digest: GsuPJv1dNcolfrnKEL4GX2NHRmk=
+
+Name: res/layout/common_title_bar_layout.xml
+SHA1-Digest: IbyVh0EjpKgGIk5V6SPY/JJU30M=
+
+Name: res/drawable/tweet_tab_icon.png
+SHA1-Digest: lHeArkJ63Xml7hOk4TBQrLLIODA=
+
+Name: res/layout/reservation_account_recovery_layout.xml
+SHA1-Digest: c0PvvPQ6HTZYDUTANyO2w6Wsy8M=
+
+Name: res/drawable-xhdpi/ic_aroundus_distance_small.png
+SHA1-Digest: iDh/yFDQrQ1hCoGBghwWcqMqbis=
+
+Name: res/drawable-xxhdpi/bt_diners.png
+SHA1-Digest: W1cZCndKXQz+TC+96epob3RVtPo=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: oslddavjaxT0f8U4Mn8PG9Z+jNM=
+
+Name: res/drawable/news_tab_icon.png
+SHA1-Digest: RRXsGVZ0lMun0UY3dikuUWoPNRA=
+
+Name: res/layout/global_search_layout.xml
+SHA1-Digest: c/AhsESoJWSafGzJeQaQzHoQIFg=
+
+Name: res/drawable-hdpi/bt_secure.png
+SHA1-Digest: U0QMBbjbbG9e8XDRJ/l5OWS1Vw0=
+
+Name: res/layout/com_facebook_usersettingsfragment.xml
+SHA1-Digest: bMX0nxULYI1I3rzvaX5NsXTLfsc=
+
+Name: res/anim/message_right_item_anim.xml
+SHA1-Digest: fPsJW/7Sn6Y/kDEtKJLFsj23GEc=
+
+Name: res/drawable-mdpi/bt_error.png
+SHA1-Digest: VM+1l93IIipTAAkmlnQSP6fgmsM=
+
+Name: res/drawable/playbar_bg.png
+SHA1-Digest: qEbvHNyJz2HIjUiEudCeDFdFpEw=
+
+Name: res/drawable/turn_on.png
+SHA1-Digest: 6DPNCGH8TE9YPocGaKcDd4s1OZo=
+
+Name: res/anim/message_center_anim.xml
+SHA1-Digest: I7Uot/baeAvlFunGxLXCShhd2SU=
+
+Name: res/drawable/fan_wall_comment_bg.9.png
+SHA1-Digest: blEzPFfQzdHk0u9zWbzm8hLCqsU=
+
+Name: res/drawable/message_tab_content_icon.png
+SHA1-Digest: dKV2KNMZ58fJDK4FqXtzmgaTYJs=
+
+Name: res/layout/reseller_gridview_layout.xml
+SHA1-Digest: q/sYCMDutxVQ76tbOgYDf04mw0s=
+
+Name: res/drawable-xhdpi/ic_notes.png
+SHA1-Digest: c/RCIVm7Jg0Fv8m8XjKG+ZaXd40=
+
+Name: res/drawable/chat_window.9.png
+SHA1-Digest: hTVYJVWvUmebl0yoS+C2NG33L9A=
+
+Name: res/drawable-xhdpi/com_facebook_button_grey_pressed.9.png
+SHA1-Digest: CKFnDef2GfRTaRgjuT6+/5YzUk4=
+
+Name: res/layout/fo_categories_items_layout.xml
+SHA1-Digest: nTlfIfWDhpOBFtGv0dfy4WNA4gM=
+
+Name: res/drawable/bt_payment_button_background.xml
+SHA1-Digest: 1gpE0AsEgxqS1Wx+DC1GJ1gkmKg=
+
+Name: res/layout/tab_gallery_item.xml
+SHA1-Digest: yNeUSma3BXYEwev8fGALMe86f4U=
+
+Name: res/layout/fo_confirmation_success_dialog.xml
+SHA1-Digest: nEKv/ryNO6WVZxw3vTFN4rhTxP8=
+
+Name: res/drawable/tip_center_button_unselected.png
+SHA1-Digest: 4FZqUDRcQBm1HZXxWI+xYQ+t6NQ=
+
+Name: res/layout/com_facebook_picker_checkbox.xml
+SHA1-Digest: JAkKuHfg7IxI4X4zV86kY8NllQM=
+
+Name: res/drawable/todayselected.png
+SHA1-Digest: tcs6GfApiBZVJKuJZ/WjVPEgPys=
+
+Name: res/drawable/recents_src.xml
+SHA1-Digest: xyfsYM7jH+cLLssFBYsRI20YYbg=
+
+Name: res/drawable/tip_calc_bottom_box.9.png
+SHA1-Digest: czuCFnQh+tUWWIAxNXxH1NOyctA=
+
+Name: res/drawable-xhdpi/ic_anonymous_avatar.png
+SHA1-Digest: IeKTS3WbF6PVVtO02lrSFpL8Hu8=
+
+Name: res/drawable/description_text_box.png
+SHA1-Digest: rF9s4ll4uXhKqOMBRaKDacuaohw=
+
+Name: res/drawable/cricle_button.png
+SHA1-Digest: gWszJMFQLo/ccEI21AJYMnzKtxE=
+
+Name: res/drawable/around_us_tab_footer.png
+SHA1-Digest: 3Y+8CcT8dn3sEtpTxt+IBBAULxE=
+
+Name: res/drawable/reply_btn.png
+SHA1-Digest: kH2kNqt5Ca1DgTB6ecwd9BLu294=
+
+Name: res/layout/fo_past_orders_detail.xml
+SHA1-Digest: yKv8OC8uSKlY+SrGtGlpiHeANxA=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_dark.9
+ .png
+SHA1-Digest: AhN8QSMQGVEiuDPw+ArDAL+kX1o=
+
+Name: res/layout/com_facebook_placepickerfragment.xml
+SHA1-Digest: Hvnx2VlknbxPexoVPqKTgT4lbDA=
+
+Name: res/layout/loyalty_v2_info.xml
+SHA1-Digest: +GJ3FyCioPq9sGnbTwUzMJeE2Ns=
+
+Name: res/layout/reservation_time_layout.xml
+SHA1-Digest: I+17ivNUo7micrHa8a2XzAaTRn4=
+
+Name: res/drawable/com_facebook_button_blue_normal.9.png
+SHA1-Digest: plzlqLb7elFLaBIIHG8jVWFUnfU=
+
+Name: res/layout/fo_location_chooser.xml
+SHA1-Digest: 42SnYRUvdLlXQay1hF6sckIQHrQ=
+
+Name: res/drawable/common_signin_btn_icon_dark.xml
+SHA1-Digest: nBcs4vWsGm0R7SaBgIC3w5JFu5Y=
+
+Name: res/layout/sharing_options_layout.xml
+SHA1-Digest: p6V7jRYdzkUXMND2AsG0wiaoFrA=
+
+Name: res/drawable/proceed_btn.png
+SHA1-Digest: 7t6HgMpwnWufoe642rJpOVb97ME=
+
+Name: res/drawable-hdpi/bt_paypal_button.png
+SHA1-Digest: AOyE5YUVmYXdvKoY6JEAo3LzooY=
+
+Name: res/drawable/gps_checkin_icon.png
+SHA1-Digest: eQz9Ei7XVh7GN3M+wg1/k9e/piE=
+
+Name: res/drawable/tip_center_button_src.xml
+SHA1-Digest: z4e9QeKD1jacv3M4JkGxrvBQby8=
+
+Name: res/drawable-xhdpi/com_facebook_tooltip_black_background.9.png
+SHA1-Digest: zlRSiwmXotImS1tHry75E3Nl2D4=
+
+Name: res/drawable-mdpi/bt_logo_paypal.png
+SHA1-Digest: ki3KOlD1DUy1qjO93S2WJdMAbWU=
+
+Name: res/drawable/contact_icon.png
+SHA1-Digest: 9GCQR2nBrCA9t2sjc4wYR+7gUTQ=
+
+Name: res/layout/common_layout_simple_list_item2.xml
+SHA1-Digest: DRRlhH1sOCgMkZsOzIh+D4YarhQ=
+
+Name: res/drawable-mdpi/bt_loading.png
+SHA1-Digest: QyhosBCNcJ07TQzddX3IKu3bk/w=
+
+Name: res/drawable-hdpi/bt_visa.png
+SHA1-Digest: IISuyHJfs8vfcP5rShZDfcVZ/eU=
+
+Name: res/drawable/middle_row.png
+SHA1-Digest: 1LR6TnFtQv7ZXbzYoikLx+InXAA=
+
+Name: res/layout/call_us_row.xml
+SHA1-Digest: /WwVo4FfVvPfk/MZ+iP6uK4C5gg=
+
+Name: res/drawable/right_arrow.png
+SHA1-Digest: Ssn+VvNagKAlAufqU14LdWqrC2M=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: +YXDOKcowsglHKYLvgWRriKCdQI=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: EJ6Vqirv8VvnXRyLmOrbw9Y/8Oc=
+
+Name: res/drawable/rs_container_opened.9.png
+SHA1-Digest: ddh3YlFXIlp0/WnSC37P48UO34w=
+
+Name: res/drawable/map_mode_right_src.xml
+SHA1-Digest: yeImcVZ4+Okg+WIxioGTPkMw88s=
+
+Name: res/drawable-mdpi/bt_amex.png
+SHA1-Digest: SzCd5uMdedCQBJ685GGskD9ZMro=
+
+Name: res/drawable/side_line_background.xml
+SHA1-Digest: ROIAbSmRPRpDeW85gHCyLkxb0Uw=
+
+Name: res/layout/loyalty_v2_detail.xml
+SHA1-Digest: S9oQQzfomTDlxTUGwliET9Fu8AY=
+
+Name: res/drawable-xhdpi/com_facebook_tooltip_black_topnub.png
+SHA1-Digest: JB+k/ISnz/BtiQLV3cvLHx0rNTs=
+
+Name: res/layout/reservation_service_item_layout.xml
+SHA1-Digest: nh1/Z1L+2Q/CrXpGC8NSS2HdYw8=
+
+Name: res/drawable-xhdpi/common_ic_nav_back.png
+SHA1-Digest: 1Boy3djT+Yrzj/nbhGOmGyVkVZE=
+
+Name: res/drawable-hdpi/bt_loading.png
+SHA1-Digest: 8J1HipP8YwUTHTAbDc90qR3xBNk=
+
+Name: res/drawable/bubble_small.png
+SHA1-Digest: WfoEJMOa9Z4lkM5Q0Q6ePL+wyl4=
+
+Name: res/drawable/around_us_distance_big.png
+SHA1-Digest: iDh/yFDQrQ1hCoGBghwWcqMqbis=
+
+Name: res/drawable/envelope_white.png
+SHA1-Digest: Yy9vOb4lLdyw3hUYwcQZkyhTojs=
+
+Name: res/drawable/turn_off.png
+SHA1-Digest: ShS/BVEDoOEVDWfNun08jvp8K7Y=
+
+Name: res/drawable/white_small_search_icon.png
+SHA1-Digest: Ju4FfsBhPySYUAnANq70Yl9HXAQ=
+
+Name: res/drawable/youtube_icon_likes.png
+SHA1-Digest: BHLg4u/Dp0In1OqoTllLR9Jf/xk=
+
+Name: res/drawable-mdpi/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: dF5oQhWFz2szuye4UCQeGH4CFRk=
+
+Name: res/drawable/recents_active.9.png
+SHA1-Digest: r155Fn0e9uoYPt3jIJMTnlec7G8=
+
+Name: res/drawable/tip_left_button_unselected.png
+SHA1-Digest: IKvwGqsXKsmvvCE1jbXL+bKJDP8=
+
+Name: res/drawable/reservation_register_icon.png
+SHA1-Digest: dsaR7kCbZ1uXfHU0XLLnV3yUrJ8=
+
+Name: res/drawable-mdpi/bt_logo_venmo.png
+SHA1-Digest: dLEw6tXIivhFIScVI1e2tADul20=
+
+Name: res/drawable/replies_bg.png
+SHA1-Digest: 2VU/1NkRP8o5dZh1hHOoxVt/yX4=
+
+Name: res/drawable/bubble.png
+SHA1-Digest: E1Xluwj0Kbm1UbZb9PnEB8lM2mE=
+
+Name: res/layout/home_screen_layout_2row.xml
+SHA1-Digest: P4MmwM66XwZd5LSfUmToT/1exIs=
+
+Name: res/drawable-xxhdpi/bt_logo_android_pay.png
+SHA1-Digest: 1zUQ/GuAoDSxWOqKUQaSRpDb54U=
+
+Name: res/drawable/around_tab_unselected.png
+SHA1-Digest: 0ypBaSykvvXCUBU/G7D/S42LE8M=
+
+Name: res/drawable-xhdpi/bt_maestro.png
+SHA1-Digest: 1CHTPYYT0vB4TiSfk2Ww/JeMLk8=
+
+Name: res/drawable/fo_notification_icon.png
+SHA1-Digest: QApLOIZ8HrGF/GyUi6aM+t9EcbY=
+
+Name: res/drawable/youtube_icon_views.png
+SHA1-Digest: NZ6QKO7AJJv0v+U/0XIE+Segl4g=
+
+Name: res/layout/common_row.xml
+SHA1-Digest: 7ryjvKVZ63o9ho3N6XV8D6sxkpA=
+
+Name: res/drawable-xhdpi/com_facebook_picker_magnifier.png
+SHA1-Digest: VqEt89wuwGEqEtvuU36zIvHS4VY=
+
+Name: res/layout/new_fan_wall_layout.xml
+SHA1-Digest: wEY5tdXD9rpuArCQyPBxrddKtFM=
+
+Name: res/drawable/voice_tab_record.png
+SHA1-Digest: AI1+WbrywWRUByr7XN3XtK8lwlc=
+
+Name: res/drawable/tip_indicator.png
+SHA1-Digest: nr2rFtqD9YCpnnscvf+rTEa0JtU=
+
+Name: res/layout/fo_category_quantity_item.xml
+SHA1-Digest: XCwKRmpjyWjr234oi/Lsa9mxpzY=
+
+Name: res/drawable-hdpi/com_facebook_tooltip_black_xout.png
+SHA1-Digest: gidiAUAJjJias1MRTuSOr4/2dvI=
+
+Name: res/layout/fo_categories_layout.xml
+SHA1-Digest: G9iNq8u0ErmIZ78IffqRURG5HCI=
+
+Name: res/drawable/gallery_icon.png
+SHA1-Digest: ufsl09VfLuYFlE3iE3PIrPflot4=
+
+Name: res/drawable-hdpi/com_facebook_tooltip_black_bottomnub.png
+SHA1-Digest: YfzZzYX620Rtn0aFBjHnwGCCEXw=
+
+Name: res/layout/fo_my_addresses.xml
+SHA1-Digest: P79SME2vsR5ZE9JV6j/PdU/PJFw=
+
+Name: res/layout/real_estate_property_detail_layout.xml
+SHA1-Digest: 2R7pV87baKc+FG6KIsUj1fypPAI=
+
+Name: res/drawable-mdpi/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: AT9w5rSAMWW0uoROEE4O/DyXQj4=
+
+Name: res/drawable/seek_thumb.xml
+SHA1-Digest: WvwRL/YEgVXD7vOfMEMUIVG5rJA=
+
+Name: res/drawable/book_step1.png
+SHA1-Digest: jfO7bgWiM+0Byx6JKV2dCf7xS6U=
+
+Name: res/drawable-hdpi/bt_logo_android_pay.png
+SHA1-Digest: 68RNtsktt6/FOn6TgpHHQKPepzc=
+
+Name: res/drawable/seek_thumb_pressed.png
+SHA1-Digest: Zrl2srq5FyY7hN2VWd0v3V3dGQY=
+
+Name: res/drawable/icon_direction.png
+SHA1-Digest: IwODwtAlH0ayoJiPcmIRrj7IAMM=
+
+Name: res/drawable/loyalty_box.9.png
+SHA1-Digest: fP76Z7XkFTAmoofOEE0sF/BiMh8=
+
+Name: res/layout/new_fan_wall_item_layout.xml
+SHA1-Digest: iFdijJfGqawf0JqwU47eLeOKzqQ=
+
+Name: res/drawable/events_icon_watch.png
+SHA1-Digest: Zg2LuheGv78NtLAam/HpT1w34oU=
+
+Name: res/layout/fo_location_time_item.xml
+SHA1-Digest: bOFcijNrSvW4F9Xl+9Phhd67alM=
+
+Name: res/drawable/gray_textview_bg.9.png
+SHA1-Digest: f50MEtFPbrfj7kmvu6VIvb4PzVU=
+
+Name: res/drawable/pause_icon.png
+SHA1-Digest: 4b/BEZ3p7aSijrrZFZdeWFcd2cA=
+
+Name: res/layout/section_header.xml
+SHA1-Digest: gQIApj+j3DkSLoT1d8hLLU/wnng=
+
+Name: res/layout/message_list_layout.xml
+SHA1-Digest: 0Y8ehcDPNQL9kJ5b+eIT4TPjMHI=
+
+Name: res/layout/flexible_counter_item.xml
+SHA1-Digest: HFpTER8w39/xzyqqtNzji16rjvk=
+
+Name: res/drawable-ldpi/com_facebook_close.png
+SHA1-Digest: lg0izCnB1flsd2QqLisbxkcuGyU=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: f0EJjdbMj9zLfOj/d3UbE5N6BjA=
+
+Name: res/layout/home_screen_layout_3row.xml
+SHA1-Digest: +qYASlLI10N3whgGYebiETkcdWU=
+
+Name: res/layout/voice_recording_dialog.xml
+SHA1-Digest: jrBb9NzS2sV+A6KcKMHy9xTD6Rs=
+
+Name: res/drawable/new_edittext_bg.png
+SHA1-Digest: lL1U3nh75RTT9cGS1pWAy6wF+XQ=
+
+Name: res/drawable/button_passive_bg.png
+SHA1-Digest: waIF0z520bqWi9Q7QYwbZpD6mm8=
+
+Name: res/drawable/com_facebook_profile_picture_blank_square.png
+SHA1-Digest: ii3g4mqHjQXtghNZE1cibJA1Jbs=
+
+Name: res/drawable-mdpi/ic_plusone_standard_off_client.png
+SHA1-Digest: xWYT0qzRVNaGybBaBeMKbeGgkgE=
+
+Name: res/anim/hide_fade_effect.xml
+SHA1-Digest: ytvBH4JyORtIjqBo7MxlYHsTKvo=
+
+Name: res/drawable/button_black_src.xml
+SHA1-Digest: CNrVqicYXUTJLebvDetlRKdtRUY=
+
+Name: res/drawable-mdpi/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: vgTn+pEQhSLa5buaCqjDd3w3UWU=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: rk4+RrLhcP6lThhrsLhux6sOaW0=
+
+Name: res/drawable-mdpi/com_facebook_tooltip_black_topnub.png
+SHA1-Digest: yY8/t0s+QXhpJiUSW/BkWQiYs6A=
+
+Name: res/layout/reservation_account_register_layout.xml
+SHA1-Digest: 7WSf4EIOXwFhPq7jxWUIGo7Naho=
+
+Name: res/drawable-xhdpi/bt_logo_android_pay.png
+SHA1-Digest: RDcyCETjkEbQ+oOv1OpjcXI96/8=
+
+Name: res/drawable/message_cell_top_bg.9.png
+SHA1-Digest: 3gZ+zaa9HX01tKxKYEqfN3Bf3wo=
+
+Name: res/drawable/loyalty_coupon_icon.png
+SHA1-Digest: mEcJCRgs3qqixtshf0FdCY6n6I4=
+
+Name: res/drawable/pause_icon_new.png
+SHA1-Digest: 5ncxAap/jqVio/zNVxa06IoEUFw=
+
+Name: res/layout/birthday_wheel_layout.xml
+SHA1-Digest: C7IfgbOCQ5vnjKe5LgNTZpNk6Hw=
+
+Name: res/layout/reservation_confirm_layout.xml
+SHA1-Digest: l6x7cL5NbVSE+op50gGGpRWqNV4=
+
+Name: res/drawable/com_facebook_picker_list_focused.9.png
+SHA1-Digest: wq1XBihYEP7fT9hT55vx2S7+KDQ=
+
+Name: res/layout/music_detail_layout.xml
+SHA1-Digest: y9+RZoG9+dcIzbe46EVhrsiEOaE=
+
+Name: res/drawable-xhdpi/ic_menu_players.png
+SHA1-Digest: WuzoiVi7jiVr2A3qXP+bPVWqs9A=
+
+Name: res/drawable/splash_bg.png
+SHA1-Digest: 4j7Z8Bp0++mtV7JtAE0BaGV3zeE=
+
+Name: res/drawable-mdpi/bt_visa.png
+SHA1-Digest: kekw5xWDvs55Bo48uuVcB3qF/2o=
+
+Name: res/layout/loyalty_row.xml
+SHA1-Digest: d+V/qbDXTRc2FwVdtSfUkKhetcw=
+
+Name: res/drawable/coupons_icon_count.png
+SHA1-Digest: 86Jv9L3ekYXF8g0FqDVIa8qr4Gs=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: nvg7KMKsHZx5cXiXMrsOUZ1pQs8=
+
+Name: res/layout/info_detail_layout.xml
+SHA1-Digest: XE7J90uz7hpsskF3mpzXI6cETdA=
+
+Name: res/drawable-hdpi/bt_cvv_highlighted.png
+SHA1-Digest: jtge0fnRZqIQMMmiAvCwnqqJTsU=
+
+Name: res/drawable/button_toggle_active_center.png
+SHA1-Digest: IxaIkNCF3oYmTCOsJEK5vLkGf2U=
+
+Name: res/layout/home_sliding_layout.xml
+SHA1-Digest: 3Lgqyf1wLWs4nctPN4zfBu30u5Y=
+
+Name: res/layout/reservation_login_layout.xml
+SHA1-Digest: SQf1a+dVj1SPBclEzoMwx7Vyk6M=
+
+Name: res/drawable/around_us_purple_button_bg.png
+SHA1-Digest: 83NJf7+jzvzMY+oYqPqpGufikck=
+
+Name: res/drawable/bottom_tab_unselected.png
+SHA1-Digest: 83NJf7+jzvzMY+oYqPqpGufikck=
+
+Name: res/layout-w500dp/bt_card_form_fields.xml
+SHA1-Digest: WDLrTm0c8WfPi3acef0fAapmf1A=
+
+Name: res/drawable/fo_cart_icon.png
+SHA1-Digest: d+x0GgDHdElRDDnHwCBZpnizoHU=
+
+Name: res/drawable/login.png
+SHA1-Digest: DH0LD8aQRBbUi9Uc1hapohxHbpU=
+
+Name: res/drawable/news_short_link_icon.png
+SHA1-Digest: rzaG9JVa685PWG1sN+Ep8U+yooI=
+
+Name: res/drawable/rs_shower_icon.png
+SHA1-Digest: 7+JxWQhQIecRqdWaYc7p5cErkEw=
+
+Name: res/drawable-hdpi/common_signin_btn_text_disabled_focus_light.9.
+ png
+SHA1-Digest: YmWnuLFTsxsuwRBtvQiQ6Y6KnsI=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_disabled_focus_light.9.
+ png
+SHA1-Digest: 0ky7hJW6fNsa6m2tmjhllqHXHfg=
+
+Name: res/drawable/event_v2_top.png
+SHA1-Digest: CRlyKb8o7BraNwax5VlXL7Ju0Gg=
+
+Name: res/drawable/wheel_view_bg.xml
+SHA1-Digest: Id7jBTBKRNnnjHj77Oyt5ix4MUw=
+
+Name: res/layout/home_part_layout.xml
+SHA1-Digest: 03poPqVZQD0CzKFfOhrnKmtQIQs=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: VuHJWuT/6iilvSab3F78/jbS8VQ=
+
+Name: res/drawable-hdpi/bt_amex.png
+SHA1-Digest: e5seO/ni8DqiAzjHYXnpm5Vp4Xs=
+
+Name: res/layout/voice_recording_item_layout.xml
+SHA1-Digest: GE0QiQUu7ppe57zbZ7QyjXMy9c4=
+
+Name: res/drawable-xhdpi/ic_check_mark_unchecked.png
+SHA1-Digest: h0YlDdykxjeU7uxVY2+RdWxmPUs=
+
+Name: res/drawable/medium_button_long_spotted.png
+SHA1-Digest: QD+oiqlThzEu8IUrSpsCSjrMFzk=
+
+Name: res/drawable/default_medium_button.png
+SHA1-Digest: ltSHGDT3/GUPnpjc4gnux7Yzj1o=
+
+Name: res/drawable/comment_edittext_bg.9.png
+SHA1-Digest: FPObASVWCoyymyLJUQ28E6bfczI=
+
+Name: res/drawable/button_toggle_left_long.9.png
+SHA1-Digest: UdC1jbeEn/iu2hFGcuAb1aL4SZk=
+
+Name: res/drawable-hdpi/ic_podcast.png
+SHA1-Digest: XgCruMeOBrn/onPm7KqTDnidRSA=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: vo5IER5aYP04fs9WVhNf8ZG8h6g=
+
+Name: res/drawable-xhdpi/add_icon.png
+SHA1-Digest: X6w2nSBJIfPkhm84fNgssPnG/YM=
+
+Name: res/layout/location_row.xml
+SHA1-Digest: v+YfA20Vk2BMslwQowUsBN5uGOs=
+
+Name: res/layout/contact_list_item.xml
+SHA1-Digest: RDTC4ILUhhP41AzZmjuKzemTiNg=
+
+Name: res/layout/loyalty_v2_perk_icon.xml
+SHA1-Digest: 5MCblxj8c7PZ55MKjlN1sJ4rTn4=
+
+Name: res/layout/event_detail_info_tab.xml
+SHA1-Digest: j/Th4ITJYRqxiZNzv7Q8Aq8Fjj4=
+
+Name: res/drawable/preview_gradient.xml
+SHA1-Digest: OhrJszvC6LRejPIlDw6evPY5jq0=
+
+Name: res/drawable/button_toggle_left.xml
+SHA1-Digest: a+++yacS/3B+ZAp5L3V1xvE88Oc=
+
+Name: res/layout/coupon_detail_layout.xml
+SHA1-Digest: jSoEGk7Cu42mVxDsF0Dq29WSDsY=
+
+Name: res/layout/opening_hours_row.xml
+SHA1-Digest: 3nvxJJiszXV4oXzXHpLVG82JL60=
+
+Name: res/layout/voice_recording_layout.xml
+SHA1-Digest: 9NNBC97oX5dzCi8nOQzaZTJwo28=
+
+Name: res/drawable/recents_passive.9.png
+SHA1-Digest: dxX3MLFwJ3Rr13OsPt6vOX4b7FM=
+
+Name: res/drawable/black_button_rounded_left.xml
+SHA1-Digest: 2PeN/5ylt2xH7UAWoytj4NNPwFs=
+
+Name: res/drawable-hdpi/bt_android_pay.png
+SHA1-Digest: xvxHk5y6z1w552+hr0BUoBVZkbc=
+
+Name: res/layout/social_network_dialog.xml
+SHA1-Digest: jPAWwqHn9YQzvW2GTZ4pAoK0jVs=
+
+Name: res/layout/qr_scanner_layout.xml
+SHA1-Digest: hTl/xdoYwcsGWgMvQyzN0QvVYyM=
+
+Name: res/drawable/around_us_tab_src.xml
+SHA1-Digest: 1Lyw4EnaXwvxPZfJVcw9jUt3Alo=
+
+Name: res/layout/social_row.xml
+SHA1-Digest: bmqsHL5qxgyplCg5VI6U8VNp7OU=
+
+Name: res/drawable/medium_button_long.png
+SHA1-Digest: MCrZ8FS7BC7PX4ani5ZrryyjTXA=
+
+Name: res/layout/common_smart_tableview_layout.xml
+SHA1-Digest: Iavce0STKpc29YBBAWJT87HLTlc=
+
+Name: res/layout/golf_course_board_content_item_layout.xml
+SHA1-Digest: pabTNOttbSIEhNpnN/w/uaIwuq0=
+
+Name: res/drawable-xhdpi/bt_logo_venmo.png
+SHA1-Digest: SNe1Ej7tyWXTl0ijORLdknN/pRg=
+
+Name: res/layout/multiple_item_dialog.xml
+SHA1-Digest: NFRv3u96gBdHDZw63hsAwmVPEvk=
+
+Name: res/drawable/logout.png
+SHA1-Digest: GlcQoqw06xWbg1FPM3X2Oi+wAaQ=
+
+Name: res/drawable-hdpi/com_facebook_tooltip_black_background.9.png
+SHA1-Digest: ztQIO1uL218tXt5Z5/kQajmtTzs=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: zXl4gOYVm22pGbkGC4i82wLIMyg=
+
+Name: res/drawable/around_us_distance.png
+SHA1-Digest: Qvq3lUbnOIPyYlRYp4FRnrNIHp4=
+
+Name: res/drawable-xhdpi/ic_course.png
+SHA1-Digest: niq9k6WwGs7ey5d13NIu64pWFDw=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: sa6MQEFa8whxq6hug+zvczJa8Ss=
+
+Name: res/layout/youtube_info_item_layout.xml
+SHA1-Digest: SsB5E6JniXSriMB29TPV/f+xcC8=
+
+Name: res/drawable-xhdpi/bt_success.png
+SHA1-Digest: 3YymVg3ta7+GpSpl1tMAEHlS73I=
+
+Name: res/drawable/com_facebook_button_grey_focused.9.png
+SHA1-Digest: oegkN07TNc6Ko8z3qqCgUGgnvRw=
+
+Name: res/layout/com_facebook_picker_image.xml
+SHA1-Digest: NJjDbA2ajqxVmqO7KhW7CdY21w0=
+
+Name: res/drawable/selected_circle.png
+SHA1-Digest: Zbr61WhqKqcLbCM7i1NsWjK1gUg=
+
+Name: res/layout-w500dp/bt_list_submit_button.xml
+SHA1-Digest: VqR6CBP0YzSu5BEJjPo6I4rYQeE=
+
+Name: res/drawable/datepickerbar_left.png
+SHA1-Digest: E6MYfJJ3FY4yL5A12C7v/Ib48hs=
+
+Name: res/layout/payment_options_layout.xml
+SHA1-Digest: +3iUJ9NHS1373bhLIJGP/FUErok=
+
+Name: res/drawable/around_us_list_icon.png
+SHA1-Digest: Esp2BasrRuPttL6WClnTcYzzvg8=
+
+Name: res/drawable/message_tab_src.xml
+SHA1-Digest: qqOSxASrx2HlI1gBKZ82MuZQH8s=
+
+Name: res/layout-w500dp/bt_form_submit_button.xml
+SHA1-Digest: TvGmMzySVQGhIB1Ggp2pAc8NkCU=
+
+Name: res/drawable/com_facebook_profile_default_icon.png
+SHA1-Digest: hnc7R7K+VpzIWKki/iGEw6AlfPw=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_disabled_focus_dark.9.p
+ ng
+SHA1-Digest: IXqmYG4624bef7DnPxFG+Uwx1ak=
+
+Name: res/drawable-xxhdpi/bt_cid_highlighted.png
+SHA1-Digest: ehKFN5aavMfC0piV95hguXZW0xs=
+
+Name: org/apache/http/client/version.properties
+SHA1-Digest: 2xXdBgy8Rwwe+sf2wTaFlZP+zzQ=
+
+Name: res/drawable/message_cell_bg2.png
+SHA1-Digest: gMvNFFgMh6nIss6GzjZrsIQHyHE=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: 3+x2t/WZmDnWpRsGihxGb1wjfKk=
+
+Name: res/drawable/grey_button_.png
+SHA1-Digest: 7htd0PRp219M/e3X0rqpILgDelU=
+
+Name: res/drawable/cart_btn.xml
+SHA1-Digest: /wTJncyvszsQsXNzeBiie59jiTs=
+
+Name: res/layout/list_layout.xml
+SHA1-Digest: DwOp7A8y7vOyzr3B+7iBSLPr864=
+
+Name: res/layout/home_tab.xml
+SHA1-Digest: wLfhsFbeUP72c9C+XtfUYUmpaMo=
+
+Name: res/drawable/player_thumb.png
+SHA1-Digest: whZwbQXD56jUJv5agthyRyyNNbQ=
+
+Name: res/drawable/turn_circle.png
+SHA1-Digest: eEZHH/kN6GG8oxK1Ph7i/5HolRw=
+
+Name: res/drawable/clock_icon.png
+SHA1-Digest: Izd0lBJgkthqucO75iRWLrAgCMw=
+
+Name: res/drawable-xhdpi/ic_plusone_tall_off_client.png
+SHA1-Digest: znT4P8AI3xcWsBof3ElTFY2hDrk=
+
+Name: res/drawable/add_notepad_item_icon.png
+SHA1-Digest: IuPaTJNfOWddZmAfvHaQxmvXOPw=
+
+Name: res/drawable/com_facebook_inverse_icon.png
+SHA1-Digest: F87dFjM8iCRCeWSfrxkG/jcMtZY=
+
+Name: res/drawable-xhdpi/ic_players.png
+SHA1-Digest: fEjoHFSR/9AiiFTtF3AWTnkv/do=
+
+Name: res/drawable/messages_numbers_bg.png
+SHA1-Digest: k4Mdan7PQNw3saQW0r/De82tF58=
+
+Name: res/drawable/button_black_selected.9.png
+SHA1-Digest: /uOG5QlDkG3Dkz14AMt371FSARM=
+
+Name: res/drawable/stop_recording.png
+SHA1-Digest: zcv9nCq4bSmDFnZDMqyJJlXsceU=
+
+Name: res/layout/webview_layout.xml
+SHA1-Digest: ItRz0K61/zMw5c717o1qU12cyEQ=
+
+Name: res/drawable-xhdpi/bt_diners.png
+SHA1-Digest: k4He0vgy7wTL+sjv58z/mssZFOY=
+
+Name: res/drawable/arrow_left.png
+SHA1-Digest: aiDLOtNy40riP57eBWTL+e22oww=
+
+Name: res/layout/event_detail_photos_tab.xml
+SHA1-Digest: HMhVzFaPG9MA9xonwugjPLQw8Yk=
+
+Name: res/drawable/reservation_item_detail_bg.9.png
+SHA1-Digest: TyUXzz/oKfDkjwRJh/xQT0yw66I=
+
+Name: res/drawable/link_icon.png
+SHA1-Digest: 3S9nw0Ir3RhIxomwIYcei7/9D4s=
+
+Name: res/drawable/map.png
+SHA1-Digest: 170AHYNYZxsBr7zcRKJXFiQebls=
+
+Name: res/drawable/textfield_selected.9.png
+SHA1-Digest: 1Stq45TqoXVEqyEWYt4SpNhTVuo=
+
+Name: res/anim/hide_navigation_container.xml
+SHA1-Digest: 4xHfMDSMsk871CTHUtPS/96CrmI=
+
+Name: res/layout/bt_payment_methods_list.xml
+SHA1-Digest: wO6sIhLjkJAPvdEnhoz/RWyTjX0=
+
+Name: res/drawable-xxhdpi/bt_mastercard.png
+SHA1-Digest: bG/pvyxC2qdOgo6eDtHuVchl4Dc=
+
+Name: res/layout/calendar_layout.xml
+SHA1-Digest: dW8pMMO0BGM98NrMo/tMlKSGfH0=
+
+Name: res/drawable-hdpi/com_facebook_tooltip_blue_topnub.png
+SHA1-Digest: ptIIZ0pQGG0f3x+uMhzCqFOYu1s=
+
+Name: res/layout/loyalty_dialog.xml
+SHA1-Digest: WQhcb+fG73wZyHOxluTCNU0XemQ=
+
+Name: res/drawable/loyalty_icon_tick_even.png
+SHA1-Digest: VrtRGEUHPgU88LZwjGTxveayIf8=
+
+Name: res/drawable/loyalty_white_border_round_rect.xml
+SHA1-Digest: Vz2FAoxZVCugGyUxRyhAFwf29K8=
+
+Name: res/drawable/pointer.png
+SHA1-Digest: Mf2Dq3h7PYEEsjUg8OUpJIUYVf4=
+
+Name: res/layout/ads_layout.xml
+SHA1-Digest: neybiRAv5+v8chwQiVoZGGUTLtM=
+
+Name: res/drawable/playbar_expand_bg.png
+SHA1-Digest: Sz2J3PL+Z3iy0qt8QH1rwjqu1sA=
+
+Name: res/layout/social_onboarding_layout.xml
+SHA1-Digest: OUVL1axcvU5JBSUcir/PrZF93Ws=
+
+Name: res/layout/around_us_detail_layout.xml
+SHA1-Digest: bYG7K4LueVz7RBtGS+7BbDySN9M=
+
+Name: res/layout/bt_secure_loading_progress_bar.xml
+SHA1-Digest: yDM0USrkLfH4QWCxZxp8beR35ws=
+
+Name: res/drawable/icon_event_new.png
+SHA1-Digest: F8QlIak+GYNCI4IyTl6NAedtNm4=
+
+Name: res/drawable/tab_circles_src.xml
+SHA1-Digest: iVN0oIbDwnzqItbE+4bEW6gBKbQ=
+
+Name: res/drawable/sports_stat_clear_icon.png
+SHA1-Digest: PjupU/BRa/Xcw7GoBJesGFg+R0M=
+
+Name: res/layout/com_facebook_picker_activity_circle_row.xml
+SHA1-Digest: SNuQevwAynHe8gFWSxBFt4dzeq8=
+
+Name: res/drawable/button_active_bg.png
+SHA1-Digest: Gybc7tXZv0RjUTIqBWh2c37CMAM=
+
+Name: res/drawable-xhdpi/com_facebook_tooltip_blue_xout.png
+SHA1-Digest: WjFm0tp4nyOULhL2U3mNcNv66H0=
+
+Name: res/layout/flexible_counter_layout.xml
+SHA1-Digest: s463MIgCKUl70KjBMWXBeuIbSfc=
+
+Name: res/layout/location_layout.xml
+SHA1-Digest: Lk5gzvzbreE7JyTqKWyNP9mSWfc=
+
+Name: res/layout/fo_location_date_item.xml
+SHA1-Digest: DvywfOn4O39nihkljDQdThcyE7Q=
+
+Name: res/layout/mailing_list_item_layout.xml
+SHA1-Digest: iqJp72zf8cD3cuUrzhbGmWBByf0=
+
+Name: res/anim/anim_popup_slide_bottom.xml
+SHA1-Digest: +gIpVhuBVw9XxbPUfclf05gpZpo=
+
+Name: res/layout/golf_course_layout.xml
+SHA1-Digest: qtdh+L9cYyBrh6dAYiQYmPq+TCE=
+
+Name: res/drawable/button_toggle_right.xml
+SHA1-Digest: J7gXPP8NDmJRjyQU8zDlBwaId4A=
+
+Name: res/layout/real_estate_property_row.xml
+SHA1-Digest: /gPm50/27IA8BZGUQPmsepRaDlM=
+
+Name: res/drawable/message_web_big_icon.png
+SHA1-Digest: 0ebJ4CNZAxipZera4cJHsnHKnwI=
+
+Name: res/drawable/location_icon.png
+SHA1-Digest: FCe7ED67j9UL0oYEcCbgRq9DqC0=
+
+Name: res/layout/loyalty_v1_detail.xml
+SHA1-Digest: yRtfDYVrnXV0R1pN3fYLYUWhkpk=
+
+Name: res/drawable-mdpi/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: MQsj73rqoxGdFvNYEPkKJZPqXBU=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: KUWcrP9v7FORu4ojRjzVSn0JZio=
+
+Name: res/layout/around_us_layout.xml
+SHA1-Digest: 7hw2KZjiLCUHDJXdLgZZEZn895Q=
+
+Name: res/layout/reseller_app_layout.xml
+SHA1-Digest: s2I/jRXEvovXlM423bZrz0scjko=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_dark.9.
+ png
+SHA1-Digest: 5te3wznPBVYtZMjVj49FYN5YlRA=
+
+Name: res/drawable/arrow_down.png
+SHA1-Digest: GxHhL8UVhuGpYufjSX4avRSc8cQ=
+
+Name: res/layout/activities_item.xml
+SHA1-Digest: JEngOsbtVrhJnITdO9b/nvZN2Gk=
+
+Name: res/drawable-xhdpi/com_facebook_button_grey_normal.9.png
+SHA1-Digest: ObpXSA4NH1YwVj8ZgzYz74kaDfE=
+
+Name: res/drawable-xhdpi/bt_cvv_highlighted.png
+SHA1-Digest: Hr+VQXiNTXv4m1KYh0ZqgKdq5C8=
+
+Name: res/layout/home_screen_layout_1row.xml
+SHA1-Digest: 2v3PoRO6ZPrasZRQzBULOaiG3PU=
+
+Name: res/layout/navigation_bar_vertical.xml
+SHA1-Digest: OaUR/UP0BCAbKRwVb+EBHZIfu3Y=
+
+Name: res/layout/golf_course_hole_details_score_item_layout.xml
+SHA1-Digest: ILxnCerr1SvO2whed2Nan6Mm/GA=
+
+Name: res/drawable/tell_friend_dialog_background.xml
+SHA1-Digest: /M/eWeQetorz/qSubErsSdRfcvQ=
+
+Name: res/layout/info_detail_tab.xml
+SHA1-Digest: SyVCg9DSy+q+jeBSXsr+rf+MJPs=
+
+Name: res/drawable/button_black.9.png
+SHA1-Digest: Y50yvpLmcTg4/In2uhNV4sOaMtA=
+
+Name: res/layout/golf_course_board_frozen_cross_header_item_layout.xml
+SHA1-Digest: 9135kKGsxQYpQlI189Lm/Cmt0J8=
+
+Name: res/drawable/get_here_icon.png
+SHA1-Digest: wtMHjnGXKnSZ9EIb7/Qh7Y3G2TE=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: uRAyDpH07H9tazGPj+pquxEo+4U=
+
+Name: res/drawable/reservation_appt_list_img3.png
+SHA1-Digest: lZgLDDEiZdKtUwCueg1LXUJuqB0=
+
+Name: res/drawable-hdpi/ic_plusone_medium_off_client.png
+SHA1-Digest: NHqkBfIL0tvXQGsGHO91mUCAPyI=
+
+Name: res/layout/com_facebook_picker_list_section_header.xml
+SHA1-Digest: Jr8Nw/6M6f5aASSmC25r2Losa4U=
+
+Name: res/drawable/tab_selector.xml
+SHA1-Digest: aHhj7L7UWXoDy+819YiblynKlXM=
+
+Name: res/layout/parallax_image_item.xml
+SHA1-Digest: 0rRPXUouMYQvg+AUrwk3pN7Lzw0=
+
+Name: res/drawable-hdpi/com_facebook_tooltip_blue_background.9.png
+SHA1-Digest: DeL3PB83RoQM/i3fDhFKt05Z8U4=
+
+Name: res/layout/bt_drop_in_ui.xml
+SHA1-Digest: JV7qOD3rYHGjyBfb0dW9C7NNt0g=
+
+Name: res/drawable-hdpi/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: 1nB29gilkMG21U2c1UzWz5vtjpc=
+
+Name: res/drawable-hdpi/com_facebook_picker_magnifier.png
+SHA1-Digest: IRytpOlTJ0L0tqrpIfR65gTRRSo=
+
+Name: res/anim/anim_popup_slide_left.xml
+SHA1-Digest: vPzYCguOaVlWQsIUz9WTnhpcFiw=
+
+Name: res/layout/real_estate_list_layout.xml
+SHA1-Digest: aEtZaf/L4v7igDoX8NmPJvvCcZQ=
+
+Name: res/drawable/contact_detail_box_image.png
+SHA1-Digest: ywaW1Qdi9IYxKYsINgYQk81rBS4=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: Bdyi8PRk2107rc0T/q6Ek8orFjU=
+
+Name: res/layout/com_facebook_picker_title_bar.xml
+SHA1-Digest: y6DW4VPJ8DgMCsn3+hzqdSxMe0I=
+
+Name: res/drawable-xhdpi/com_facebook_button_blue_normal.9.png
+SHA1-Digest: nqGHiPOhSaIXmMVgJ9Ux7JqUxEk=
+
+Name: res/drawable/default_button_long_spotted.png
+SHA1-Digest: QD+oiqlThzEu8IUrSpsCSjrMFzk=
+
+Name: res/drawable/reservation_settings.png
+SHA1-Digest: nrz6j94S434pJe2I4DH3eUWKxNk=
+
+Name: res/layout/golf_course_board_frozen_row_header_item_layout.xml
+SHA1-Digest: GU8Hkpcf1J9TZUum0hsjgKLGYeY=
+
+Name: res/drawable/message_cell_bg.9.png
+SHA1-Digest: VO+kIDGq6rq71DuIgcTbsJy3aEM=
+
+Name: res/drawable/textfield_disabled_selected.9.png
+SHA1-Digest: Qo1vcoJFttyxEP3pQpSKn852w4M=
+
+Name: res/drawable-hdpi/ic_plusone_tall_off_client.png
+SHA1-Digest: mKmFlpzPqO2eN1UQWWTrY/HvgmA=
+
+Name: res/drawable-hdpi/com_facebook_button_grey_normal.9.png
+SHA1-Digest: BvNuj0JM4dW1M5X/qZOU04aa9aQ=
+
+Name: res/layout/loyalty_card_item_layout.xml
+SHA1-Digest: VOyn7+zxMcTKca9jk+Fuzwvf3jo=
+
+Name: res/drawable-mdpi/powered_by_google_dark.png
+SHA1-Digest: SYwxuihJgUaoyjHCQQvZHUzSvgw=
+
+Name: res/layout/reservation_payment_layout.xml
+SHA1-Digest: MW7/2Aln9Hc3qDPVP8vrUr3QX74=
+
+Name: res/drawable-mdpi/bt_jcb.png
+SHA1-Digest: 3uEorHiUJwS54UhLYoDCMqlRz5k=
+
+Name: res/drawable/youtube_icon_comments.png
+SHA1-Digest: ADYeqywqRmm1pvxyZ5Dr6QHzCvA=
+
+Name: res/drawable/arrow_right.png
+SHA1-Digest: WKO8VrbiEyJ8UIuYcQUQvyxnxZk=
+
+Name: res/drawable/text_separator.png
+SHA1-Digest: kOf6e2+etiMd3AH+HGb3Zs5w4mI=
+
+Name: res/drawable/wheel_view_line.xml
+SHA1-Digest: GfHDmvBs7uVckQIE+0XFO8cnCVw=
+
+Name: res/layout/golf_course_edit_player_item_layout.xml
+SHA1-Digest: lKghCfaO05lohK6wRzwfayaJh7A=
+
+Name: res/layout/podcat_player_layout.xml
+SHA1-Digest: FbyNXTcOdFzYry1BmwG632WDDy4=
+
+Name: res/drawable/play_icon_new.png
+SHA1-Digest: C0ocNW8OgSh9lzPI4/JDBtyIaus=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: he0SlIYzLlZChBg6d38hheLzBns=
+
+Name: res/layout/golf_course_add_game_item_layout.xml
+SHA1-Digest: 149jsBm/bv/x82rhjwuHB3cjnSo=
+
+Name: res/layout/gallery_layout.xml
+SHA1-Digest: osfV1Q+3dlfoZkQd6oTpw/Nb9wc=
+
+Name: res/drawable-mdpi/com_facebook_tooltip_black_xout.png
+SHA1-Digest: +NOQmfBahK9wgyl14UEHXrBM1lQ=
+
+Name: res/layout/comments_layout.xml
+SHA1-Digest: eejW93MV6Lpng9D8wvj34hfYGCw=
+
+Name: res/drawable-xxhdpi/bt_paypal.png
+SHA1-Digest: 1y0Bz8s3F7K7BDpfM9l4i9kUciI=
+
+Name: res/layout/notepad_list_row.xml
+SHA1-Digest: jITW5owuPFjBuKtMm5bjCmZpzZA=
+
+Name: res/drawable/redeem_bg.png
+SHA1-Digest: fOcCVBgmup9Le8jYUll5nfBSBXU=
+
+Name: res/drawable/com_facebook_picker_item_background.xml
+SHA1-Digest: sIeXDSmTWAQNLmi5LvgpqYd5w9c=
+
+Name: res/drawable/tip_container_bg.9.png
+SHA1-Digest: aVMVUqcBe/NhG3XfYr9vqHYGj6o=
+
+Name: res/drawable-mdpi/ic_plusone_small_off_client.png
+SHA1-Digest: lOwgiwPxI8R2+0EZBBOzp3VD+bg=
+
+Name: res/drawable/reservation_price_tag.png
+SHA1-Digest: /DlaibjWWVYjgg82iWQV/VYt+0s=
+
+Name: res/drawable-mdpi/com_facebook_tooltip_blue_xout.png
+SHA1-Digest: VpSoMW/6yLkYe65/CO1eWu25/vg=
+
+Name: res/layout/fo_category_item_detail.xml
+SHA1-Digest: omr4kl6YV6UKV4WIfIHynuBr19A=
+
+Name: res/layout/fo_category_item.xml
+SHA1-Digest: wl4thMqw1kohYd3sLe+VBPP9TXc=
+
+Name: res/drawable-xhdpi/com_facebook_tooltip_black_bottomnub.png
+SHA1-Digest: TNBUU/+Kiv9UtYIEGLvK+KY7TPA=
+
+Name: res/anim/message_left_item_anim.xml
+SHA1-Digest: 7CWAN6hxVA3to4rTzKsv4dVPOAA=
+
+Name: res/layout/playlist_album_bar_item.xml
+SHA1-Digest: Zk3Kcjmy/Klt+hNx+Qurp1H4jwQ=
+
+Name: res/drawable-xxhdpi/bt_loading.png
+SHA1-Digest: lLfBDZGJgNPpAS+msAAHwNYcWSI=
+
+Name: res/drawable/edit_text.xml
+SHA1-Digest: yj+WztYr5UXFwV6uVffG8r9IpoI=
+
+Name: res/drawable-mdpi/bt_secure.png
+SHA1-Digest: uv+ls7UC/7A24wOBgw4VPcYumZw=
+
+Name: res/drawable/photo_icon.png
+SHA1-Digest: An+jLRuIp/VITL+VCv8OiBNIT4Y=
+
+Name: res/anim/fade_out.xml
+SHA1-Digest: /tzv6YzAj7mOVbAQhWEWq+zTRxY=
+
+Name: res/drawable/around_us_tab_active.png
+SHA1-Digest: ilREkJXSuWcLsbR+PPzRE7LnWsQ=
+
+Name: res/layout/reservation_book_layout.xml
+SHA1-Digest: GmZSdsoO2vyxfWUHnyX3rWLn1Bc=
+
+Name: res/drawable/ic_default_profile.png
+SHA1-Digest: 1dDUFbrvW3mIkWSy5nQgWGiV5c0=
+
+Name: res/drawable-mdpi/bt_cvv_highlighted.png
+SHA1-Digest: 7O1cvkR+cZ3bXqwt8VziaEhwjJE=
+
+Name: res/layout/com_facebook_picker_title_bar_stub.xml
+SHA1-Digest: cC2Lwv42zEQQNj6SZ0XecDHduG8=
+
+Name: res/drawable/coupons_icon_count2x.png
+SHA1-Digest: C5Ug9ev8PWUg5Z3OWhAixdmObGo=
+
+Name: res/layout/common_fragment_layout.xml
+SHA1-Digest: d7wypQquLfFfoFYlZ/MK+5oYvko=
+
+Name: res/layout/fo_my_address_item.xml
+SHA1-Digest: J0Y0eRPuEl9HlkUauUFqk7XyssQ=
+
+Name: res/layout/real_estate_map_dialog.xml
+SHA1-Digest: hFrjeqMckKfAQlWQDgdWA3r2cB0=
+
+Name: res/drawable-hdpi/com_facebook_button_blue_focused.9.png
+SHA1-Digest: f6ffxUARnD4OE2WatPT59yDgeJ8=
+
+Name: res/drawable-xhdpi/ic_overview.png
+SHA1-Digest: aAVgI/NKoZ7daA57B6N3fRUDmqI=
+
+Name: res/drawable/button_transparent_bg.xml
+SHA1-Digest: sPMfB8ZXQDtY2h/l+UeqFAEiO5A=
+
+Name: res/layout/home_pager_item.xml
+SHA1-Digest: 551uP3MsRh4QWqxAj3oRz6lZXMw=
+
+Name: res/drawable/button_toggle_passive_center.png
+SHA1-Digest: 6eM27ldgSS0W28Gw/dVHHFLeRkg=
+
+Name: res/layout/wheel_item_row.xml
+SHA1-Digest: 7XF/kWv+jUJkAcg6ltM/6PykBw8=
+
+Name: res/drawable-mdpi/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: 7vLApczB6mEex3xCchwoPVizP8w=
+
+Name: res/drawable/book_step3.png
+SHA1-Digest: mC9JDc7EZ/BaZTRXbDnVH3Ggv3I=
+
+Name: res/drawable/contact_section_container.9.png
+SHA1-Digest: C/OthY2zSCf1IuxE+PpoM4q9Ttw=
+
+Name: res/layout/fo_locations_map.xml
+SHA1-Digest: 5HAgVMOyXkkyyhO1jFrmzUAprBM=
+
+Name: res/drawable/rs_header_closed.png
+SHA1-Digest: t5/CtZN6X3nX5bgKQmPgtKAD44I=
+
+Name: res/drawable/tip_right_button_src.xml
+SHA1-Digest: MaJ76HijkjacwUqU5jtEQSXO2bw=
+
+Name: res/drawable/fo_map_icon.png
+SHA1-Digest: MEDv9E7MibNKrz9AiImnZIkE88U=
+
+Name: res/drawable/tip_calc_top_box.9.png
+SHA1-Digest: 7CG5zQ05+/3Gki5x0XLpXOk71Eo=
+
+Name: res/drawable/white_search_icon.png
+SHA1-Digest: YZdoUQSsd0YAZM6pYdeQ6d0lfQM=
+
+Name: res/layout/map_item_dialog.xml
+SHA1-Digest: P9JBTU6TVQCm9X8oTDw7vTbEe3I=
+
+Name: res/drawable-mdpi/com_facebook_tooltip_blue_background.9.png
+SHA1-Digest: pJb+i/zRVYfgMCRkdrZMsi0qfFo=
+
+Name: res/drawable/tab_bar_bottom_line.png
+SHA1-Digest: 6K2XkyQpJOU1QdV/WqWlElNFWhM=
+
+Name: res/drawable/portrait.png
+SHA1-Digest: mmjeFIScq2hIP17XocmbLS/pWbs=
+
+Name: res/drawable-hdpi/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: VBdIt82ioiZO0Qmr7/J+8sPnop8=
+
+Name: res/drawable/header.png
+SHA1-Digest: kYmIVdj8WTLr5diyFMy21yP5efQ=
+
+Name: res/drawable/around_us_green_icon_bg.png
+SHA1-Digest: mtLNytBobYUwKOCCkU892UMTfu4=
+
+Name: res/drawable/buy_icon.png
+SHA1-Digest: igQOqQozs34ImV5Dp4twWq1rbGk=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: UbXqMwM30HBljuHn+la04UPzB1Y=
+
+Name: res/drawable-xhdpi/bt_secure.png
+SHA1-Digest: 2Ou+z8706X1E5VYIzy/27pz68vQ=
+
+Name: res/drawable/loyalty_coupon_icon_active.png
+SHA1-Digest: S5e8rUGe9pw42Z5FGnPt4mpehk0=
+
+Name: res/drawable/around_us_tab_inactive.png
+SHA1-Digest: K2JjvsWZVJYjaO5zc3xxW3pbuRg=
+
+Name: res/drawable/com_facebook_picker_list_selector_disabled.9.png
+SHA1-Digest: cKGQg8jgT0IkOi1RPo5Y+TSnQb4=
+
+Name: res/layout/fo_confirmation_page.xml
+SHA1-Digest: pFoj7IC89EFB/ktSQEMKKz3Zy+I=
+
+Name: res/drawable/time_image.png
+SHA1-Digest: lCnuBiEVqqTOtMPz1oHouGobsOE=
+
+Name: res/drawable/rs_header_opened.png
+SHA1-Digest: 4Lg3zUcRHDTgf3PjECdNLOOqWA8=
+
+Name: res/drawable/textfield_default.9.png
+SHA1-Digest: brecaDtinb5mk/vc/qEV/MnDpdg=
+
+Name: res/layout/youtube_rss_row.xml
+SHA1-Digest: LJgEGefTJbLnJRK3haEgEJD1bew=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_light.
+ 9.png
+SHA1-Digest: HzOQHYhhJxxzbZqK40hTgOfRhlo=
+
+Name: res/layout/info_item_row.xml
+SHA1-Digest: cXJcJERdRQ7rPYSsZPCQFTsJZHo=
+
+Name: res/drawable-xxhdpi/bt_card_highlighted.png
+SHA1-Digest: JtA/14wDdhWsGN0uARC+AOy3UOw=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: 1Hnpvj2UzKDvPZv175SFBfp0Gn8=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_disabled_focus_dark.9.
+ png
+SHA1-Digest: /ps9lLPOdDdwDt2YyGRRyGkRCMw=
+
+Name: res/layout/gallery_preview_layout.xml
+SHA1-Digest: kPMn6di2LovuMoCw/RVlRlge9RA=
+
+Name: res/drawable-xxhdpi/bt_maestro.png
+SHA1-Digest: i6XIQN9n3W+eJzblNKv8qsaj+N0=
+
+Name: res/drawable/message_text_icon.png
+SHA1-Digest: 7bRVFKhADHA43diOS0BG4fO93lI=
+
+Name: res/drawable/black_button_rounde_right.xml
+SHA1-Digest: v9MKqBKhfVVCmD0rkA4bTCyMxAo=
+
+Name: res/layout/tab_title_bar.xml
+SHA1-Digest: stpo1b6fV/VBDzS9yLt+psVZ1DM=
+
+Name: res/drawable/around_us_red_icon_bg.png
+SHA1-Digest: mtLNytBobYUwKOCCkU892UMTfu4=
+
+Name: res/layout/main.xml
+SHA1-Digest: GuBkdNXylUEwThcw/+tQTSQl83I=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: IkOjI29UDeEmriO620NWQRYQBQM=
+
+Name: res/layout/twitter_login_view_v2.xml
+SHA1-Digest: 0yive9K5e/kZXF2LGdT4C7CcLhQ=
+
+Name: res/layout/fo_account_item.xml
+SHA1-Digest: f0+i3pcxqhTI478rTwelrjnuUGg=
+
+Name: res/drawable-xhdpi/com_facebook_tooltip_blue_bottomnub.png
+SHA1-Digest: ehz+LMacu3qtWaa9iLQRwMqZIgo=
+
+Name: res/drawable/reservation_appt_list_img2.png
+SHA1-Digest: hZ8fiYKBZ89ZJq+1lXw+YKD+1Ms=
+
+Name: res/drawable/message_template_icon.png
+SHA1-Digest: 1std2HiZHM/13Ou9GPQOdyJ/8Og=
+
+Name: res/drawable/message_share_icon.png
+SHA1-Digest: +Y99nANSjBebc6McB/CND/TiDPU=
+
+Name: res/drawable-mdpi/com_facebook_button_blue_focused.9.png
+SHA1-Digest: rZf/vriiPguZZUS/3ww/w7LJ8fo=
+
+Name: res/drawable-hdpi/bt_card_highlighted.png
+SHA1-Digest: DGQrpIxtHZyhA7Qg8MveJVX+7Gs=
+
+Name: res/drawable/fanwall_comment_bg.9.png
+SHA1-Digest: GinENZjQeddcxpjgAhJgOnoPfk0=
+
+Name: res/layout/parallax_test_layout.xml
+SHA1-Digest: 2ymP7mbXZ5PzkR7NY57moJjZKa8=
+
+Name: res/drawable/loyalty_icon_perk_available.png
+SHA1-Digest: Te5b5eb5R1FVnOxcar2kC2DEspU=
+
+Name: res/drawable/datecellselected.png
+SHA1-Digest: XkLmiuDvhxEptyuQM+qRPgUwA+s=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: 2Zfa+F80lrkHKDHQCM2OErZr3Cg=
+
+Name: res/drawable/button_blue_selected.9.png
+SHA1-Digest: Gr40V9ddWEHMoeCAs3yGsK/yNCo=
+
+Name: res/layout/com_facebook_placepickerfragment_list_row.xml
+SHA1-Digest: glNhcAXvt2cgPfvH7yOMHy2RCj0=
+
+Name: res/drawable-xhdpi/ic_plusone_medium_off_client.png
+SHA1-Digest: pxNZ8SkEfPjyfAiSKNlW4SZk60Q=
+
+Name: res/drawable/logout_button.xml
+SHA1-Digest: xaZsBp6lfHyhpAd8YcynhhBjC4Y=
+
+Name: res/layout/bt_payment_method_form.xml
+SHA1-Digest: uHHCwzOQHR545wCrrlCB0ucld8E=
+
+Name: res/drawable/trash.png
+SHA1-Digest: IT7wvXz6OQX8LGkY3gqJx+RrrP0=
+
+Name: res/layout/fo_cart.xml
+SHA1-Digest: hxRKXW7WgkcqEIlZYugeJJYEX94=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: re+zLFhPUMSpBod/+8AnbiOF95E=
+
+Name: res/anim/anim_popup_slide_right.xml
+SHA1-Digest: QP3YTijqYUoN+h4AZpq20WFTVwo=
+
+Name: res/drawable-hdpi/com_facebook_button_blue_normal.9.png
+SHA1-Digest: t/q1ll8cIcWlFuKff/cUYYaKKw0=
+
+Name: res/layout/fan_wall_layout.xml
+SHA1-Digest: 3S52sNglV+rXb4U2qDhtHeeE4nY=
+
+Name: res/layout/fo_detail.xml
+SHA1-Digest: yfnotJ5+yumHkbVPlDsQpTyY9mQ=
+
+Name: res/drawable-xhdpi/ic_date.png
+SHA1-Digest: 9Dn3zR5nmplFJxuwtMmq0Qra6DE=
+
+Name: res/drawable/map_mode_right.9.png
+SHA1-Digest: KVehbgrVssr9fHy7Dk7rtIga63k=
+
+Name: res/layout/news_layout.xml
+SHA1-Digest: Z6lutBgmQxoHW0rX7DPyh2gQoqQ=
+
+Name: res/layout/tip_calculator_layout_new.xml
+SHA1-Digest: DC4nT4szxl0pRqFSZJkGroa4hX8=
+
+Name: res/drawable/around_us_green_button_bg.png
+SHA1-Digest: 83NJf7+jzvzMY+oYqPqpGufikck=
+
+Name: res/drawable-hdpi/bt_discover.png
+SHA1-Digest: Z+mNLy96vIu4JXLtvSUg93xXoMk=
+
+Name: res/layout/podcast_layout.xml
+SHA1-Digest: NwIA3ntXo6APMKfQl6JvTD0i1tI=
+
+Name: res/drawable/message_short_link_icon.png
+SHA1-Digest: e8AgO3qlAgZ9nvw50oeL3BMCDh8=
+
+Name: res/drawable/container_bg.9.png
+SHA1-Digest: z6AEvxofUs5r2sHvIN3RSZlQuYI=
+
+Name: res/drawable/twitter_icon.png
+SHA1-Digest: IDPSXcXVhMGBDs2YVvr3WVdfDOU=
+
+Name: res/drawable/icon_locations.png
+SHA1-Digest: E+3O7rtMOfeUPRgPlEVVIcPPGOQ=
+
+Name: res/drawable/tip_progress_seekbar.xml
+SHA1-Digest: Fw8myGbSlbiyf7Mpf0PdGVGiXIc=
+
+Name: res/drawable/voice_tab_play.png
+SHA1-Digest: hWAKuyetcHV45Ih9ERyBY0d/o0Y=
+
+Name: res/layout/bt_loading_view.xml
+SHA1-Digest: hF5LfpnjGYS6iQjp3FRwlhYCu8Y=
+
+Name: res/drawable-hdpi/com_facebook_close.png
+SHA1-Digest: vzoVwUXnEtJQCL4582EeDreqvIA=
+
+Name: res/layout/real_estate_item_layout.xml
+SHA1-Digest: R/rDSRhn+/8cuMV2RjFJOLmooPk=
+
+Name: res/drawable/mailing_list_icon.png
+SHA1-Digest: ALjO7rlnIeKLsAEQhNTTm9VLsqw=
+
+Name: res/drawable/simple_button.png
+SHA1-Digest: hYNlfKmB27Y/og0Fu00vUhbu22A=
+
+Name: res/drawable/car_finder_section_bg.xml
+SHA1-Digest: MpYBfuILahNfbCJMVa3rtDZvmjw=
+
+Name: res/menu/common_delete_list_item_menu.xml
+SHA1-Digest: qKftvC5RIbHMJLA6mUy6SceEDbI=
+
+Name: res/layout/notepad_list_view.xml
+SHA1-Digest: wLXewvMB8irypM5JmUvagCL3Ep8=
+
+Name: res/drawable/bottom_tab_src.xml
+SHA1-Digest: yTMDlF2xkhzVFDTKfWiTBRQdW/c=
+
+Name: res/drawable-mdpi/ic_plusone_medium_off_client.png
+SHA1-Digest: HHc+sqWu5XtWgMQhN1F5cAwzeew=
+
+Name: res/drawable/icon_default.png
+SHA1-Digest: TQ/S1JgV+pFl6VuAUU2WGh6NcsM=
+
+Name: res/drawable-hdpi/com_facebook_tooltip_blue_xout.png
+SHA1-Digest: TC+NkOcwahA1AJHprbLOuITSC8s=
+
+Name: res/drawable/message_tab_unselected.png
+SHA1-Digest: Jnp5eWknx5t9jIFDODJahy6iPUA=
+
+Name: res/drawable-hdpi/com_facebook_logo.png
+SHA1-Digest: +F9i6TennSQx3Unl/q4mPr3itE8=
+
+Name: res/drawable/datepickerbar_background.png
+SHA1-Digest: /iydKyoTokV2ATfKIKzGetZ3GDk=
+
+Name: res/layout/golf_course_list_player_layout.xml
+SHA1-Digest: dzB2eqr/DBtmjFpoxoO4U/8v7sA=
+
+Name: res/drawable/product_default.gif
+SHA1-Digest: 03Igr8iE/8ztYEVE0If1bj5bOTI=
+
+Name: res/drawable/button_blue_src.xml
+SHA1-Digest: yE/UtJSto4+iXgbzyMc5GC1nGS8=
+
+Name: res/drawable/car_finder_bg.xml
+SHA1-Digest: NKxObFQtV53bEB3oj9JYeEuth7U=
+
+Name: res/layout/more_item_row.xml
+SHA1-Digest: fu8GITc2xs45/TJca3fJNTY1tVE=
+
+Name: res/drawable/coupon_bottom_bg.9.png
+SHA1-Digest: L4x+S3Z12hw5faXRMuPQH3/lrKw=
+
+Name: res/drawable-xhdpi/bt_discover.png
+SHA1-Digest: SXCUh65f2ZObNMP9mhZsCbLjirU=
+
+Name: res/drawable/rs_container_closed.png
+SHA1-Digest: sSUNd15U0BEW1n2Fu9+FSsCQ58Q=
+
+Name: res/drawable/bubble1.png
+SHA1-Digest: OXqXeXjWosTIZESyQ/+NLVbhrjA=
+
+Name: res/drawable/tip_edit_bg.9.png
+SHA1-Digest: xmKoXdFP2Wx5Fv1vJnMgcHblgvo=
+
+Name: res/drawable/button_toggle_passive_left.png
+SHA1-Digest: ibmi5eREBn9JW1EcuDHMwKDdhTI=
+
+Name: res/drawable/search_close.png
+SHA1-Digest: jhpF8bps0RatsHpknEqlWE4YVWI=
+
+Name: res/drawable/selected_tab_background.xml
+SHA1-Digest: VHBPj31Zq107RSIvXlCpcGttuA8=
+
+Name: res/drawable/book_step4.png
+SHA1-Digest: 7bDEjf1ncJjRdfxhZj61oEwCtw8=
+
+Name: res/drawable-hdpi/com_facebook_tooltip_blue_bottomnub.png
+SHA1-Digest: vj/tS9CFJlS6NBgJlB/ZKTibdII=
+
+Name: res/layout/fo_category_size_item.xml
+SHA1-Digest: XCwKRmpjyWjr234oi/Lsa9mxpzY=
+
+Name: res/layout/twitter_login_view.xml
+SHA1-Digest: wU+MOMGq5c0l0+Y8qAlLFrM2cng=
+
+Name: res/layout/golf_course_hole_details_layout.xml
+SHA1-Digest: 6yDtarntfWrWX24bK4BSBpSoSls=
+
+Name: res/drawable/common_signin_btn_text_light.xml
+SHA1-Digest: 1JQW5PaIm8QYdCxB98Rsn+U0Hcc=
+
+Name: res/drawable/progress_bar_bg.xml
+SHA1-Digest: OhrJszvC6LRejPIlDw6evPY5jq0=
+
+Name: res/drawable-mdpi/bt_success.png
+SHA1-Digest: uGyULGGNisD9adV4dLRYFp4BjY8=
+
+Name: res/drawable-hdpi/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: 1nB29gilkMG21U2c1UzWz5vtjpc=
+
+Name: res/drawable/message_list_tab_icon.png
+SHA1-Digest: BrU5Kei13Kr2fY5dWvyrXeWCH00=
+
+Name: res/layout/golf_course_add_game_layout.xml
+SHA1-Digest: hcGb4aXTfjJCpb2TChOQFOFzHVY=
+
+Name: res/drawable-hdpi/bt_error.png
+SHA1-Digest: D85chqLa8TyjJPFUrm40EYfxFYM=
+
+Name: res/layout/choose_time_layout.xml
+SHA1-Digest: mODJS6aoKXMAf9fTXq5yylaPpcI=
+
+Name: res/drawable-xhdpi/ic_plusone_standard_off_client.png
+SHA1-Digest: NEAofQuoLcRt99gbmL+/kRTDnUE=
+
+Name: res/drawable-mdpi/com_facebook_picker_magnifier.png
+SHA1-Digest: yotnhVn7HzOwvsA1iVxnQdW+R6Y=
+
+Name: res/layout/com_facebook_search_bar_layout.xml
+SHA1-Digest: 25ChJvLNuZkTOl2nj6hviuOfvM0=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_light.9
+ .png
+SHA1-Digest: 5te3wznPBVYtZMjVj49FYN5YlRA=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: ppRAUb4e8AfMY+hiTgUxYeX8bDw=
+
+Name: res/drawable/tip_center_button_selected.png
+SHA1-Digest: CGyXk2AQYjWriYODROSbI065ids=
+
+Name: res/drawable-mdpi/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: CFcKGCNCXdElgRyG3GU1cR7Lpck=
+
+Name: res/layout/bt_payment_method.xml
+SHA1-Digest: pG5sNkWkn3R/mUisGQOqk5v5FRI=
+
+Name: res/layout/music_track_item_row.xml
+SHA1-Digest: XzV2zgnu0jEEZuS6CTMmYpyentc=
+
+Name: res/drawable/com_facebook_logo.png
+SHA1-Digest: COOFdQDqXjvNdi+5TMPa3bPhaEQ=
+
+Name: res/drawable/play_item_icon.png
+SHA1-Digest: d9pEzxC8cmqdJmpAzwI/g2KmnlA=
+
+Name: res/layout/capture_layout.xml
+SHA1-Digest: w//gmxHDQbkmFy4id3vFkEXQZRg=
+
+Name: res/drawable-xxhdpi/loyalty_icon_info.png
+SHA1-Digest: q1lJWE8gL15MbsmyDleDB8XVbQo=
+
+Name: res/drawable/message_tab_selected.png
+SHA1-Digest: 83NJf7+jzvzMY+oYqPqpGufikck=
+
+Name: res/drawable/button_blue.9.png
+SHA1-Digest: cC7K1SyjrwvM3rVwwOh2CFD9tLI=
+
+Name: res/layout/dialog.xml
+SHA1-Digest: 1ronNddpY5TwqFO6Ro7mN6WrSGE=
+
+Name: res/layout/golf_course_edit_player_layout.xml
+SHA1-Digest: 9b/LCAjwev8QjvXd/kvFw0ekC4Y=
+
+Name: res/drawable-hdpi/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: cyroPBwNNxlz5xXq1uSZsOxhnH0=
+
+Name: res/drawable/com_facebook_button_blue.xml
+SHA1-Digest: aikQX9jBlr21d5ZFrzFoxIasdSM=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: qeM5rd2iODmcmiwbxvt0gCvbkog=
+
+Name: res/drawable/reservation_logout_icon.png
+SHA1-Digest: iLM+L7d5aqnk7zgRodCfmHxl+Sg=
+
+Name: res/drawable/horizontal_loyalty_line.png
+SHA1-Digest: z/Di0RVwAKETa6Ef0FH2KGKdDHM=
+
+Name: res/drawable/textfield_disabled.9.png
+SHA1-Digest: lbm0FXFXfsCd9TuLSrzpF4xoSVQ=
+
+Name: res/drawable-hdpi/ic_plusone_small_off_client.png
+SHA1-Digest: MDqgTVve/ECWdg1RF1Xo/IJ49zo=
+
+Name: res/drawable/icon_direction2x.png
+SHA1-Digest: R8H0t7UAOxC28um9MFoZMGU+nmc=
+
+Name: res/drawable-xhdpi/bt_paypal_button.png
+SHA1-Digest: y7XjlrIcJeQjPfafdYac0NkbFF8=
+
+Name: res/drawable-xhdpi/ic_plusone_small_off_client.png
+SHA1-Digest: LtV8CfoAmgWuTGWNZXeWeNDR1hY=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: THnQ9r/oTuPB60ajOYXvK1GrUsE=
+
+Name: res/drawable/list_divider.png
+SHA1-Digest: uWpTkBBwV4Bm4mOCYH3C7G+tHnk=
+
+Name: res/drawable-mdpi/com_facebook_tooltip_black_background.9.png
+SHA1-Digest: b+2tYjxJbZnWtjs3KhJuZyu1EN4=
+
+Name: res/drawable/com_facebook_picker_list_selector_background_transi
+ tion.xml
+SHA1-Digest: MOR6yAvYnD5A4ZSx9sdQAcKpwb8=
+
+Name: res/layout/fo_location_row.xml
+SHA1-Digest: /mxtQILIg5U9KanyHTRK9V8mKWk=
+
+Name: res/drawable-xhdpi/bt_cid_highlighted.png
+SHA1-Digest: AJ+Cb9IOWRnsrcnfWv21FzljZZ0=
+
+Name: res/drawable-mdpi/com_facebook_button_blue_pressed.9.png
+SHA1-Digest: +tjTExmZ1lk9Ox0aZm5rNcUPoFY=
+
+Name: res/drawable-hdpi/bt_mastercard.png
+SHA1-Digest: PoUT3w6MffVc2iYT9oq1lJhwJYE=
+
+Name: res/drawable/topbar.png
+SHA1-Digest: y/g8sh7EyvWdb+ijAXCopvbxZuQ=
+
+Name: res/layout/social_layout.xml
+SHA1-Digest: do9mxp9WihGyT2GlmJd2KQGQm8k=
+
+Name: res/drawable-xxhdpi/bt_paypal_button.png
+SHA1-Digest: cPLkTULAQNRPvYXSdc72Qk5RxFA=
+
+Name: res/layout/email_collect_layout.xml
+SHA1-Digest: 7BNf8EsWXTk3at7cozq1BUdto9E=
+
+Name: res/drawable/seek_thumb_normal.png
+SHA1-Digest: 7Mwo+XS7NvigvmcBbCdRTUWGsIg=
+
+Name: res/layout/golf_course_overview_item_layout.xml
+SHA1-Digest: DHwng58xh9LHxPAxvFmZnD0MFyw=
+
+Name: res/layout/image_fragment_layout.xml
+SHA1-Digest: OXbl+iXhBMb7YDwacOnfN0b8I84=
+
+Name: res/drawable-hdpi/bt_diners.png
+SHA1-Digest: h++XCanBsVQh0AFtL/9tlZ30c8c=
+
+Name: res/drawable/arrow_right_disabled.png
+SHA1-Digest: O7AQ+LYslbpUhQPy2BwPAqaBaWo=
+
+Name: res/drawable-mdpi/common_signin_btn_text_disabled_focus_dark.9.p
+ ng
+SHA1-Digest: 29jlpwaYo8yADFvg53lRNdVbvt0=
+
+Name: res/layout/fo_map_item_dialog.xml
+SHA1-Digest: FaxYvxsgTkFzSe0fOo4pTQ41d4U=
+
+Name: res/drawable-mdpi/bt_discover.png
+SHA1-Digest: 65OoQY1KMCDIQGVxoZt0u78yggU=
+
+Name: res/drawable/player_progressbar_background.png
+SHA1-Digest: +QmZeip8uaDW+LmEDwvgcggzBCY=
+
+Name: res/drawable/play_previous.png
+SHA1-Digest: m6E3YR+9bu3LF+7dqm05osfJONQ=
+
+Name: res/drawable/reseller_logout.png
+SHA1-Digest: 9ekMDfWyZvjwa9QeU7zEZ67OZcs=
+
+Name: res/drawable-xxhdpi/ic_plusone_tall_off_client.png
+SHA1-Digest: nnQrYOSge8+DJ/aZ1dVTUztprv8=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: 2Zfa+F80lrkHKDHQCM2OErZr3Cg=
+
+Name: res/drawable-xxhdpi/bt_visa.png
+SHA1-Digest: eqPYbjGEzQ07eJ8TkPDtXhikqSk=
+
+Name: res/drawable/fo_user_icon.png
+SHA1-Digest: Ym4OhezJDUbuquQ6U5Gt5WVG3NU=
+
+Name: res/drawable/upcoming_reservation_bg.9.png
+SHA1-Digest: 8gzapHMcHjDnRglCpx/sw8j2Eys=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: WqQF3y/vDvl0c3tlpCQMUlAGR90=
+
+Name: res/drawable-xhdpi/com_facebook_close.png
+SHA1-Digest: 0IaTuYpHdwNgyn8PrCfM4P1LSUM=
+
+Name: res/drawable/player_active_progressbar_center.png
+SHA1-Digest: giXjVVgTZT0/+dQXxJuZxeGfTG0=
+
+Name: res/layout/music_list_layout.xml
+SHA1-Digest: UUN1pCUMTMf/Iix3yY2a5Ex/zfw=
+
+Name: res/drawable/rs_taxi_icon.png
+SHA1-Digest: 8VKJut6PZHIoF4XUYcAcFxGB7Qg=
+
+Name: res/layout/podcast_row.xml
+SHA1-Digest: VWjuZdipDt/D4hSQrAojNfYVo24=
+
+Name: res/drawable/button_white_bg.xml
+SHA1-Digest: gw1AIqdklFTaEvqYTpuyM9gCYmw=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: DS5PrTsz70UomI8fFnGBLzl5gOc=
+
+Name: res/anim/tab_wave_scale.xml
+SHA1-Digest: R11wkO2qyDZK/wvTqPYCSum2LQk=
+
+Name: res/anim/tab_wave_anim.xml
+SHA1-Digest: D9ItZRSd+b5I47oOt9P0NY5RcAE=
+
+Name: res/drawable/button_transparent_bg_touchable.xml
+SHA1-Digest: P6rdh5sfm1gsUjbT0Ht5y7yBzZ0=
+
+Name: res/drawable/around_us_center_button.png
+SHA1-Digest: 6ISAHpnL3lc60E/uCgNMqbIKSkQ=
+
+Name: res/drawable-mdpi/com_facebook_tooltip_blue_topnub.png
+SHA1-Digest: qCzczdvFGchW12Y01pB9ovTV9bQ=
+
+Name: res/drawable/progress_vertical.xml
+SHA1-Digest: OXVKE3KZReuUM/rLo6MmtH8Me64=
+
+Name: res/layout/gallery_item_layout.xml
+SHA1-Digest: +5lD2pQTvvxegLmCTmFl7HKl03A=
+
+Name: res/drawable/pin_red.png
+SHA1-Digest: 0zXNHK5pIj4S9Gn4TSezWmUZ+9g=
+
+Name: res/drawable-hdpi/bt_maestro.png
+SHA1-Digest: 0S5SVS9eTbx0bIa9HhcWezHF+DU=
+
+Name: res/drawable/fo_switch_map.png
+SHA1-Digest: XHlo04V+UnoULiF/tWguZXCZPyk=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: ZDogSdlgVekmFIAbKguvig7+XGg=
+
+Name: res/drawable/tip_left_button_src.xml
+SHA1-Digest: YRxvmOsf1lioBrYSJVI0IbVrkDM=
+
+Name: res/drawable-hdpi/com_facebook_button_grey_pressed.9.png
+SHA1-Digest: tWUWjtTo3HxE/8a02qZ5QsaeyfM=
+
+Name: res/drawable/login_button.xml
+SHA1-Digest: JTjuna/9CP4XHABai9VBg7OxbkQ=
+
+Name: res/drawable/progress_dot.png
+SHA1-Digest: 1zqYeGq0Rsgdmj4pPmJhwnnJeDM=
+
+Name: res/drawable/login_down.png
+SHA1-Digest: AGr42tr9/yyFOdTFqOEHxTgRkC0=
+
+Name: res/drawable-xhdpi/ic_new_game.png
+SHA1-Digest: ZzDD/8WD6ScOnP10bNDrBrqWSQc=
+
+Name: res/drawable/top_tab_unselected.png
+SHA1-Digest: 3RSlv5vKRffMJJYp5lbQH4LqMik=
+
+Name: res/drawable-mdpi/bt_paypal_button.png
+SHA1-Digest: NrgLH3lLVCDplBS/Q9mxn111K+I=
+
+Name: res/drawable/reservation_time_tag.png
+SHA1-Digest: abMfnzVhqJZ5fF8129WsVmglYRI=
+
+Name: res/layout/com_facebook_friendpickerfragment.xml
+SHA1-Digest: fb78Y61NgZty+WGRplWrWr/X2VY=
+
+Name: res/drawable/textfield_pressed.9.png
+SHA1-Digest: AckV7wLs3U6BPpGT7VxLZw5Y29o=
+
+Name: res/drawable/navigation_background.xml
+SHA1-Digest: OhrJszvC6LRejPIlDw6evPY5jq0=
+
+Name: res/drawable/google_plus_icon.png
+SHA1-Digest: vNwa4o3rvm1wjlVqLzNVfSip+gQ=
+
+Name: res/drawable/loyalty_icon_perk_available_consumed_overlay.png
+SHA1-Digest: Krk0AO2rBRHL9+3C245GAO5q/r0=
+
+Name: res/drawable/up_arrow.png
+SHA1-Digest: Zml/bmNo1pppaPcEroQpRjDvcqs=
+
+Name: res/layout/fragment_swipeytab.xml
+SHA1-Digest: g54Zu1gomBp991qT5ovwm7UxbpM=
+
+Name: res/drawable-xxhdpi/bt_discover.png
+SHA1-Digest: ZirXoBTXSWfS9L/6Cn9dxp2iCR0=
+
+Name: res/drawable/section_list_background.xml
+SHA1-Digest: KrWZyGRduErDtqgQFEhEXXzg+YA=
+
+Name: res/drawable/edittext_bg.png
+SHA1-Digest: ltSHGDT3/GUPnpjc4gnux7Yzj1o=
+
+Name: res/drawable-xhdpi/com_facebook_button_grey_focused.9.png
+SHA1-Digest: wx0FTcs+RGcIb3fC9wYKpWawDgI=
+
+Name: res/drawable-xhdpi/bt_logo_paypal.png
+SHA1-Digest: gftCTZJabEwKcoR10DtpVc3rc34=
+
+Name: res/drawable/reservation_history.png
+SHA1-Digest: ReGtFwOetVuBUXtMVMjEcdnzCPI=
+
+Name: res/drawable/fo_checked_icon.png
+SHA1-Digest: JUg+H3R4UXBUCN8wOAUiBW5v5bY=
+
+Name: res/drawable/info_image_frame.png
+SHA1-Digest: vF6EYuXBIoL+Sf0slE0BWvp+eKQ=
+
+Name: res/layout/golf_course_add_note_layout.xml
+SHA1-Digest: 7cSO4O06SifqgyDgtoibmu/Ganw=
+
+Name: res/drawable/map_mode_left_src.xml
+SHA1-Digest: NF+GbBaoKLJkBv8paTN5epc8TbM=
+
+Name: res/drawable/fo_my_addresses.png
+SHA1-Digest: QxKTnre1lU0IYt8XiLO8BShEUEA=
+
+Name: res/layout/fo_category_list_item.xml
+SHA1-Digest: GCfHnDPOEIKVQCm0VgXLtqJhX+U=
+
+Name: res/layout/bt_form_submit_button.xml
+SHA1-Digest: dln3ZLhytz7XmKSLmOPScuZuWYQ=
+
+Name: res/drawable/property_icon.png
+SHA1-Digest: 5vs/AoSuGxjCU6bfY8CAeo8z5Gg=
+
+Name: res/drawable-xxhdpi/bt_logo_paypal.png
+SHA1-Digest: PCgNsoDmEoPcQQ0qHf/9Fy8yJBs=
+
+Name: res/drawable/call_us_icon.png
+SHA1-Digest: Dj0f0Y0k/6MNzGfQ8J7dzCC2TKM=
+
+Name: res/layout/com_facebook_picker_list_row.xml
+SHA1-Digest: QqOHc/No77HktViZTKqC6vUKIFU=
+
+Name: res/drawable/my_location_bubble.png
+SHA1-Digest: 5nyFNldGiUbTnBXnv3dNFeVlXCI=
+
+Name: res/drawable-xxhdpi/ic_anonymous_avatar.png
+SHA1-Digest: 2CzeAeHagSyFewjW1SbZbOCfw/o=
+
+Name: res/drawable-xhdpi/bt_mastercard.png
+SHA1-Digest: BFOtz49+TeOWZC0PNedycq3BPw0=
+
+Name: res/drawable-mdpi/common_signin_btn_text_disabled_focus_light.9.
+ png
+SHA1-Digest: 29jlpwaYo8yADFvg53lRNdVbvt0=
+
+Name: res/drawable/share_icon.png
+SHA1-Digest: pwmcj+4SFMjglVESdQ0ebI+n9pY=
+
+Name: res/layout/contact_layout.xml
+SHA1-Digest: r7Pop2EG4W9i+sMSaOCCM5T42CI=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: xU1/PAMBwttiSnTFn14OqOMMcm0=
+
+Name: res/drawable/no_comments_bg.png
+SHA1-Digest: uYwT1mL9ollSBWBSO9zqHPEXaFk=
+
+Name: res/drawable-xxhdpi/bt_error.png
+SHA1-Digest: ikfH9xwvVkkq6gCuQBVN4aAVks8=
+
+Name: res/drawable/tip_progress_bar_bg.9.png
+SHA1-Digest: 0TLEgFg+POZ2gSvWFC2kHz8lbpE=
+
+Name: res/drawable/tip_progress_bar_selected_bg.png
+SHA1-Digest: BOXBM7tBNdSWP3siljMcVrH15Mk=
+
+Name: res/layout/wheel_container_layout.xml
+SHA1-Digest: Dv40CcIucRWrBTN37WC/nxWdTjc=
+
+Name: res/layout/reseller_spinner_layout.xml
+SHA1-Digest: HFJiNZJzlP6mVHePrps48ASH6QM=
+
+Name: res/drawable/com_facebook_place_default_icon.png
+SHA1-Digest: T6PfkzvzoTErI9HPUHhPTzYuaOw=
+
+Name: res/drawable/red_arrow_next.png
+SHA1-Digest: JDFhAt9NPiJ7Bn5vtr9MAB8PKBU=
+
+Name: res/layout/reseller_dashboard_layout.xml
+SHA1-Digest: m2fbZf2LMRUAXP6B4Qd5n28T79w=
+
+Name: res/drawable/reservation_login_icon.png
+SHA1-Digest: hgHWq485Dud8PpRF439jzy6zXqw=
+
+Name: res/drawable/loyalty_digit_box.png
+SHA1-Digest: q6vbbzFR/myIORTjFX/d4j1oz1o=
+
+Name: AndroidManifest.xml
+SHA1-Digest: prydtb2cJ92uWvlroGqkjQ5JG4A=
+
+Name: res/drawable-xhdpi/ic_green_back.png
+SHA1-Digest: zPbuRAcWg1iVy7GUhib8L6JgEMk=
+
+Name: res/drawable/tip_right_button_unselected.png
+SHA1-Digest: luPy9duwQWK1+VnnxNVVtNt1/Tw=
+
+Name: res/color/common_signin_btn_text_light.xml
+SHA1-Digest: OKcP7W0TkoDorTVfmzwBr6Af0Hw=
+
+Name: res/layout/email_photo_layout.xml
+SHA1-Digest: Yeg82Ed7leljyUyu3DnuDlnKHBc=
+
+Name: res/drawable-xhdpi/common_ic_nav_forward.png
+SHA1-Digest: MvROlOz+GuRnb2wWNVCSCLKAEAI=
+
+Name: res/layout/com_facebook_picker_search_box.xml
+SHA1-Digest: hKk6jmJgQTBrU+h++wrpOM1Qfbc=
+
+Name: res/layout/common_layout_simple_list_item1.xml
+SHA1-Digest: EtD4D2c1hldpKDnKl4ri36Gulkg=
+
+Name: res/drawable-mdpi/bt_android_pay.png
+SHA1-Digest: 6wW5Gwbeas6CQCwlQQbzCbJ34E0=
+
+Name: res/drawable/button_white_bg_touched.xml
+SHA1-Digest: Itmz8lqziuxD4+R3zUh0/0LaHGM=
+
+Name: res/drawable/rs_bed_icon.png
+SHA1-Digest: QCU4NFRFRhbw22l5pOBOdk8O9Vk=
+
+Name: res/drawable/today.png
+SHA1-Digest: dKPqilSrsirPwbxJ60G1lfvfDjU=
+
+Name: res/drawable/reservation_login_bg.png
+SHA1-Digest: z5bWz8z1sG2u62RbiS+6clx5XcY=
+
+Name: res/layout/youtube_list_layout.xml
+SHA1-Digest: mtbDlUTjygL90FsuaU4+hJj5g+0=
+
+Name: res/drawable/badge.png
+SHA1-Digest: rkl2M6l0OTSGz1h3UYHbR/zS4tI=
+
+Name: res/drawable/map_mode_left_selected.9.png
+SHA1-Digest: aF6q58NX43pWxp7jeOHvw0RVTtw=
+
+Name: res/layout/golf_course_list_player_item_layout.xml
+SHA1-Digest: r4rn564uvmFmXDc/JbfEVOf1V5U=
+
+Name: res/drawable/message_template_big_icon.png
+SHA1-Digest: o1sTjTA/IcaRfOumZ9TQYeoG96Y=
+
+Name: res/layout/fo_past_cart_item.xml
+SHA1-Digest: vMVJ3PLtzo4D1J7roTXhPbwyPJM=
+
+Name: res/layout/reservation_location_item_layout.xml
+SHA1-Digest: HqAoobla1a5EIs9OudRzC/7ipfg=
+
+Name: classes.dex
+SHA1-Digest: s/nf5f7MQNflAuFbhUlZEqMwiFQ=
+
+Name: res/drawable-mdpi/com_facebook_tooltip_black_bottomnub.png
+SHA1-Digest: vEyQx3dA5fSnJ/B3v4CD0PtpWjg=
+
+Name: res/layout/global_search_item.xml
+SHA1-Digest: wCG7ucbbv2Xqdto0o3aCxxm9g8A=
+
+Name: res/drawable-xxhdpi/powered_by_google_dark.png
+SHA1-Digest: gfHaH8EPI7tPXVeskcJGZH2tiRQ=
+
+Name: res/drawable-hdpi/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: /w/b5Ahd692RhVH4wOIahCMTR9s=
+
+Name: res/drawable/voice_tab_pause.png
+SHA1-Digest: O72BJeGruBuImY2dDKQoXOjfUeM=
+
+Name: res/drawable-xhdpi/com_facebook_logo.png
+SHA1-Digest: 94ZTspodsrcPndjRFwq4Cqz6Wc4=
+
+Name: res/drawable/add_icon.png
+SHA1-Digest: zC9b5wNkUvgJwHNJvGrz3D4g1ro=
+
+Name: res/drawable-hdpi/com_facebook_tooltip_black_topnub.png
+SHA1-Digest: J/BOF9KyvDLYLBxyNtb5AsrOIls=
+
+Name: res/drawable/fo_payment_icon.png
+SHA1-Digest: 7AdPKSwLQXUhjrNu5DQEVWLu9eU=
+
+Name: res/layout/fo_location_detail.xml
+SHA1-Digest: ghj1ZtPPsifViyF8nixzerpG+3s=
+
+Name: res/layout/qr_scanner_help_row.xml
+SHA1-Digest: BPpyj18CiYnjAANRVolHX1P9rpU=
+
+Name: res/drawable/footer_bg_line.png
+SHA1-Digest: 24Wtu5dnrDE6T3qwW3fbm3lGOQY=
+
+Name: res/drawable/mini_player_back.xml
+SHA1-Digest: XyvZSQEvB5YFf2AIQluq6UyRPVY=
+
+Name: res/drawable/arrow_left_white.png
+SHA1-Digest: R1YSqjLZfl8Kzzd5yE+t+WU2Q8M=
+
+Name: res/drawable/send_comment_button.png
+SHA1-Digest: /2XW2pAhsJ3Gagn5vQ+SYOKbEbs=
+
+Name: res/drawable/near_by_src.xml
+SHA1-Digest: HG7GG+HIcKbI4AJH24FqGk+Ca0A=
+
+Name: res/drawable/paypal.gif
+SHA1-Digest: v6VrnXb0gZNkj95kH1UVELNUVGU=
+
+Name: res/layout/upload_photo_layout.xml
+SHA1-Digest: 6IRiVBj3uX0JtnFCQutXSjF78vE=
+
+Name: res/anim/show_fade_effect.xml
+SHA1-Digest: mXIl2V6hzXYwjSxJlWXOv67Yyg0=
+
+Name: res/drawable/title_dash.png
+SHA1-Digest: 2EVV7ws/IRwdY+ousSith0r40l8=
+
+Name: res/drawable/contact_section_container2.9.png
+SHA1-Digest: RE3OjUeU0/ZyMbavA26kCiRHLes=
+
+Name: res/layout/bt_list_submit_button.xml
+SHA1-Digest: qw0ovovIY7U+QjOA0PiVlEjApTw=
+
+Name: res/layout/news_feed_container.xml
+SHA1-Digest: Yn2rdjgNcueusBDEFxwFMhDq/X0=
+
+Name: res/drawable-mdpi/ic_plusone_tall_off_client.png
+SHA1-Digest: AD2aFw6TcqHuDE1AdYky7h+et9s=
+
+Name: res/drawable/row_background.xml
+SHA1-Digest: zmUIaEPX7IL1bnldfKXH/zIvCvE=
+
+Name: res/drawable/button_gray_src.xml
+SHA1-Digest: VH8oO+OsJ45SSIDshZsfjq65gio=
+
+Name: res/drawable/pull_to_refresh_header_background.xml
+SHA1-Digest: 7Wee6uJDZERZo6DFNhaPe48drfs=
+
+Name: res/layout/upcoming_reserv_item_layout.xml
+SHA1-Digest: QRSbzLtQeTXUAY6xl+YBkbwVTcw=
+
+Name: res/drawable-xhdpi/ic_new_button.png
+SHA1-Digest: nAs4PFICtmMvS3j6ZnsQoyFOP6A=
+
+Name: res/drawable/player_sound.png
+SHA1-Digest: wZP/ft4/JmcBtxrwywJOTki1TNk=
+
+Name: res/layout/comments_layout_custom_bottom.xml
+SHA1-Digest: d1/JeW1pf72+4rEMrzeWhi4b5D0=
+
+Name: res/drawable/near_by_active.9.png
+SHA1-Digest: fK/nU3ggu3bp0VrwY6ux1NsiXHQ=
+
+Name: res/drawable-xhdpi/common_ic_drawer.png
+SHA1-Digest: F6NP9D3YLEnHwrIecMzAp14QiLY=
+
+Name: res/drawable/com_facebook_button_check.xml
+SHA1-Digest: R85scvG+hza0JYPdMC7fgAXkwZ8=
+
+Name: res/drawable-xhdpi/com_facebook_button_blue_focused.9.png
+SHA1-Digest: 0mL9bvBnguGGZdnft4TaGoEw08Q=
+
+Name: res/drawable/trash_icon.png
+SHA1-Digest: /hhdij3w7q3TE6QCtnjSuvqowlg=
+
+Name: res/drawable/background_transition.xml
+SHA1-Digest: gF59QrhCLOCqIQTiGvTOM14Wgk4=
+
+Name: res/drawable/message_tab_content_big_icon.png
+SHA1-Digest: DyVHqhhotzJpvNGAHLWJ8BhH2cI=
+
+Name: res/drawable/music_short_link_icon.png
+SHA1-Digest: Ok0EEYXZlQDwac8BtCEdjL/fLuo=
+
+Name: res/drawable-xxhdpi/bt_logo_venmo.png
+SHA1-Digest: /T2VKt0hBxnhD2CWWUmBniaq1U4=
+
+Name: res/drawable/bt_submit_button_background.xml
+SHA1-Digest: SSg33HIF88F7D37X9HfcY6kXKiU=
+
+Name: res/drawable-xhdpi/bt_loading.png
+SHA1-Digest: KuiYL68Hji1dqR8OrHuX2ln2IJQ=
+
+Name: res/drawable/icon_more.png
+SHA1-Digest: Ol/8hKarlpPqnxVli3OOTEdfWAA=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: 1Hnpvj2UzKDvPZv175SFBfp0Gn8=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_disabled_focus_light.9
+ .png
+SHA1-Digest: /ps9lLPOdDdwDt2YyGRRyGkRCMw=
+
+Name: res/layout/golf_course_home_screen_layout.xml
+SHA1-Digest: V5xs43tNh7Ya1q+FAw0UAq6Rki0=
+
+Name: res/drawable/player_seekbar.xml
+SHA1-Digest: +its8kK1GNl5rrdVmHHhcRA1cmA=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: 3McbND4RRGV4vpt6LNxDafkdK4A=
+
+Name: res/drawable/modern_layout_icon.png
+SHA1-Digest: F6NP9D3YLEnHwrIecMzAp14QiLY=
+
+Name: res/drawable/search_icon.png
+SHA1-Digest: Atdh+Ktbb+Un6zKDQ1lrX7F9I+Y=
+
+Name: res/drawable/icon_icon.png
+SHA1-Digest: Rt35lHSFUbxHTS93QNJVYJ60MzI=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: w/L+nKDDWadDlwiDybC+JmpbqaI=
+
+Name: res/drawable-mdpi/bt_card_highlighted.png
+SHA1-Digest: EppNMNUvpfUC6jPFrnxPSr8jMmM=
+
+Name: res/drawable/com_facebook_picker_top_button.xml
+SHA1-Digest: FpCN68q2eV+3WjoqLCPZ0C/7pGQ=
+
+Name: res/drawable/logout_down.png
+SHA1-Digest: 6zTK3IatnlWVfqO8vMHmXlE9Auk=
+
+Name: res/drawable/datecell.png
+SHA1-Digest: ZnP3GLQT00CN278myMp0VN5gDGA=
+
+Name: res/layout/coupons_layout.xml
+SHA1-Digest: lU3hyMx2EJExwgnDhsD7355fxsw=
+
+Name: res/drawable/icon_information.png
+SHA1-Digest: ZDyoS7oToJDaoNkWYAD4OCvDasg=
+
+Name: res/drawable/com_facebook_top_background.xml
+SHA1-Digest: 2jGeRfgb5Xm7OmXOYRKQWRbaaUw=
+
+Name: res/anim/cart_anim_out.xml
+SHA1-Digest: qVlfg/eM2T2UDN0OiKuLmTsgZVk=
+
+Name: res/drawable/start_recording.png
+SHA1-Digest: Fx6IeQHmmuClV9NreauNgfwEqck=
+
+Name: res/layout/mailing_list_layout.xml
+SHA1-Digest: l1UHHcao5K9j8gKa5w0wNTnyl2w=
+
+Name: res/drawable/around_us_arrow_icon.png
+SHA1-Digest: B9U6OWclf2VLmrRa/WbpNdw6hfg=
+
+Name: res/drawable-xhdpi/ic_green_middle.png
+SHA1-Digest: BdXmrbRkV8E5QpuMZziPLDcjMrE=
+
+Name: res/layout/home_animation_layout.xml
+SHA1-Digest: iNphPhUXfNVKvrbWSSwSOFmjjwg=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_disabled_focus_light.9.
+ png
+SHA1-Digest: IXqmYG4624bef7DnPxFG+Uwx1ak=
+
+Name: res/drawable/playlist_verticle_column_black.png
+SHA1-Digest: 7WOfDR1AuVG97O0z6o2/5Ol6Hr0=
+
+Name: res/layout/golf_course_select_course_item_layout.xml
+SHA1-Digest: IP4D4aKmgb5rHose7ypu6c4FvXc=
+
+Name: res/layout/search_events_list_layout.xml
+SHA1-Digest: M17UqIPcqtDTkYc1FZXqEWMj0MA=
+
+Name: res/drawable/loyalty_icon_info.png
+SHA1-Digest: q1lJWE8gL15MbsmyDleDB8XVbQo=
+
+Name: res/layout/preview_changer_layout.xml
+SHA1-Digest: ku7rSz/MjRf46cjK+AoysmWqSho=
+
+Name: res/layout/event_detail_v2_layout.xml
+SHA1-Digest: Scps38kEX7UVj4D8I7VJsjph0fQ=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_disabled_focus_dark.9.p
+ ng
+SHA1-Digest: 0ky7hJW6fNsa6m2tmjhllqHXHfg=
+
+Name: res/drawable-xhdpi/com_facebook_button_blue_pressed.9.png
+SHA1-Digest: q04LLz2eNuM6e8D8RaRhm1e3WbQ=
+
+Name: res/drawable-xhdpi/bt_android_pay.png
+SHA1-Digest: w3Hts9rfaglTgjBZWeS3XwkDvFc=
+
+Name: res/layout/golf_course_board_screen_layout.xml
+SHA1-Digest: MjBViPkGi82DtS+0RNeZApqHO3Q=
+
+Name: res/drawable/com_facebook_profile_picture_blank_portrait.png
+SHA1-Digest: 9kGOeq/tVClWE7Lz9AgjtukRZnQ=
+
+Name: res/drawable/unselected_circle.png
+SHA1-Digest: qXBknuy0PFNmSmlc5m5axIGb01g=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_dark.9
+ .png
+SHA1-Digest: HzOQHYhhJxxzbZqK40hTgOfRhlo=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: FkxxTiMZkZMXGXmeMfd02TtKL64=
+
+Name: res/layout/email_photo_dialog.xml
+SHA1-Digest: jqgg1OgJdepQR5Cbz6jGHqD4FZw=
+
+Name: res/layout/event_detail_layout.xml
+SHA1-Digest: K+rSn8QolRGo1SLn8Y/1ZIKneio=
+
+Name: res/drawable/com_facebook_picker_list_selector.xml
+SHA1-Digest: C2bV4kQM07tWGTCrQ3SoP5eS1I8=
+
+Name: res/drawable/top_tab_src.xml
+SHA1-Digest: dFLWUTjtf/s8cc4VQgN1MHffKjE=
+
+Name: res/drawable/right_arrow_white.png
+SHA1-Digest: jYrGUJJaI/JuVrbCmlnAcqOSBTE=
+
+Name: res/layout/datepickerbar_layout.xml
+SHA1-Digest: EELxGosdQPeH6TT+thG9GrEGp7k=
+
+Name: res/drawable-mdpi/bt_mastercard.png
+SHA1-Digest: hN1ujKSIOM2mlX4ezhPHIBVWvDU=
+
+Name: res/drawable/com_facebook_list_divider.9.png
+SHA1-Digest: 45BAgKtOkC0fHYqIunSXrQ8YubM=
+
+Name: res/drawable/around_us_map_icon.png
+SHA1-Digest: mjLtgYFYHNzOm24zeBklcakk1c8=
+
+Name: res/drawable/com_facebook_close.png
+SHA1-Digest: FDOOYcRoxfXB5QdY1YikzqT7kx8=
+
+Name: res/drawable-mdpi/bt_maestro.png
+SHA1-Digest: z5jvLbb9VZReeltxXn4MZ4YxLdM=
+
+Name: res/drawable/com_facebook_loginbutton_silver.xml
+SHA1-Digest: eAnmI0bb4uLxflNOmPnroayRrnE=
+
+Name: res/drawable/time_arrow_separator.png
+SHA1-Digest: 3B0dOT6LshjrwFmBuFwtiRuX83M=
+
+Name: res/layout/add_comments_layout.xml
+SHA1-Digest: ckotZGrAjfd+vR586RgEKRKzgSg=
+
+Name: res/layout/car_finder_layout.xml
+SHA1-Digest: GLyaojwr7+wMF2YGGwjp4YQhy4M=
+
+Name: res/drawable/bt_white_with_border_background.xml
+SHA1-Digest: UIRH4KpeJjmHkMgSG9UNZ0rjxp8=
+
+Name: res/anim/show_tell_friends_dialog.xml
+SHA1-Digest: qgrnnnV1jXMQ7vxl+mvg7JytSug=
+
+Name: res/drawable/comment_default_icon.png
+SHA1-Digest: HQQqJSImGqt6fxP+KsuLn6mV7cc=
+
+Name: res/drawable-xxhdpi/powered_by_google_light.png
+SHA1-Digest: i1ZTqep+pgKdIhB18Xwu3c7KrFI=
+
+Name: res/drawable-mdpi/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: vgTn+pEQhSLa5buaCqjDd3w3UWU=
+
+Name: res/layout/loyalty_v2_perk_item_row.xml
+SHA1-Digest: sKq684Xmu3m0FAEd5+4Timp5IdM=
+
+Name: res/drawable/custom_info_item_bg.9.png
+SHA1-Digest: eCW4esG1n36iS0jitcPgQ15n2m4=
+
+Name: res/layout/around_us_row.xml
+SHA1-Digest: YbEjYZ+CM2cy0oODp5cds9HAqek=
+
+Name: res/layout/reservation_detail_layout.xml
+SHA1-Digest: KPwgvoJFWDeNsGxFfwwwmH2TgNs=
+
+Name: res/layout/golf_course_hole_details_gps_item_layout.xml
+SHA1-Digest: BF9xExxirsl4cE0OiCHl4wycjzM=
+
+Name: res/drawable/arrow_up.png
+SHA1-Digest: 9+LY699cw5Z4+CuwtJsyNEGXwIk=
+
+Name: res/layout/notepad_edit_view.xml
+SHA1-Digest: lfbUCsFzRToFpQyHJDP8DOD4ot0=
+
+Name: res/drawable/pin.png
+SHA1-Digest: 7o7ZkIlny3lCsVgCA68Vn6amtyk=
+
+Name: res/drawable/top_tab_selected.png
+SHA1-Digest: xn3OSlbV3NltxWYXhvPybwWQGUM=
+
+Name: res/layout/rss_row.xml
+SHA1-Digest: ngCCQ5auSSY8qaZCroUeamUEbsc=
+
+Name: res/drawable-mdpi/com_facebook_tooltip_blue_bottomnub.png
+SHA1-Digest: nwY5X6Bv/3Ez85yyuwRVb3KkfWI=
+
+Name: res/drawable/around_us_red_button_bg.png
+SHA1-Digest: 83NJf7+jzvzMY+oYqPqpGufikck=
+
+Name: res/drawable/number_of_people.png
+SHA1-Digest: qtmUSKcW45wP6DsrWN6JbaH73CQ=
+
+Name: res/drawable/arrow.png
+SHA1-Digest: 8xqNsxAfN7dMFPgsF8CBNXt0ZrY=
+
+Name: res/drawable-xhdpi/share_icon.png
+SHA1-Digest: V3WOMZUsgpkdPBYpPl1Vlyxv8ug=
+
+Name: res/layout/custom_toast_layout.xml
+SHA1-Digest: Dz0KdOmnGFC+b03GaogvywWv7kU=
+
+Name: res/drawable/book_step2.png
+SHA1-Digest: aU/DSzD9+SRsrafyWGxAkoK/Y/Q=
+
+Name: res/drawable/add_person_bg.xml
+SHA1-Digest: aYCyg5usT9klQNpMJ504Bq7wACs=
+
+Name: res/drawable/button_toggle_center_long.9.png
+SHA1-Digest: BhymIofZ6OeZ9gk95xqMZO88kKs=
+
+Name: res/layout/list_event_comment_item.xml
+SHA1-Digest: d0Aqj5geb8Zk832obG+gjKJRDsM=
+
+Name: res/drawable/ic_popup_sync_1.png
+SHA1-Digest: tHEWJX8ULMZ28NYU1tX4x/dwPyw=
+
+Name: res/layout/navigation_bar.xml
+SHA1-Digest: v9g8BGOYSyHIcL60yHTWn25iTOw=
+
+Name: res/drawable/new_fanwall_comment_bg.png
+SHA1-Digest: 7l8QsHaD5kavnyA+5hOV4XaHEL4=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: vGictS/UYFmX8tbz7DG/BKWlA1A=
+
+Name: res/layout/bt_card_form_fields.xml
+SHA1-Digest: /ccxSmw5NV0fu/tnVijNWxUuAyg=
+
+Name: res/drawable/medium_button_long_spotted_bright.png
+SHA1-Digest: KFclHvFdK4+FLKJ9FGP5Ynutztg=
+
+Name: res/drawable/reseller_btn_type.png
+SHA1-Digest: k3YgoDHhlKXBBwtsCwc5+jhfogk=
+
+Name: res/layout/fo_category_confirmation_dialog.xml
+SHA1-Digest: fUbQat461tXu7XhcBJSjzis/RjE=
+
+Name: res/layout/golf_course_hole_details_edit_score_layout.xml
+SHA1-Digest: 4SBYhY/JbFNd8R2ahegdHv/ucNQ=
+
+Name: res/layout/menu_row.xml
+SHA1-Digest: +ClTFAiVjI3A06T/4HdHs9nYM4o=
+
+Name: res/drawable-hdpi/ic_plusone_standard_off_client.png
+SHA1-Digest: 3M2Hwey0trjQpX8kpVoQgSeehjY=
+
+Name: res/drawable/tip_progress_thumb.png
+SHA1-Digest: PvbqyqI1F5N7LwCUKe0mnY/Tf98=
+
+Name: res/drawable/turn_circle2.png
+SHA1-Digest: DD4DddceWk/tD6WfzcQfiJSw8V8=
+
+Name: res/anim/anim_popup_slide_top.xml
+SHA1-Digest: X3vV5+U9T2NrQd6q1QuQa+44/BI=
+
+Name: res/layout/bt_payment_button.xml
+SHA1-Digest: AzCmyUZPvMimB4TfXiYGS1hbtyI=
+
+Name: res/drawable-xhdpi/ic_table_header_tag.png
+SHA1-Digest: +1QnKGmNi7WozdETVtfHZev+92Q=
+
+Name: res/drawable/arrow_vertical.png
+SHA1-Digest: VBtRT2Ky5UM9osUH8EPwp7eVYAE=
+
+Name: res/color/common_signin_btn_text_dark.xml
+SHA1-Digest: ckaqNTJ/ssip8CgamPeJDHKpJUc=
+
+Name: res/layout/youtube_detail_layout.xml
+SHA1-Digest: iUVpcrXtklYyf7Hzk7mpB4oPpCM=
+
+Name: res/layout/calendar_cell.xml
+SHA1-Digest: vVdVkSxJpspv8MEqRZWgnZ+tK88=
+
+Name: res/drawable/player_audio_image.png
+SHA1-Digest: EpYrEeHVD8XMiJ3eWcHb5C+Vlk4=
+
+Name: res/drawable-mdpi/powered_by_google_light.png
+SHA1-Digest: ZTHLPZe63ATwVGAlXju4hnecsME=
+
+Name: res/layout/fo_cart_item.xml
+SHA1-Digest: chZ/fGPJTOkJqfshQ9vATfsindM=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: dV3F0Sz7MxTs+Trhe4uXp7Q7aSs=
+
+Name: res/drawable/medium_button.png
+SHA1-Digest: hYNlfKmB27Y/og0Fu00vUhbu22A=
+
+Name: res/layout/fo_my_address.xml
+SHA1-Digest: CgMK/VK6NrS69UFbv9zhytREsVA=
+
+Name: res/drawable/button_white_bg_touchable.xml
+SHA1-Digest: eOG1fuiMkzqcA7YR5eSJCb3Klw0=
+
+Name: res/layout/com_facebook_login_activity_layout.xml
+SHA1-Digest: h1tLBzNBNeEFtjBVm39XNvU3D2Q=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: UbXqMwM30HBljuHn+la04UPzB1Y=
+
+Name: res/layout/sub_tab_layout.xml
+SHA1-Digest: iGM2eeCr4wq9hP73LgLAZwI5cQM=
+
+Name: res/drawable-xhdpi/scorecard_score_selector.png
+SHA1-Digest: aT5eIqoeic1AewfrUxOFXC4Z+ho=
+
+Name: res/drawable/logo.png
+SHA1-Digest: VGDfqU9KOPfSI/KCnmPBWE0B6bU=
+
+Name: res/drawable/around_us_left_button.png
+SHA1-Digest: mld0fkLv/IKCZd8nDuFBRMTT5HQ=
+
+Name: res/drawable/fo_list_icon.png
+SHA1-Digest: RBGOwbcfDSxFYNY0ZiBqKENbGHo=
+
+Name: res/drawable-hdpi/bt_paypal.png
+SHA1-Digest: 19WRAJ3Sxw0BIw7WS8aJUW9WeHI=
+
+Name: res/drawable/loyalty_approved_stamp.png
+SHA1-Digest: Wk/iv8pty7zy1o+B4YLqxm+GGYU=
+
+Name: res/layout/service_history_cell.xml
+SHA1-Digest: e515UypySqlcRXs8UNM0v2qHmZI=
+
+Name: res/drawable/gray_arrow_next.png
+SHA1-Digest: rZzh9GtzvttP4637YsajwxQAuJQ=
+
+Name: res/layout/bt_loading_header.xml
+SHA1-Digest: QoQ9Mq1ee17DkW60vA8wIDy1QvU=
+
+Name: res/drawable/search.9.png
+SHA1-Digest: E8V73hKhxk3Gf0k0uTVwZcSuP6g=
+
+Name: res/layout/circle_image.xml
+SHA1-Digest: MP/aOBTPjuBEAIgiXVSOAe8Ejcc=
+
+Name: res/drawable/rightarrow.png
+SHA1-Digest: 5tNmgR2v/z1y9FFq1Br1G4Zi/TQ=
+
+Name: org/apache/http/entity/mime/version.properties
+SHA1-Digest: CqrMWUR95EajYQjTl2Vaz91vKFo=
+
+Name: res/drawable/button_toggle_active_left.png
+SHA1-Digest: iJp9TL162pzNd7Hsj5kJKns8e34=
+
+Name: res/drawable/locations.png
+SHA1-Digest: E+3O7rtMOfeUPRgPlEVVIcPPGOQ=
+
+Name: res/layout/home_slider_list_row.xml
+SHA1-Digest: Mn8yG6584IU4rBzRR96cO8/E3bI=
+
+Name: res/drawable/favorite_icon.png
+SHA1-Digest: xKeEav4b8s/w1TtWb6s89se4JPY=
+
+Name: res/drawable/tip_container_bottom_bg.9.png
+SHA1-Digest: IKv2KwsFpl9JuoE4dOlhFi1oTyI=
+
+Name: res/drawable/com_facebook_button_check_off.png
+SHA1-Digest: NDLFyRfWjBjm9xCkOlx9fqTCMug=
+
+Name: res/drawable/message_web_icon.png
+SHA1-Digest: dlDf8EfgyDgN2YxZ1ZI8dBA/ypQ=
+
+Name: res/drawable/loyalty_title_box.png
+SHA1-Digest: zpmEhoqIqOjulx9RHEegyjTS6yo=
+
+Name: res/drawable-mdpi/bt_paypal.png
+SHA1-Digest: mqefgnQ5zx2T2fSZ96y+mbqmwwM=
+
+Name: res/layout/golf_course_game_item_layout.xml
+SHA1-Digest: oJSCxDkPve4NFsHDEE966NNd1As=
+
+Name: res/drawable/rs_map_dialog_bg.png
+SHA1-Digest: IpGVFcXNbBzdCG/FGSRmrjxcOO8=
+
+Name: res/drawable/qr_scanner_image.png
+SHA1-Digest: pWlVpmfpgkN9WdALDtSYXl16X0M=
+
+Name: res/anim/hide_tell_friends_dialog.xml
+SHA1-Digest: m76m0zRVAs+r5+iV0VrVXZyBQwM=
+
+Name: res/drawable/button_toggle_right_long.9.png
+SHA1-Digest: aBWs4lZg7IqV9EGdAsiGippcUB4=
+
+Name: res/drawable-xhdpi/common_ic_done.png
+SHA1-Digest: fompM76cUk3+yuskHEgxWrbnilg=
+
+Name: res/drawable/near_by_passive.9.png
+SHA1-Digest: PJxhNgwvy8XEdYxSA3RTfCwiv8M=
+
+Name: res/layout/youtube_detail_comment_item.xml
+SHA1-Digest: t//F/xNo34iSHSmSi/slOZBf334=
+
+Name: res/drawable-mdpi/bt_diners.png
+SHA1-Digest: Xb2o2v8b1gHItg4uUXNpCo9T1ng=
+
+Name: res/drawable/rounded_edittext.xml
+SHA1-Digest: fzxVwsfrbZkh9XeK7jgkUt+RFes=
+
+Name: res/drawable/fo_past_orders_icon.png
+SHA1-Digest: Q/mgxWChi3JGXsrY5nI2DM1lKZg=
+
+Name: res/color/wallet_secondary_text_holo_dark.xml
+SHA1-Digest: e6Hf3fVcstXlQu40CrRoEGqWQFQ=
+
+Name: res/drawable-xhdpi/com_facebook_inverse_icon.png
+SHA1-Digest: JlToIy/BS1SwLA3JoedKEQBE76E=
+
+Name: res/layout/golf_course_board_frozen_column_header_item_layout.xm
+ l
+SHA1-Digest: cpCwydZG61bYt0GVfK2d+asHhiw=
+
+Name: res/drawable-mdpi/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: VSw7l3gn6Xmrfp6USiW4t6QJmPw=
+
+Name: res/drawable/button_gray_selected.9.png
+SHA1-Digest: JnHx8nhYlBaw4T1Riv/578KR8Os=
+
+Name: res/drawable/trash2.png
+SHA1-Digest: T2nDJQK6a+n4c41ESxr/xi1dtyQ=
+
+Name: res/drawable/youtube_icon.png
+SHA1-Digest: 0oHljQeBAlRzXTodv3xdghesg9Y=
+
+Name: res/layout/fo_category_quantity_dialog.xml
+SHA1-Digest: dj6gpz4lIml6cEyRfoLbWiQfMGo=
+
+Name: res/layout/fo_option_item.xml
+SHA1-Digest: O+U8Bn9ZuxELyKRZlEhm68hGGKU=
+
+Name: res/layout/tell_friend_layout.xml
+SHA1-Digest: evp396x4vrhWdCTg0sVkNemP4vc=
+
+Name: res/drawable/around_us_info_icon.png
+SHA1-Digest: D5weE0PKg6UrnflH9E8yK5cfIIc=
+
+Name: res/layout/real_estate_detail_layout.xml
+SHA1-Digest: EPD+rzQfm8vXlcOR8ENR+9Dm3JE=
+
+Name: res/layout/com_facebook_tooltip_bubble.xml
+SHA1-Digest: q6MvmUY8eVz8kMTrkkrc/TzqZzs=
+
+Name: res/drawable-hdpi/bt_cid_highlighted.png
+SHA1-Digest: RvoeLE7scKb2EPTlLAn5NSKTtpk=
+
+Name: res/layout/qr_coupon_row.xml
+SHA1-Digest: tpdrNiQYQcepo3UFOOSxyQsAceI=
+
+Name: res/drawable/map_mode_right_selected.9.png
+SHA1-Digest: dE1eMHq0mk9ERWUTuiIZMpWIR2A=
+
+Name: res/layout/list_event_item.xml
+SHA1-Digest: xiHdePs3qTwWLk8+6rrxqTpbjlY=
+
+Name: res/anim/show_navigation_container.xml
+SHA1-Digest: KapomF8fLGSjJ6FeoIsfhZO2GIc=
+
+Name: res/drawable/com_facebook_list_section_header_background.9.png
+SHA1-Digest: UlppTzQMf0S8p04nUqt4qCBKRF0=
+
+Name: res/drawable/alarm_on.png
+SHA1-Digest: qRDX5G0iQg51AxcdNupNP5Dk138=
+
+Name: res/drawable-hdpi/com_facebook_inverse_icon.png
+SHA1-Digest: 2IKuzG1QMycYYLdEWoHnQDoZ07E=
+
+Name: res/drawable/play_next.png
+SHA1-Digest: MwBXojF6m+F+FebO6U2H/MLUU6E=
+
+Name: res/layout/single_fragment_layout.xml
+SHA1-Digest: H4lEqgmVnFrlir8rJ7tZBaTEiIc=
+
+Name: res/drawable/shopping_cart.png
+SHA1-Digest: OwW0Zx6f57ShkTDpnnxTbQ/gvEU=
+
+Name: res/layout/progress_button_view.xml
+SHA1-Digest: vl3twQp+ZRnZnWHMuIGv0g94O6E=
+
+Name: res/drawable/search_bar_bg.9.png
+SHA1-Digest: tqA2JRRov7yh3YXbDIz5ABa/5eM=
+
+Name: res/drawable/player_collapse.png
+SHA1-Digest: pOhef5b/GBWYtez2RqHpdVOCZHE=
+
+Name: res/drawable/login_bg.png
+SHA1-Digest: J7jZFfbjgvZtJA6FMikth5yKgqE=
+
+Name: res/drawable/icon_border.png
+SHA1-Digest: dhzSXnGd7x99Klc0AA9/FB3BQIg=
+
+Name: res/drawable/playlist_gallery_icon.png
+SHA1-Digest: b/O9jBRJC3Ww0/bLjaKj0958CFY=
+
+Name: res/drawable/add_person.png
+SHA1-Digest: 6u/7LYpaAKM4BvfkYt5UK0yH+OE=
+
+Name: res/drawable-xhdpi/ic_current_game.png
+SHA1-Digest: +Q1PIjeYl5ESkPWeE6LV3zd2WI4=
+
+Name: res/layout/common_list_layout.xml
+SHA1-Digest: FzC+dafHorgUkQ+OcdUVT4yFSV8=
+
+Name: res/drawable/direction_icon.png
+SHA1-Digest: Ywt/qMk4gMUfwrC2kItj89sfsf4=
+
+Name: res/drawable/wheel_test.png
+SHA1-Digest: I8eqfJrJVUP82b6lgKsb1X/E9bI=
+
+Name: res/drawable-hdpi/powered_by_google_dark.png
+SHA1-Digest: I/G/mu9XuPJTzwp/WdZLjQ6xTfg=
+
+Name: res/layout/reservation_main_layout.xml
+SHA1-Digest: Y1B2T90R8xcK/GmciFKfNk6Ty+Y=
+
+Name: res/drawable/email_photo_icon.png
+SHA1-Digest: 8ZMp4b9oIrC1yaGCFGOYNyBe7U4=
+
+Name: res/drawable/email_us_icon.png
+SHA1-Digest: oiH77ICKWWSzKQPxQ6HVi+P0RX8=
+
+Name: res/drawable/tip_percentage.png
+SHA1-Digest: RtK/ul6gBMrynHG5ZHE/I2K/G3k=
+
+Name: res/drawable/com_facebook_usersettingsfragment_background_gradie
+ nt.xml
+SHA1-Digest: UudkMujfDbVwQrl+1pBZ2WIJ8ro=
+
+Name: res/drawable/favorite_tab_icon.png
+SHA1-Digest: PGO6nOqTemyoKMMDtliwodRp91Q=
+
+Name: res/drawable-hdpi/common_signin_btn_text_disabled_focus_dark.9.p
+ ng
+SHA1-Digest: YmWnuLFTsxsuwRBtvQiQ6Y6KnsI=
+
+Name: res/drawable/map_mode_left.9.png
+SHA1-Digest: 4PgKUSvIlJGx7tdxcFmS0y5sBOc=
+
+Name: res/layout/loyalty_card_layout.xml
+SHA1-Digest: WoYFlZmZmFPSz8DcJb6Zt4cbfNQ=
+
+Name: res/layout/new_fan_wall_detail_item.xml
+SHA1-Digest: 5N+n5uwghGeWrJyLlmPiXF2A8D0=
+
+Name: res/layout/info_detail_new_layout.xml
+SHA1-Digest: STo8PpjBy9AZPHMKv4XTZwGAkXw=
+
+Name: res/layout/news_item_layout.xml
+SHA1-Digest: NflNqlKaTbDBhgZCkxheNez0chY=
+
+Name: res/drawable/datepickerbar_right.png
+SHA1-Digest: EL+Ulv7fGL/HNtvLFUMwMardy+g=
+
+Name: res/layout/common_email_login_dialog.xml
+SHA1-Digest: 8f/f4L66ylSLJS1Ybl4MgTnCa8Q=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: AvIKUupgrO+uCBiDS6ZrbT37poE=
+
+Name: res/drawable-xhdpi/com_facebook_tooltip_blue_background.9.png
+SHA1-Digest: UxtR3fPuyJujOVvsGtNCp15qHok=
+
+Name: res/drawable/button_toggle_center.xml
+SHA1-Digest: FWNn7K9RQWkmr6Ullo3fvs2i0sY=
+
+Name: res/layout/playlist_album_bar.xml
+SHA1-Digest: w4YuTbl/lxuePqdKQem1Ht34gVU=
+
+Name: res/drawable-hdpi/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: BPO7rZUizcNQMnWeRsW2OCnWgH4=
+
+Name: resources.arsc
+SHA1-Digest: TopUhkj398kSm76x2BdKFM/6d6c=
+
+Name: res/drawable/calendar.png
+SHA1-Digest: jdKvSai/lksdLtSXDEQCVv3+gxI=
+
+Name: res/layout/common_layout_simple_list_item3.xml
+SHA1-Digest: JqQ9UFth3x08T6PwnCBirH0hfP8=
+
+Name: res/drawable/plus_icon.png
+SHA1-Digest: 3A54KWshpLtR6OgSxq8YTr5OncI=
+
+Name: res/drawable/loyalty_icon_perk_unavailable_consumed_overlay.png
+SHA1-Digest: ba5+cp9IsDDyZThNmxzllNRhy70=
+
+Name: res/drawable-hdpi/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: Wx/93xRl4fEGrkADqVPH6ShswfU=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: eAdVXtk/TEzSgB4P3wNlpGbfp5g=
+
+Name: res/drawable/around_us_purple_icon_bg.png
+SHA1-Digest: mtLNytBobYUwKOCCkU892UMTfu4=
+
+Name: res/drawable/com_facebook_button_grey_normal.9.png
+SHA1-Digest: kZ9314YgSZHYcEuP+vXCuujxd48=
+
+Name: res/layout/cart_animation_container.xml
+SHA1-Digest: q+0rysh7fJz6D2WEc006/PFEM4g=
+
+Name: res/drawable/rs_item_detail_bg.png
+SHA1-Digest: gSFctrZozAXN0UzJZgCbheRiuB0=
+
+Name: res/layout/music_album_row.xml
+SHA1-Digest: 9yfnu1sEDt18sQimgrIx30Gtl5k=
+
+Name: res/drawable/comments_icon.png
+SHA1-Digest: Y9QNwZF8KoSq7e8DFxRTkY6spDg=
+
+Name: res/layout/gallery_album_row.xml
+SHA1-Digest: Fl80eFhApXwG76MSZ/aEkVk6Mcc=
+
+Name: res/layout/coupon_item_map_dialog.xml
+SHA1-Digest: vt0SgJhEDMNhQM4LL4jJ9HJItV0=
+
+Name: res/layout/list_event_v2_item.xml
+SHA1-Digest: fAfZWTbLAfUjfI1SI+LrQv3TYzE=
+
+Name: res/drawable-mdpi/com_facebook_button_blue_normal.9.png
+SHA1-Digest: plzlqLb7elFLaBIIHG8jVWFUnfU=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: ZDogSdlgVekmFIAbKguvig7+XGg=
+
+Name: res/drawable/common_signin_btn_icon_light.xml
+SHA1-Digest: VVPpOIkIXKESIxO4+F9+oBqaMmE=
+
+Name: res/drawable/coupons_icon_clock.png
+SHA1-Digest: wC8wDWZC+2JKPt++a+bgW+L+DZk=
+
+Name: res/layout/bt_payment_description.xml
+SHA1-Digest: XA3Zv5Bv/ahVXMyE+PA78uPGrB4=
+
+Name: res/layout/event_detail_going_tab.xml
+SHA1-Digest: LmVMDWXnzOoLoFYk5nkEdzFjcUI=
+
+Name: res/layout/common_dialog_layout.xml
+SHA1-Digest: /NzXzw7D8Ce4L4ZJVZ2whVPAUyY=
+
+Name: res/drawable/com_facebook_top_button.xml
+SHA1-Digest: x6kLU4IAY/kwnaPbyz+BFbsRuqc=
+
+Name: res/drawable-xhdpi/common_ic_edit.png
+SHA1-Digest: ES4ithT5YLnm0nP1puEc6ch2aOQ=
+
+Name: res/drawable-xhdpi/bt_card_highlighted.png
+SHA1-Digest: bocTAgRxJWGgR7TQ+cyaqLAZpP8=
+
+Name: res/drawable/voice_tab_send.png
+SHA1-Digest: bTXzZ9Tyat6OKyyiEt7BG7GcGJE=
+
+Name: res/drawable-xhdpi/powered_by_google_dark.png
+SHA1-Digest: psVwTFCoE8L/YbYPXiTtAelEWs8=
+
+Name: res/layout/fo_category_item_row.xml
+SHA1-Digest: jcYRslLJp4mBB1uZDl74UEs5uFI=
+
+Name: res/drawable/common_signin_btn_text_dark.xml
+SHA1-Digest: p4MFrVwrIR9NCvAUeuFluChoTms=
+
+Name: res/drawable/radar.png
+SHA1-Digest: mqxA//OXOt9UIPwnIK4IGCj8kLM=
+
+Name: res/drawable/com_facebook_button_blue_pressed.9.png
+SHA1-Digest: +tjTExmZ1lk9Ox0aZm5rNcUPoFY=
+
+Name: res/layout/around_map_dialog.xml
+SHA1-Digest: 24cAAJRALhw6m0MaJCfdNmuty4Y=
+
+Name: res/drawable/reservation_appt_list_img1.png
+SHA1-Digest: jc/Tewhb0grhEND+pEfz6bg6O5s=
+
+Name: res/layout/golf_course_game_screen_drawer_menu_layout.xml
+SHA1-Digest: 4RYA3BuBkD/3F/+A5oh77fiVlAU=
+
+Name: res/layout/home_menu_layout.xml
+SHA1-Digest: gvaHyf/4poXPizrqhxXHOx0mJfE=
+
+Name: res/drawable/player_progresshead.png
+SHA1-Digest: jFExTHcbjQDvsWE1mQVFB3ksJbg=
+
+Name: res/layout/fo_locations.xml
+SHA1-Digest: QYGBEl37oAwCUPsxAjJ5jq2xNgs=
+
+Name: res/drawable/button_gray.9.png
+SHA1-Digest: LxdRAmURS4nALPep++I2cLzZ90I=
+
+Name: res/layout/golf_course_overview_layout.xml
+SHA1-Digest: 3/68QlaLKKYlGXJFyl68byMOM1Q=
+
+Name: res/layout/coupon_row.xml
+SHA1-Digest: VJgEFHwUk6gCvFHiWAlT+AbxQ8Q=
+
+Name: res/layout/protected_layout.xml
+SHA1-Digest: Vd6n64SCVPbF7cWaASm4yl5QIZU=
+
+Name: res/layout/fo_tax_item.xml
+SHA1-Digest: 4eW1KK7SE2Y5cckq6tyOfsl17mw=
+
+Name: res/drawable-xhdpi/bt_paypal.png
+SHA1-Digest: tH/7CQZbiuHuYZFo/k0kwv+UsFQ=
+
+Name: res/layout/search_list_layout.xml
+SHA1-Digest: l+pcwBJwqynPGb9RTIl5obg/PAU=
+
+Name: res/drawable/tip_right_button_selected.png
+SHA1-Digest: jz2ekfnQirn8lq2xghyzBCPpqfk=
+
+Name: res/layout/rss_list_layout.xml
+SHA1-Digest: pssNGOecwSld3QPfHu3vjpFSf2Q=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: HlSxw8q2TxVN28UussUGRFFbn8k=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: QvCsDHmHTCeFtKK23z0HRetpRJI=
+
+Name: res/anim/cart_anim_in.xml
+SHA1-Digest: 9Ck+baGBFdkltzeFAWyG3zNPBhM=
+
+Name: res/drawable/sound_increase_icon.png
+SHA1-Digest: d824+ErlLeZ0aO/fprDPwJ9C9t4=
+
+Name: res/drawable-xhdpi/bt_error.png
+SHA1-Digest: Se1RtDa1u/2aExqX12A/Li8E660=
+
+Name: res/drawable/bt_paypal_button_background.xml
+SHA1-Digest: G4CU4DVfP7HHd/Kt2fx1ba3lcrQ=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: UsY+c7jSRS1f1aEh0HgE8187rLI=
+
+Name: res/drawable/com_facebook_button_blue_focused.9.png
+SHA1-Digest: rZf/vriiPguZZUS/3ww/w7LJ8fo=
+
+Name: res/drawable/arrow_left_disabled.png
+SHA1-Digest: RoINxZ+GM3gtoFxIP03Z5Cf48J4=
+
+Name: res/drawable-mdpi/bt_cid_highlighted.png
+SHA1-Digest: w/7HW0C7KBQgPoQ901gBpZt9wQ8=
+
+Name: res/layout/search_layout.xml
+SHA1-Digest: 39gZ5bgmlQ/7Gu4SLU/FaeG57pc=
+
+Name: res/drawable/row_separator.png
+SHA1-Digest: xByJ80tw672s4ncyE+WQFC6qLsQ=
+
+Name: res/drawable/bottom_tab_selected.png
+SHA1-Digest: 8nLqAW/kY1LAvAnZlINvhF8hQO4=
+
+Name: res/drawable/tip_left_button_selected.png
+SHA1-Digest: L+OrMOrRUUBKq15lphkqsWLlHdw=
+
+Name: res/drawable-xxhdpi/bt_android_pay.png
+SHA1-Digest: Y1BlWTgqAXVdyJzDl7YmzdPLclk=
+
+Name: res/drawable-mdpi/com_facebook_inverse_icon.png
+SHA1-Digest: F87dFjM8iCRCeWSfrxkG/jcMtZY=
+
+Name: res/layout/fo_landing_screen.xml
+SHA1-Digest: hR8Qy+VIaFw0Ki1ETp6SkHodMoo=
+
+Name: res/drawable/reseller_app_bg.png
+SHA1-Digest: sCjj4pNeSpnIeomuIUV+KGSSZqo=
+
+Name: res/drawable/camera.png
+SHA1-Digest: qEgEevHp2gklpKHinavm/RD2VTU=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: dAIabshO7sf8DA0quqZILhJ5V4A=
+
+Name: res/drawable/loyalty_icon_tick_odd.png
+SHA1-Digest: VrtRGEUHPgU88LZwjGTxveayIf8=
+
+Name: res/drawable-xxhdpi/bt_secure.png
+SHA1-Digest: nbPvNHQKL2ZH76AsvknXWtCOeRQ=
+
+Name: res/drawable/favorite_icon_selected.png
+SHA1-Digest: XqyXsqy6kDGmJ4nNATqiVmD+QKI=
+
+Name: res/layout/mortgage_calculator_layout_new.xml
+SHA1-Digest: PU0KkZuQ4fEycwPV1BYcMZHrvlI=
+
+Name: res/drawable/button_toggle_passive_right.png
+SHA1-Digest: KxoJ5fv5OZU+CAVoKtbivjZ9wNE=
+
+Name: res/drawable/com_facebook_button_grey_pressed.9.png
+SHA1-Digest: P0wPjAW7g0+CwVv4YccsLFHlsh0=
+
+Name: res/drawable/website_icon.png
+SHA1-Digest: ZcgBiVF7EAONGyz+O3NW1e4JCe8=
+
+Name: res/drawable-xhdpi/powered_by_google_light.png
+SHA1-Digest: 1PCeD4X7eVLdr2+EB4poVTq1PZw=
+
+Name: res/drawable/fog_bg.png
+SHA1-Digest: dLY6kn18I27EWVPpb39/HXOX2Xc=
+
+Name: res/drawable/button_toggle_active_right.png
+SHA1-Digest: 67HYtiB7Ghb7+/TZcUiwMYgFMwU=
+
+Name: res/drawable/vertical_loyalty_line.png
+SHA1-Digest: 0ORqFcqa2jrufDd1rXjDkIlGSRY=
+
+Name: res/layout/youtube_login.xml
+SHA1-Digest: MTVkok/iG/DvjkNkgWyN9wk56dY=
+
+Name: res/layout/multiple_row.xml
+SHA1-Digest: JGQ/Rf5K4GWgQCjl8iWDjdIEKFc=
+
+Name: res/drawable/leftarrow.png
+SHA1-Digest: dPHb9BB12qUUaeZh+Uy/tofjmyI=
+
+Name: res/drawable-xhdpi/com_facebook_tooltip_black_xout.png
+SHA1-Digest: GRVPhQjnqMlZsnYF1YFKphQHJm0=
+
+Name: res/layout/swipey_tab_indicator.xml
+SHA1-Digest: Z1/5yclQNgnxPSrduGwSpxycGh4=
+
+Name: res/drawable-hdpi/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: CdS2JYcO2aYMRPs8uE6z0+hK3SA=
+
+Name: res/layout/fo_past_order_row.xml
+SHA1-Digest: zEWxT8w1Waz7baBhJxkiZxDcV/0=
+
+Name: res/drawable/event_v2_bottom.png
+SHA1-Digest: enkty8mGXZDTzIgIirX8e3zio/M=
+
+Name: res/drawable/playlist_verticle_column.png
+SHA1-Digest: 7WOfDR1AuVG97O0z6o2/5Ol6Hr0=
+
+Name: res/drawable/coupon_locked.png
+SHA1-Digest: d3JB4YVh+zT3zFegRuxADmJFoaE=
+
+Name: res/layout/sharing_text_dialog.xml
+SHA1-Digest: WfUwDbGWEXAETHDUfxebzmmgQn4=
+
+Name: res/drawable/seek_thumb_selected.png
+SHA1-Digest: KmjrhPqeMhAxO9hvPC+BLdntAO4=
+
+Name: res/color/wallet_primary_text_holo_light.xml
+SHA1-Digest: DfE0QlmQhBfJVEaK7063nJvOrts=
+
+Name: res/drawable/loyalty_icon_perk_unavailable.png
+SHA1-Digest: 9ziCazP6fmRaxcJmOiz4awzklmQ=
+
+Name: res/drawable-xhdpi/bt_visa.png
+SHA1-Digest: LF7/5KObAs667S1jqXx6uuzWRU0=
+
+Name: res/drawable/ic_pulltorefresh_arrow.png
+SHA1-Digest: XjAcnnQPWovquTqetEwXVlRNZQE=
+
+Name: res/drawable/white_round_rect.xml
+SHA1-Digest: JKZ+gZ9roM5si4g6OCCEDkF2Rds=
+
+Name: res/drawable-xhdpi/com_facebook_tooltip_blue_topnub.png
+SHA1-Digest: L9JqjqdpgNFaMjHf+kD+OSxZ8t4=
+
+Name: res/drawable-hdpi/com_facebook_button_grey_focused.9.png
+SHA1-Digest: xw3C3hxhbAqRc7fZEiHwllptNuM=
+
+Name: res/drawable/add_person_selected.png
+SHA1-Digest: xXUtUjsTaLG41Bi9GoMkuCeFQSc=
+
+Name: res/drawable/bt_loading_animation.xml
+SHA1-Digest: c+WAm3hEJEYptYUbS/nCWxSf0Bs=
+
+Name: res/anim/fade_in.xml
+SHA1-Digest: 3t9Ygz41PchVKzY1tTH9ToX+nuI=
+

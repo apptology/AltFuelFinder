@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/list_view_root" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_gravity="center_vertical" android:id="@id/tab_title_container" android:paddingTop="@dimen/common_padding_small2" android:paddingRight="@dimen/common_padding_small2" android:paddingBottom="@dimen/common_padding_small2" android:layout_width="fill_parent" android:layout_height="@dimen/tab_title_height">
+        <TextView android:id="@id/tab_title_text" android:layout_width="wrap_content" android:layout_centerInParent="true" style="@style/TabTitleTextStyle" />
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_alignParentTop="true" android:layout_alignParentRight="true">
+            <ImageView android:id="@id/ivDone" android:padding="@dimen/common_padding_small0" android:layout_width="@dimen/tab_icon_size" android:layout_height="@dimen/tab_icon_size" android:src="@drawable/common_ic_done" />
+            <ImageView android:id="@id/ivDelete" android:padding="@dimen/common_padding_small0" android:layout_width="@dimen/tab_icon_size" android:layout_height="@dimen/tab_icon_size" android:layout_marginLeft="@dimen/common_padding_small1" android:layout_marginRight="@dimen/common_padding_small1" android:src="@drawable/trash" />
+        </LinearLayout>
+    </RelativeLayout>
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ScrollView android:id="@id/scrollView" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true" android:isScrollContainer="false">
+            <LinearLayout android:orientation="vertical" android:id="@id/llScrollView" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        </ScrollView>
+        <include android:id="@id/gender_picker" layout="@layout/wheel_container_layout" />
+        <include android:id="@id/tee_picker" layout="@layout/wheel_container_layout" />
+        <include android:id="@id/handicap_picker" layout="@layout/wheel_container_layout" />
+    </FrameLayout>
+</LinearLayout>

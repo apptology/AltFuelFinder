@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/list_view_root" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <RelativeLayout android:layout_gravity="center_vertical" android:id="@id/tab_title_container" android:layout_width="fill_parent" android:layout_height="@dimen/tab_title_height">
+            <TextView android:id="@id/tab_title_text" android:layout_width="wrap_content" android:layout_centerInParent="true" style="@style/TabTitleTextStyle" />
+            <ImageButton android:id="@id/qr_scan_button" android:background="@null" android:visibility="gone" android:layout_width="30.0dip" android:layout_height="30.0dip" android:layout_marginRight="10.0dip" android:src="@drawable/icon_photo" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+        </RelativeLayout>
+        <include layout="@layout/ads_layout" />
+    </LinearLayout>
+    <com.biznessapps.widgets.RefreshableListView android:id="@id/list_view" android:background="@android:color/transparent" android:focusable="false" android:scrollbars="vertical" android:fadingEdge="none" android:descendantFocusability="beforeDescendants" android:layout_width="fill_parent" android:layout_height="0.0dip" android:cacheColorHint="@android:color/transparent" android:divider="@drawable/list_divider" android:dividerHeight="2.0dip" android:layout_weight="1.0" />
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="horizontal" android:id="@id/coupons_gps_checkin" android:background="@drawable/footer_bg_line" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/footer_bar_height">
+        <TextView android:ellipsize="end" android:gravity="center_vertical" android:id="@id/checkin_location_text" android:layout_width="0.0dip" android:layout_height="@dimen/button_height" android:layout_marginLeft="5.0dip" android:layout_marginRight="5.0dip" android:singleLine="true" android:layout_weight="1.0" style="@style/OrdinaryWhiteText" />
+        <ImageButton android:layout_gravity="right|center" android:id="@id/checkin_button" android:background="@drawable/gps_checkin_icon" android:layout_width="@dimen/choose_account_button_size" android:layout_height="@dimen/choose_account_button_size" android:layout_marginRight="15.0dip" />
+    </LinearLayout>
+</LinearLayout>

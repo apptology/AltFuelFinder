@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="horizontal" android:id="@id/vgItem" android:background="@color/white" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:ellipsize="end" android:id="@id/tvSizeAdjuster" android:paddingLeft="@dimen/common_padding_small1" android:paddingRight="@dimen/common_padding_small1" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="200" android:maxLines="1" />
+    <TextView android:textColor="@color/black" android:ellipsize="end" android:gravity="center" android:id="@id/tvValue" android:paddingLeft="@dimen/common_padding_small1" android:paddingRight="@dimen/common_padding_small1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:layout_centerInParent="true" />
+</RelativeLayout>

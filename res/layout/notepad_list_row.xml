@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="@dimen/info_item_row_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="@dimen/info_item_row_height" android:layout_weight="1.0">
+        <TextView android:textSize="@dimen/ordinary_text_size" android:textColor="@color/notepad_title" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/note_title" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginLeft="15.0dip" android:layout_marginRight="20.0dip" android:singleLine="true" android:layout_weight="1.0" />
+        <TextView android:textSize="@dimen/ordinary_text_size" android:gravity="right|center" android:id="@id/note_date" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_marginBottom="5.0dip" />
+    </LinearLayout>
+    <TextView android:textSize="@dimen/ordinary_text_size" android:gravity="bottom" android:id="@id/note_words_count" android:layout_width="wrap_content" android:layout_height="@dimen/info_item_row_height" android:layout_marginBottom="5.0dip" />
+    <ImageView android:layout_gravity="center" android:background="@drawable/right_arrow" android:layout_width="14.0dip" android:layout_height="20.0dip" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip" />
+</LinearLayout>

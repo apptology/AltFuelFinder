@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="vertical" android:id="@id/event_going_tab_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:id="@id/going_list_header" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="@dimen/footer_bar_height">
+            <TextView android:textSize="@dimen/ordinary_text_size" android:textStyle="bold" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/people_going_textview" android:layout_width="0.0dip" android:layout_height="@dimen/button_height" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip" android:singleLine="true" android:layout_weight="1.0" />
+        </LinearLayout>
+        <com.biznessapps.widgets.RefreshableListView android:id="@id/list_view" android:background="@android:color/transparent" android:focusable="false" android:scrollbars="vertical" android:fadingEdge="none" android:descendantFocusability="beforeDescendants" android:layout_width="fill_parent" android:layout_height="0.0dip" android:cacheColorHint="@android:color/transparent" android:divider="@drawable/list_divider" android:dividerHeight="2.0dip" android:layout_weight="1.0" />
+    </LinearLayout>
+    <include layout="@layout/social_network_dialog" />
+</FrameLayout>

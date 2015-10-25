@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:id="@id/tab_title_container" android:paddingTop="@dimen/common_padding_small2" android:paddingRight="@dimen/common_padding_small2" android:paddingBottom="@dimen/common_padding_small2" android:layout_width="fill_parent" android:layout_height="@dimen/tab_title_height">
+        <ImageView android:id="@id/ivDrawer" android:padding="@dimen/common_padding_small1" android:layout_width="@dimen/tab_icon_size" android:layout_height="@dimen/tab_icon_size" android:layout_marginLeft="@dimen/common_padding_small2" android:layout_marginRight="@dimen/common_padding_small1" android:src="@drawable/common_ic_drawer" android:scaleType="fitCenter" android:layout_centerVertical="true" />
+        <TextView android:id="@id/tab_title_text" android:layout_width="wrap_content" android:layout_centerInParent="true" style="@style/TabTitleTextStyle" />
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_alignParentTop="true" android:layout_alignParentRight="true">
+            <ImageView android:id="@id/ivEdit" android:padding="@dimen/common_padding_small1" android:layout_width="@dimen/tab_icon_size" android:layout_height="@dimen/tab_icon_size" android:layout_marginLeft="@dimen/common_padding_small2" android:layout_marginRight="@dimen/common_padding_small1" android:src="@drawable/common_ic_edit" android:scaleType="fitCenter" />
+            <ImageView android:id="@id/ivShare" android:padding="@dimen/common_padding_small1" android:layout_width="@dimen/tab_icon_size" android:layout_height="@dimen/tab_icon_size" android:layout_marginLeft="@dimen/common_padding_small2" android:layout_marginRight="@dimen/common_padding_small1" android:src="@drawable/share_icon" android:scaleType="fitCenter" />
+        </LinearLayout>
+    </RelativeLayout>
+    <include layout="@layout/ads_layout" />
+    <RelativeLayout android:id="@id/vgCourse" android:padding="@dimen/common_padding_small2" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.biznessapps.widgets.SquareImageView android:id="@id/ivCourseThumb" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/add_person" android:layout_alignTop="@id/vgDescription" android:layout_alignBottom="@id/vgDescription" app:ratio_by_width="false" />
+        <LinearLayout android:orientation="vertical" android:id="@id/vgDescription" android:padding="@dimen/common_padding_small2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toRightOf="@id/ivCourseThumb" android:layout_alignParentRight="true">
+            <TextView android:id="@id/tvScorecard" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/score_card" />
+            <TextView android:id="@id/tvCourseName" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Kananaski Country Golf Course" />
+        </LinearLayout>
+    </RelativeLayout>
+    <com.biznessapps.golfcourse.SmartTableView android:id="@id/stScoreBoardView" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</LinearLayout>

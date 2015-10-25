@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/info_item_container" android:layout_width="fill_parent" android:layout_height="@dimen/info_item_row_height">
+        <ImageView android:layout_gravity="center_vertical" android:id="@id/row_icon" android:paddingLeft="1.0dip" android:paddingTop="2.0dip" android:paddingRight="1.0dip" android:paddingBottom="2.0dip" android:visibility="gone" android:layout_width="@dimen/thumbnail_size" android:layout_height="@dimen/thumbnail_size" android:layout_marginLeft="10.0dip" />
+        <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+            <TextView android:textSize="@dimen/ordinary_text_size" android:textColor="#ff000000" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/title_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_marginRight="20.0dip" android:lines="2" />
+            <TextView android:textSize="@dimen/ordinary_text_size" android:textColor="#ff000000" android:id="@id/checkin_text_even" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginRight="5.0dip" android:layout_marginBottom="5.0dip" android:drawableLeft="@drawable/loyalty_icon_tick_even" android:drawablePadding="7.0dip" />
+            <TextView android:textSize="@dimen/ordinary_text_size" android:textColor="#ff000000" android:id="@id/checkin_text_odd" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginRight="5.0dip" android:layout_marginBottom="5.0dip" android:drawableLeft="@drawable/loyalty_icon_tick_even" android:drawablePadding="7.0dip" />
+        </LinearLayout>
+        <ImageView android:layout_gravity="center_vertical" android:id="@id/right_arrow_view" android:background="@drawable/right_arrow" android:layout_width="14.0dip" android:layout_height="20.0dip" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip" />
+    </LinearLayout>
+</LinearLayout>

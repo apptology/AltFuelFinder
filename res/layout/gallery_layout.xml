@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#ff333333" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <RelativeLayout android:layout_gravity="center_vertical" android:id="@id/tab_title_container" android:layout_width="fill_parent" android:layout_height="@dimen/tab_title_height">
+            <TextView android:id="@id/tab_title_text" android:layout_width="wrap_content" android:layout_centerInParent="true" style="@style/TabTitleTextStyle" />
+            <ImageButton android:gravity="center" android:id="@id/slideshow_button" android:background="@drawable/slideshow_icon" android:layout_width="20.0dip" android:layout_height="20.0dip" android:layout_marginRight="10.0dip" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+        </RelativeLayout>
+        <include layout="@layout/ads_layout" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/gallery_root" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <com.biznessapps.widgets.TabGallery android:layout_gravity="center_vertical" android:id="@id/gallery_view_coverflow" android:background="@android:color/transparent" android:paddingTop="5.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="15.0dip" android:spacing="-20.0dip" />
+        <GridView android:gravity="center" android:id="@id/gallery_view" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:stretchMode="columnWidth" android:columnWidth="@dimen/gallery_item_size" android:numColumns="auto_fit" />
+    </LinearLayout>
+</LinearLayout>

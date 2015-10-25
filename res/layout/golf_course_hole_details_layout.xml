@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="vertical" android:id="@id/list_view_root" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <RelativeLayout android:layout_gravity="center_vertical" android:id="@id/tab_title_container" android:paddingTop="@dimen/common_padding_small2" android:paddingRight="@dimen/common_padding_small2" android:paddingBottom="@dimen/common_padding_small2" android:layout_width="fill_parent" android:layout_height="@dimen/tab_title_height">
+            <TextView android:id="@id/tab_title_text" android:layout_width="wrap_content" android:layout_centerInParent="true" style="@style/TabTitleTextStyle" />
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_alignParentLeft="false" android:layout_alignParentTop="true" android:layout_alignParentRight="true">
+                <ImageView android:id="@id/ivPrev" android:padding="@dimen/common_padding_small0" android:layout_width="@dimen/tab_icon_size" android:layout_height="@dimen/tab_icon_size" android:src="@drawable/common_ic_nav_back" />
+                <FrameLayout android:paddingRight="@dimen/common_padding_small1" android:layout_width="wrap_content" android:layout_height="fill_parent">
+                    <ImageView android:layout_gravity="center" android:id="@id/ivNext" android:padding="@dimen/common_padding_small0" android:layout_width="@dimen/tab_icon_size" android:layout_height="@dimen/tab_icon_size" android:layout_marginLeft="@dimen/common_padding_medium" android:layout_marginRight="@dimen/common_padding_medium" android:src="@drawable/common_ic_nav_forward" />
+                    <TextView android:textAppearance="?android:textAppearanceMedium" android:layout_gravity="center" android:id="@id/tvFinish" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/finish" />
+                </FrameLayout>
+            </LinearLayout>
+        </RelativeLayout>
+        <include layout="@layout/ads_layout" />
+        <ScrollView android:id="@id/scrollView" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true">
+            <LinearLayout android:orientation="vertical" android:id="@id/vgContent" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <RelativeLayout android:orientation="horizontal" android:id="@id/vgCommon" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <ImageView android:id="@id/ivHoleThumbnail" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignTop="@id/llHoleDetails" android:layout_alignBottom="@id/llHoleDetails" />
+                    <LinearLayout android:orientation="vertical" android:id="@id/llHoleDetails" android:padding="@dimen/common_padding_small2" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                        <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+                            <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="fill_parent">
+                                <TextView android:textAppearance="?android:textAppearanceSmall" android:layout_gravity="center_horizontal" android:id="@id/tvStaticPar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/par" />
+                                <TextView android:textAppearance="?android:textAppearanceMedium" android:layout_gravity="center_horizontal" android:id="@id/tvPar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="4" />
+                            </LinearLayout>
+                            <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/common_padding_medium">
+                                <TextView android:textAppearance="?android:textAppearanceSmall" android:layout_gravity="center_horizontal" android:id="@id/tvStaticHandicap" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/handicap" />
+                                <TextView android:textAppearance="?android:textAppearanceMedium" android:layout_gravity="center_horizontal" android:id="@id/tvHandicap" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="1" />
+                            </LinearLayout>
+                        </LinearLayout>
+                        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:paddingRight="@dimen/common_padding_medium" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/common_padding_small0">
+                            <TextView android:textAppearance="?android:textAppearanceSmall" android:id="@id/tvStaticTees" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/tees" />
+                            <TextView android:textAppearance="?android:textAppearanceMedium" android:id="@id/tvTee1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/common_padding_small1" android:text="416" />
+                            <TextView android:textAppearance="?android:textAppearanceMedium" android:id="@id/tvTee2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/common_padding_small1" android:text="384" />
+                            <TextView android:textAppearance="?android:textAppearanceMedium" android:id="@id/tvTee3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/common_padding_small1" android:text="341" />
+                            <TextView android:textAppearance="?android:textAppearanceMedium" android:id="@id/tvTee4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/common_padding_small1" android:text="366" />
+                        </LinearLayout>
+                    </LinearLayout>
+                    <ImageView android:id="@id/ivZoom" android:padding="@dimen/common_padding_small2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/search_icon" android:layout_alignBottom="@id/llHoleDetails" android:layout_alignParentRight="true" />
+                </RelativeLayout>
+                <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+                    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                        <LinearLayout android:id="@id/vgTabs" android:layout_width="fill_parent" android:layout_height="@dimen/tab_title_height">
+                            <Button android:ellipsize="end" android:id="@id/btInfo" android:background="@drawable/top_tab_src" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/info" android:singleLine="true" android:layout_weight="1.0" style="@style/TabButtonStyle" />
+                            <Button android:ellipsize="end" android:id="@id/btGPS" android:background="@drawable/top_tab_src" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/gps" android:singleLine="true" android:layout_weight="1.0" style="@style/TabButtonStyle" />
+                            <Button android:ellipsize="end" android:id="@id/btScore" android:background="@drawable/top_tab_src" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/score" android:singleLine="true" android:layout_weight="1.0" style="@style/TabButtonStyle" />
+                        </LinearLayout>
+                        <FrameLayout android:id="@id/vgTabDetails" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                            <ScrollView android:id="@id/svInfo" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true">
+                                <LinearLayout android:orientation="vertical" android:id="@id/vgInfo" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                                    <com.biznessapps.widgets.SmartWebView android:textAppearance="?android:textAppearanceSmall" android:id="@id/webInfo" android:padding="@dimen/common_padding_small1" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                                </LinearLayout>
+                            </ScrollView>
+                            <ScrollView android:id="@id/svGPS" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true">
+                                <LinearLayout android:orientation="vertical" android:id="@id/vgGPS" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                            </ScrollView>
+                            <ScrollView android:id="@id/svScore" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true">
+                                <LinearLayout android:orientation="vertical" android:id="@id/vgScore" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                                    <LinearLayout android:orientation="horizontal" android:id="@id/vgScoreHeader" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                                        <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="@color/black" android:gravity="center_vertical" android:id="@id/tvStaticPlayer" android:padding="@dimen/common_padding_medium" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/player" android:layout_weight="5.0" />
+                                        <FrameLayout android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="3.0">
+                                            <Button android:textAppearance="?android:textAppearanceSmall" android:textColor="@color/white" android:id="@id/btAddScore" android:background="@color/light_grey" android:padding="@dimen/common_padding_small2" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/add_score" />
+                                            <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="@color/black" android:gravity="center" android:id="@id/tvStaticScore" android:padding="@dimen/common_padding_medium" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/score" />
+                                        </FrameLayout>
+                                    </LinearLayout>
+                                    <LinearLayout android:orientation="vertical" android:id="@id/vgScoreList" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                                </LinearLayout>
+                            </ScrollView>
+                        </FrameLayout>
+                    </LinearLayout>
+                    <include android:id="@id/scorePuttsPopupWindow" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/golf_course_hole_details_edit_score_layout" />
+                </FrameLayout>
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+</FrameLayout>

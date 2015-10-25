@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_gravity="center_vertical" android:id="@id/tab_title_container" android:layout_width="fill_parent" android:layout_height="@dimen/tab_title_height">
+        <TextView android:id="@id/tab_title_text" android:layout_width="wrap_content" android:layout_centerInParent="true" style="@style/TabTitleTextStyle" />
+        <ImageView android:id="@id/share_button" android:layout_alignParentRight="true" android:layout_centerVertical="true" style="@style/ShareButtonStyle" />
+    </RelativeLayout>
+    <FrameLayout android:id="@id/contact_layout" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="@dimen/contact_map_height">
+            <fragment android:name="com.google.android.gms.maps.MapFragment" android:id="@id/mapview_v2" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+            <LinearLayout android:layout_gravity="bottom" android:orientation="vertical" android:background="#50000000" android:paddingTop="10.0dip" android:paddingBottom="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:textSize="@dimen/ordinary_text_size" android:textColor="#ffffffff" android:gravity="center_horizontal" android:layout_gravity="bottom" android:id="@id/title_address_label" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/BigBlackText" />
+            </LinearLayout>
+        </FrameLayout>
+        <ScrollView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/contact_map_height" android:layout_marginBottom="@dimen/footer_bar_height">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/contact_layout_margin" android:layout_marginTop="@dimen/contact_layout_top_margin" android:layout_marginRight="@dimen/contact_layout_margin">
+                    <ImageView android:layout_gravity="center_vertical" android:id="@id/image_left_box" android:background="@drawable/contact_detail_box_image" android:layout_width="0.0dip" android:layout_height="@dimen/contact_tab_image_height" android:layout_marginRight="7.0dip" android:scaleType="centerCrop" android:adjustViewBounds="true" android:layout_weight="1.0" />
+                    <ImageView android:layout_gravity="center_vertical" android:id="@id/image_right_box" android:background="@drawable/contact_detail_box_image" android:layout_width="0.0dip" android:layout_height="@dimen/contact_tab_image_height" android:scaleType="centerCrop" android:adjustViewBounds="true" android:layout_weight="1.0" />
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical" android:id="@id/opening_hours_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/container_margin_leftright" android:layout_marginTop="@dimen/container_margin_leftright" android:layout_marginRight="@dimen/container_margin_leftright">
+                    <LinearLayout android:orientation="horizontal" android:id="@id/header_container" android:background="@drawable/rs_container_closed" android:layout_width="fill_parent" android:layout_height="@dimen/nagivation_height">
+                        <TextView android:textStyle="bold" android:textColor="#ff000000" android:gravity="center_vertical" android:layout_gravity="center_vertical" android:id="@id/header" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_marginLeft="5.0dip" android:text="@string/opening_hours" android:layout_weight="1.0" style="@style/OrdinaryText" />
+                        <ImageView android:layout_gravity="center_vertical" android:id="@id/arrow_navigation" android:background="@drawable/arrow_down" android:layout_width="40.0dip" android:layout_height="40.0dip" />
+                    </LinearLayout>
+                    <LinearLayout android:orientation="vertical" android:id="@id/data_container" android:background="@drawable/rs_container_opened" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/container_margin_leftright">
+                        <com.biznessapps.widgets.RefreshableListView android:id="@id/list_view" android:background="@android:color/transparent" android:focusable="false" android:scrollbars="vertical" android:fadingEdge="none" android:descendantFocusability="beforeDescendants" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginRight="2.0dip" android:layout_marginBottom="3.0dip" android:cacheColorHint="@android:color/transparent" android:dividerHeight="0.0dip" />
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical" android:id="@id/comments_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/container_margin_leftright" android:layout_marginTop="@dimen/container_margin_leftright" android:layout_marginRight="@dimen/container_margin_leftright" android:layout_marginBottom="@dimen/container_margin_leftright">
+                    <LinearLayout android:orientation="horizontal" android:id="@id/header_container" android:background="@drawable/rs_container_closed" android:layout_width="fill_parent" android:layout_height="@dimen/nagivation_height">
+                        <TextView android:textStyle="bold" android:textColor="#ff000000" android:gravity="center_vertical" android:layout_gravity="center_vertical" android:id="@id/header" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_marginLeft="5.0dip" android:text="@string/comments" android:layout_weight="1.0" style="@style/OrdinaryText" />
+                        <ImageView android:layout_gravity="center_vertical" android:id="@id/arrow_navigation" android:background="@drawable/arrow_down" android:layout_width="40.0dip" android:layout_height="40.0dip" />
+                    </LinearLayout>
+                    <LinearLayout android:orientation="horizontal" android:id="@id/data_container" android:background="@drawable/rs_container_opened" android:paddingRight="2.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                        <include layout="@layout/comments_layout_custom_bottom" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+        <LinearLayout android:layout_gravity="bottom" android:orientation="horizontal" android:id="@id/contact_buttons_container" android:layout_width="fill_parent" android:layout_height="@dimen/footer_bar_height">
+            <TextView android:textSize="@dimen/ordinary_text_size" android:textColor="#ffffffff" android:gravity="bottom|center" android:id="@id/call_us_button" android:paddingTop="3.0dip" android:paddingBottom="2.0dip" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/call_us" android:drawableTop="@drawable/call_us_icon" android:layout_weight="1.0" style="@style/OrdinaryText" />
+            <TextView android:textSize="@dimen/ordinary_text_size" android:textColor="#ffffffff" android:gravity="bottom|center" android:id="@id/direction_button" android:paddingTop="3.0dip" android:paddingBottom="2.0dip" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/directions" android:drawableTop="@drawable/direction_icon" android:layout_weight="1.0" style="@style/OrdinaryText" />
+            <TextView android:textSize="@dimen/ordinary_text_size" android:textColor="#ffffffff" android:gravity="bottom|center" android:id="@id/email_us_button" android:paddingTop="3.0dip" android:paddingBottom="2.0dip" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/email" android:drawableTop="@drawable/email_us_icon" android:layout_weight="1.0" style="@style/OrdinaryText" />
+            <TextView android:textSize="@dimen/ordinary_text_size" android:textColor="#ffffffff" android:gravity="bottom|center" android:id="@id/view_website_button" android:paddingTop="3.0dip" android:paddingBottom="2.0dip" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/view_website" android:drawableTop="@drawable/website_icon" android:layout_weight="1.0" style="@style/OrdinaryText" />
+        </LinearLayout>
+        <include layout="@layout/ads_layout" />
+        <LinearLayout android:layout_gravity="bottom" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <include layout="@layout/social_network_dialog" />
+        </LinearLayout>
+    </FrameLayout>
+    <LinearLayout android:layout_gravity="bottom" android:orientation="horizontal" android:id="@id/progress_bar_container" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</LinearLayout>

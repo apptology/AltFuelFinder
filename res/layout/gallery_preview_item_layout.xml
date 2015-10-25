@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:gravity="center" android:layout_gravity="center_vertical" android:orientation="vertical" android:id="@id/tab_title_container" android:layout_width="fill_parent" android:layout_height="@dimen/tab_title_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.biznessapps.widgets.TouchImageView android:id="@id/preview_image_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.biznessapps.widgets.SmartWebView android:gravity="center_horizontal" android:layout_gravity="bottom|center" android:id="@id/gallery_text_preview" android:background="#58000000" android:visibility="gone" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginRight="20.0dip" android:layout_marginBottom="20.0dip" />
+    <ProgressBar android:layout_gravity="center" android:id="@id/progressBar" android:layout_width="wrap_content" android:layout_height="wrap_content" style="?android:attr/progressBarStyleLarge" />
+</FrameLayout>

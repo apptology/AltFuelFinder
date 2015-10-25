@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/list_view_root" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:gravity="center_vertical" android:layout_gravity="center_vertical" android:id="@id/tab_title_container" android:layout_width="fill_parent" android:layout_height="@dimen/tab_title_height">
+            <TextView android:id="@id/tab_title_text" android:paddingLeft="@dimen/common_padding_small0" android:layout_width="0.0dip" android:layout_marginRight="@dimen/common_padding_small1" android:layout_weight="1.0" style="@style/TabTitleTextStyle" />
+            <ImageView android:id="@id/share_button" style="@style/ShareButtonStyle" />
+        </LinearLayout>
+        <include layout="@layout/ads_layout" />
+    </LinearLayout>
+    <FrameLayout android:id="@id/vgLayoutStack" android:padding="@dimen/common_padding_small2" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ScrollView android:id="@id/vgLoyalty" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@id/scrollLayout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <ImageView android:id="@id/loyalty_header_image" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/header_image_height" android:layout_marginBottom="@dimen/container_margin_leftright" android:scaleType="centerCrop" />
+                <LinearLayout android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@id/vgThumbnail" android:background="@drawable/loyalty_white_border_round_rect" android:paddingTop="@dimen/common_padding_small2" android:paddingBottom="@dimen/common_padding_small2" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <ImageView android:layout_gravity="right" android:id="@id/ivInfo" android:layout_width="@dimen/common_padding_large" android:layout_height="@dimen/common_padding_large" android:layout_marginRight="@dimen/common_padding_small2" android:src="@drawable/loyalty_icon_info" />
+                    <LinearLayout android:gravity="center_horizontal" android:id="@id/vgProfile" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                        <FrameLayout android:id="@id/vgProfileImage" android:layout_width="@dimen/loyalty_perk_list_thumbnail_size" android:layout_height="@dimen/loyalty_perk_list_thumbnail_size">
+                            <ImageView android:id="@id/ivBorder" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/comment_default_icon" />
+                            <com.biznessapps.widgets.LoaderImageView android:id="@id/ivProfileImage" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="1.0dip" android:src="@drawable/ic_anonymous_avatar" android:adjustViewBounds="true" />
+                        </FrameLayout>
+                        <TextView android:textAppearance="?android:textAppearanceLarge" android:layout_gravity="center_vertical" android:id="@id/tvProfileName" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/common_padding_medium" android:text="Ryan Szot" />
+                    </LinearLayout>
+                    <RelativeLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                        <FrameLayout android:layout_gravity="center" android:orientation="vertical" android:id="@id/vgGauge" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true">
+                            <com.biznessapps.loyalty.LoyaltyV2GaugeView android:layout_gravity="center" android:id="@id/gaugeView" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                            <TextView android:textAppearance="?android:textAppearanceLarge" android:textSize="@dimen/loyalty_arc_cur_value_text_size" android:layout_gravity="center" android:id="@id/tvPoint" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="40 Pts" />
+                        </FrameLayout>
+                        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignLeft="@id/vgGauge" android:layout_alignTop="@id/vgGauge" android:layout_alignRight="@id/vgGauge" android:layout_alignBottom="@id/vgGauge">
+                            <View android:id="@id/view3" android:layout_width="wrap_content" android:layout_height="0.0dip" android:layout_weight="8.0" />
+                            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="2.0">
+                                <View android:id="@id/view1" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="3.0" />
+                                <Button android:layout_gravity="center" android:id="@id/btStamp" android:background="@drawable/medium_button" android:layout_width="150.0dip" android:layout_height="@dimen/big_button_height" android:text="@string/stamp" android:layout_weight="3.0" />
+                                <View android:id="@id/view2" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="3.0" />
+                            </LinearLayout>
+                        </LinearLayout>
+                    </RelativeLayout>
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical" android:id="@id/vgPerks" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/common_padding_medium" />
+                <LinearLayout android:orientation="vertical" android:id="@id/vgActivities" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/common_padding_medium">
+                    <LinearLayout android:orientation="horizontal" android:id="@id/header_container" android:background="@drawable/rs_container_closed" android:padding="@dimen/common_padding_small1" android:layout_width="fill_parent" android:layout_height="@dimen/nagivation_height">
+                        <TextView android:textStyle="bold" android:textColor="#ff000000" android:gravity="center_vertical" android:layout_gravity="center_vertical" android:id="@id/header" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_marginLeft="5.0dip" android:text="@string/activity" android:layout_weight="1.0" style="@style/OrdinaryText" />
+                        <ImageView android:layout_gravity="center_vertical" android:id="@id/arrow_navigation" android:background="@drawable/arrow_up" android:layout_width="40.0dip" android:layout_height="40.0dip" />
+                    </LinearLayout>
+                    <LinearLayout android:orientation="horizontal" android:id="@id/data_container" android:background="@drawable/rs_container_opened" android:paddingRight="2.0dip" android:paddingBottom="3.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                        <com.biznessapps.widgets.RefreshableListView android:layout_gravity="center_horizontal" android:id="@id/list_view" android:background="@android:color/transparent" android:focusable="false" android:scrollbars="vertical" android:fadingEdge="none" android:descendantFocusability="beforeDescendants" android:layout_width="fill_parent" android:layout_height="wrap_content" android:cacheColorHint="@android:color/transparent" android:dividerHeight="0.0dip" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+        <LinearLayout android:layout_gravity="top" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <include layout="@layout/social_network_dialog" />
+        </LinearLayout>
+        <include android:id="@id/vgInfo" android:visibility="gone" layout="@layout/loyalty_v2_info" />
+    </FrameLayout>
+</LinearLayout>

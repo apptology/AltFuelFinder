@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tab_title_height">45.0dip</dimen>
+    <dimen name="tab_icon_size">30.0dip</dimen>
+    <dimen name="footer_bar_height">55.0dip</dimen>
+    <dimen name="nagivation_height">45.0dip</dimen>
+    <dimen name="more_item_icon_size">40.0dip</dimen>
+    <dimen name="contact_tab_image_height">60.0dip</dimen>
+    <dimen name="thumbnail_size">50.0dip</dimen>
+    <dimen name="thumbnail_size_small">40.0dip</dimen>
+    <dimen name="home_icon_size">60.0dip</dimen>
+    <dimen name="button_height">40.0dip</dimen>
+    <dimen name="container_margin_leftright">10.0dip</dimen>
+    <dimen name="contact_map_height">165.0dip</dimen>
+    <dimen name="image_gallery_size">60.0px</dimen>
+    <dimen name="image_list_size">40.0px</dimen>
+    <dimen name="image_thumbnail_size">120.0px</dimen>
+    <dimen name="loyalty_seekbar_height">25.0dip</dimen>
+    <dimen name="mortgage_view_margin_top">6.0dip</dimen>
+    <dimen name="ordinary_text_size">13.0sp</dimen>
+    <dimen name="tip_view_margin_top">5.0dip</dimen>
+    <dimen name="com_facebook_picker_divider_width">1.0px</dimen>
+</resources>

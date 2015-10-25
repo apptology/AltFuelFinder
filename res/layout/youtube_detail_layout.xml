@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_gravity="center_vertical" android:id="@id/tab_title_container" android:layout_width="fill_parent" android:layout_height="@dimen/tab_title_height">
+        <TextView android:id="@id/tab_title_text" android:layout_width="wrap_content" android:layout_centerInParent="true" style="@style/TabTitleTextStyle" />
+        <ImageView android:id="@id/share_button" android:layout_alignParentRight="true" android:layout_centerVertical="true" style="@style/ShareButtonStyle" />
+    </RelativeLayout>
+    <include layout="@layout/ads_layout" />
+    <LinearLayout android:orientation="vertical" android:id="@id/data_container" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:id="@id/youtube_item_image" android:layout_width="fill_parent" android:layout_height="@dimen/youtube_detail_image_height" android:scaleType="fitXY" />
+            <ImageView android:layout_gravity="center" android:id="@id/youtube_play_item_image" android:layout_width="70.0dip" android:layout_height="50.0dip" android:src="@drawable/youtube_icon" />
+        </FrameLayout>
+        <LinearLayout android:gravity="top" android:orientation="horizontal" android:id="@id/event_new_buttons_container" android:padding="0.0dip" android:layout_width="fill_parent" android:layout_height="@dimen/tab_title_height">
+            <Button android:id="@id/event_new_comments_button" android:background="@drawable/top_tab_src" android:layout_width="0.0dip" android:text="@string/comments" android:layout_weight="1.0" style="@style/TabButtonStyle" />
+            <Button android:id="@id/event_new_info_button" android:background="@drawable/top_tab_src" android:layout_width="0.0dip" android:text="@string/info" android:layout_weight="1.0" style="@style/TabButtonStyle" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:orientation="vertical" android:id="@id/info_tab_container" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <com.biznessapps.widgets.RefreshableListView android:id="@id/info_list_view" android:background="@android:color/transparent" android:focusable="false" android:fadingEdge="none" android:descendantFocusability="beforeDescendants" android:layout_width="fill_parent" android:layout_height="wrap_content" android:cacheColorHint="@android:color/transparent" />
+                <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/youtube_data_container" android:paddingTop="10.0dip" android:paddingBottom="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <TextView android:textSize="@dimen/small_text_size" android:textColor="#ff000000" android:gravity="center_vertical" android:id="@id/view_count_text" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="10.0dip" android:drawableLeft="@drawable/youtube_icon_views" android:drawablePadding="1.0dip" />
+                    <TextView android:textSize="@dimen/small_text_size" android:textColor="#ff000000" android:gravity="center_vertical" android:id="@id/rating_average_text" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="20.0dip" android:drawableLeft="@drawable/youtube_icon_likes" android:drawablePadding="1.0dip" />
+                    <TextView android:textSize="@dimen/small_text_size" android:textColor="#ff000000" android:gravity="center_vertical" android:id="@id/count_hint_text" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="20.0dip" android:drawableLeft="@drawable/youtube_icon_comments" android:drawablePadding="1.0dip" />
+                </LinearLayout>
+                <WebView android:id="@id/webview" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            </LinearLayout>
+            <include layout="@layout/comments_layout" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

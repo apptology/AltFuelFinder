@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="horizontal" android:id="@id/news_feed_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/news_feed_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/ordinary_text_size" android:textStyle="bold" android:textColor="#ff000000" android:ellipsize="marquee" android:gravity="center_vertical" android:layout_gravity="center_vertical" android:id="@id/news_feed_view" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="30.0dip" android:layout_marginRight="2.0dip" android:scrollHorizontally="true" android:singleLine="true" android:marqueeRepeatLimit="marquee_forever" />
+    <ImageView android:id="@id/news_feed_icon" android:padding="5.0dip" android:layout_width="30.0dip" android:layout_height="30.0dip" android:src="@drawable/news_short_link_icon" />
+</FrameLayout>

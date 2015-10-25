@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <include layout="@layout/tab_title_bar" />
+        <include layout="@layout/ads_layout" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/account_container" android:background="@drawable/contact_section_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/container_margin_leftright" android:layout_marginTop="35.0dip" android:layout_marginRight="@dimen/container_margin_leftright" android:layout_marginBottom="@dimen/container_margin_leftright">
+        <TextView android:textColor="#ff000000" android:gravity="left" android:id="@id/recovery_label" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="5.0dip" android:text="@string/provide_email" style="@style/CommonButtonStyle" />
+        <ImageView android:background="#ff555555" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginTop="5.0dip" />
+        <EditText android:textSize="@dimen/ordinary_text_size" android:textColor="#ff000000" android:textColorHint="@color/text_hint_color" android:gravity="center_vertical" android:id="@id/user_email_text" android:background="@android:color/transparent" android:paddingTop="5.0dip" android:paddingBottom="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="5.0dip" android:hint="@string/email" android:inputType="textEmailAddress" />
+    </LinearLayout>
+    <Button android:textSize="@dimen/ordinary_text_size" android:layout_gravity="center_horizontal" android:id="@id/recovery_button" android:background="@drawable/medium_button_long" android:layout_width="fill_parent" android:layout_height="@dimen/big_button_height" android:layout_marginLeft="@dimen/reservation_main_button_margin" android:layout_marginRight="@dimen/reservation_main_button_margin" android:text="@string/recover_password" style="@style/CommonButtonStyle" />
+</LinearLayout>

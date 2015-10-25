@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="right" android:orientation="horizontal" android:id="@id/cart_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip">
+        <ImageView android:layout_gravity="right|center" android:id="@id/cart_view" android:padding="5.0dip" android:layout_width="45.0dip" android:layout_height="45.0dip" android:src="@drawable/fo_cart_icon" />
+        <FrameLayout android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="28.0dip" android:layout_marginRight="2.0dip">
+            <TextView android:textSize="@dimen/ordinary_text_size" android:ellipsize="end" android:gravity="center_vertical" android:layout_gravity="center" android:id="@id/cart_price_view" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="fill_parent" android:maxWidth="@dimen/fo_cart_text_width" android:singleLine="true" />
+            <TextView android:textSize="@dimen/ordinary_text_size" android:gravity="center_vertical" android:layout_gravity="center" android:id="@id/cart_items_quantity_view" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="fill_parent" />
+        </FrameLayout>
+    </LinearLayout>
+</merge>
